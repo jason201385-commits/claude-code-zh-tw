@@ -61,7 +61,7 @@
     {
       "en": " instead of Claude account subscription token. Either unset",
       "zh_cn": " 而非 Claude 账号订阅令牌。请取消设置",
-      "zh_tw": " 而非 Claude 賬號訂閱令牌。請取消設定"
+      "zh_tw": " 而非 Claude 帳號訂閱權杖。請取消設定"
     },
     {
       "en": " navigate · ",
@@ -186,7 +186,7 @@
     {
       "en": "Accept terms · Help improve Claude: OFF (for emails with your domain)",
       "zh_cn": "接受条款 · 帮助改进 Claude：关（适用于你的域名邮箱）",
-      "zh_tw": "接受條款 · 幫助改進 Claude：關（適用於你的域名郵箱）"
+      "zh_tw": "接受條款 · 幫助改進 Claude：關（適用於你的域名信箱）"
     },
     {
       "en": "Accept terms · Help improve Claude: ON",

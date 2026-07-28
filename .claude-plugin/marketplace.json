@@ -1,0 +1,16 @@
+{
+  "name": "easyknowai",
+  "owner": {
+    "name": "Jason Chiu(魯班)· easyknowai",
+    "url": "https://claude.easyknowai.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-zh-tw",
+      "source": "./",
+      "description": "Claude Code 繁中領航:小學堂畢業後的繁中護航包。繁中輸出、/zh-start 首航、/zh-doctor 健檢、三狗溝通層(花生/芝麻/湯圓),選配 UI 中文化詞表。",
+      "version": "0.2.0",
+      "author": { "name": "Jason Chiu(魯班)· easyknowai" }
+    }
+  ]
+}

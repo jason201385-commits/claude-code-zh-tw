@@ -89,7 +89,7 @@
   },
   {
     "en": " instead of Claude account subscription token. Either unset",
-    "zh": " 而非 Claude 賬號訂閱令牌。請取消設定"
+    "zh": " 而非 Claude 帳號訂閱權杖。請取消設定"
   },
   {
     "en": " navigate · ",
@@ -365,7 +365,7 @@
   },
   {
     "en": "Accept terms · Help improve Claude: OFF (for emails with your domain)",
-    "zh": "接受條款 · 幫助改進 Claude：關（適用於你的域名郵箱）"
+    "zh": "接受條款 · 幫助改進 Claude：關（適用於你的域名信箱）"
   },
   {
     "en": "Accept terms · Help improve Claude: ON",
@@ -481,11 +481,11 @@
   },
   {
     "en": "All background agents stopped",
-    "zh": "所有後臺 Agent 已停止"
+    "zh": "所有後台 Agent 已停止"
   },
   {
     "en": "Start the session as a background agent and return immediately (manage with `claude agents`)",
-    "zh": "以後臺 Agent 啟動工作階段並立即返回（用 `claude agents` 管理）"
+    "zh": "以後台 Agent 啟動工作階段並立即返回（用 `claude agents` 管理）"
   },
   {
     "en": "All plugins from our internal marketplace are vetted and approved.",
@@ -713,11 +713,11 @@
   },
   {
     "en": "Background process cannot read terminal input",
-    "zh": "後臺程序無法讀取終端輸入"
+    "zh": "後台程序無法讀取終端輸入"
   },
   {
     "en": "Background process cannot write to terminal output",
-    "zh": "後臺程序無法寫入終端輸出"
+    "zh": "後台程序無法寫入終端輸出"
   },
   {
     "en": "Background tasks",
@@ -741,7 +741,7 @@
   },
   {
     "en": "Bedrock API key (bearer token)",
-    "zh": "Bedrock API 金鑰（Bearer 令牌）"
+    "zh": "Bedrock API 金鑰（Bearer 權杖）"
   },
   {
     "en": "Bedrock base URL",
@@ -993,7 +993,7 @@
   },
   {
     "en": "Claude Code reads this from AWS_REGION, not ~/.aws/config — set it explicitly even if your profile has a region.",
-    "zh": "Claude Code 從 AWS_REGION 讀取此設定，而非 ~/.aws/config — 即使你的 profile 有 region 也需要顯式設定。"
+    "zh": "Claude Code 從 AWS_REGION 讀取此設定，而非 ~/.aws/config — 即使你的 profile 有 region 也需要明確設定。"
   },
   {
     "en": "Claude Code successfully installed!",
@@ -1021,7 +1021,7 @@
   },
   {
     "en": "Claude account with subscription ·",
-    "zh": "Claude 訂閱賬號 ·"
+    "zh": "Claude 訂閱帳號 ·"
   },
   {
     "en": "Claude can make mistakes",
@@ -1317,7 +1317,7 @@
   },
   {
     "en": "Contact your system administrator for more information.",
-    "zh": "聯絡系統管理員獲取更多資訊。"
+    "zh": "聯絡系統管理員取得更多資訊。"
   },
   {
     "en": "Contains warnings",
@@ -1417,7 +1417,7 @@
   },
   {
     "en": "Create a long-lived token with your Claude subscription",
-    "zh": "用 Claude 訂閱建立長期令牌"
+    "zh": "用 Claude 訂閱建立長期權杖"
   },
   {
     "en": "Create a new animation from scratch",
@@ -1989,11 +1989,11 @@
   },
   {
     "en": "Authenticate with an MCP server (HTTP, SSE, or claude.ai connector)",
-    "zh": "向 MCP 伺服器進行身份驗證（HTTP、SSE 或 claude.ai connector）"
+    "zh": "向 MCP 伺服器進行身分驗證（HTTP、SSE 或 claude.ai connector）"
   },
   {
     "en": "Clear stored OAuth credentials for an MCP server",
-    "zh": "清除 MCP 伺服器已儲存的 OAuth 憑據"
+    "zh": "清除 MCP 伺服器已儲存的 OAuth 憑證"
   },
   {
     "en": "Estimated usage by category",
@@ -2117,11 +2117,11 @@
   },
   {
     "en": "Fetching AWS caller identity for AWS auth refresh command",
-    "zh": "獲取 AWS 呼叫者身份用於 AWS 認證重新整理命令"
+    "zh": "取得 AWS 呼叫者身分用於 AWS 認證重新整理命令"
   },
   {
     "en": "Fetching AWS caller identity for credential export command",
-    "zh": "獲取 AWS 呼叫者身份用於憑證匯出命令"
+    "zh": "取得 AWS 呼叫者身分用於憑證匯出命令"
   },
   {
     "en": "Fetching session logs",
@@ -2129,7 +2129,7 @@
   },
   {
     "en": "Fetching web page",
-    "zh": "獲取網頁中"
+    "zh": "取得網頁中"
   },
   {
     "en": "Fetching your Claude Code sessions…",
@@ -2173,7 +2173,7 @@
   },
   {
     "en": "Fixed port for OAuth callback (for servers requiring pre-registered redirect URIs)",
-    "zh": "OAuth 回撥的固定埠（用於需要預註冊重定向 URI 的伺服器）"
+    "zh": "OAuth 回撥的固定埠（用於需要預註冊重新導向 URI 的伺服器）"
   },
   {
     "en": "Flagged on",
@@ -2261,7 +2261,7 @@
   },
   {
     "en": "Get the current weather for a location",
-    "zh": "獲取某地的目前天氣"
+    "zh": "取得某地的目前天氣"
   },
   {
     "en": "Getting branch info",
@@ -2385,7 +2385,7 @@
   },
   {
     "en": "If the redirect page shows a connection error, paste the URL from your browser's address bar:",
-    "zh": "如果重定向頁面顯示連線錯誤，請從瀏覽器位址列貼上 URL："
+    "zh": "如果重新導向頁面顯示連線錯誤，請從瀏覽器位址列貼上 URL："
   },
   {
     "en": "If this is a new task, clearing context will save usage and be faster.",
@@ -2549,7 +2549,7 @@
   },
   {
     "en": "Invalid response body, expected a web ReadableStream",
-    "zh": "無效的響應體，期望 Web ReadableStream"
+    "zh": "無效的回應主體，期望 Web ReadableStream"
   },
   {
     "en": "Keep worktree",
@@ -2869,7 +2869,7 @@
   },
   {
     "en": "Maximum number of redirects exceeded",
-    "zh": "超出最大重定向次數"
+    "zh": "超出最大重新導向次數"
   },
   {
     "en": "Memory files",
@@ -2905,7 +2905,7 @@
   },
   {
     "en": "More workflow examples (issue triage, CI fixes, etc.) at:",
-    "zh": "更多工作流示例（問題分流、CI 修復等）見："
+    "zh": "更多工作流範例（問題分流、CI 修復等）見："
   },
   {
     "en": "Morning (6-12)",
@@ -2937,7 +2937,7 @@
   },
   {
     "en": "NetworkError when attempting to fetch resource",
-    "zh": "嘗試獲取資源時發生網路錯誤"
+    "zh": "嘗試取得資源時發生網路錯誤"
   },
   {
     "en": "Never for",
@@ -3085,11 +3085,11 @@
   },
   {
     "en": "No response",
-    "zh": "無響應"
+    "zh": "無回應"
   },
   {
     "en": "No response.",
-    "zh": "無響應。"
+    "zh": "無回應。"
   },
   {
     "en": "No scheduled jobs",
@@ -3225,7 +3225,7 @@
   },
   {
     "en": "OAuth token",
-    "zh": "OAuth 令牌"
+    "zh": "OAuth 權杖"
   },
   {
     "en": "October 8, 2025",
@@ -3393,7 +3393,7 @@
   },
   {
     "en": "Pending response rejected since connection got disposed",
-    "zh": "待處理響應被拒絕，因為連線已被釋放"
+    "zh": "待處理回應被拒絕，因為連線已被釋放"
   },
   {
     "en": "Permission mode",
@@ -3561,7 +3561,7 @@
   },
   {
     "en": "Pre-populate email address on the login page",
-    "zh": "在登入頁面預填郵箱地址"
+    "zh": "在登入頁面預填信箱地址"
   },
   {
     "en": "Preceding messages will be summarized. This and subsequent messages will remain unchanged — you will stay at the end of the conversation.",
@@ -3649,7 +3649,7 @@
   },
   {
     "en": "Print live sessions as a JSON array and exit (for scripting; does not require a TTY)",
-    "zh": "以 JSON 陣列列印實時工作階段並離開（用於指令碼；不需要 TTY）"
+    "zh": "以 JSON 陣列列印即時工作階段並離開（用於指令碼；不需要 TTY）"
   },
   {
     "en": "Print active sessions as a JSON array and exit (for scripting; does not require a TTY)",
@@ -3773,11 +3773,11 @@
   },
   {
     "en": "Redirecting to authorization URL",
-    "zh": "正在重定向到授權 URL"
+    "zh": "正在重新導向到授權 URL"
   },
   {
     "en": "Redirection handling is disabled, skipping redirect",
-    "zh": "重定向處理已禁用，跳過重定向"
+    "zh": "重新導向處理已禁用，跳過重新導向"
   },
   {
     "en": "Reduce motion",
@@ -4033,7 +4033,7 @@
   },
   {
     "en": "Review changed code for reuse, quality, and efficiency, then fix any issues found.",
-    "zh": "檢視變更的程式碼（複用性、品質、效率），並修正問題"
+    "zh": "檢視變更的程式碼（重複使用性、品質、效率），並修正問題"
   },
   {
     "en": "Review your answers",
@@ -4277,7 +4277,7 @@
   },
   {
     "en": "Sending token request to endpoint:",
-    "zh": "正在向端點傳送令牌請求："
+    "zh": "正在向端點傳送權杖請求："
   },
   {
     "en": "Sent a message to",
@@ -4441,7 +4441,7 @@
   },
   {
     "en": "Show red arrows for drag actions (default: true)",
-    "zh": "為拖拽操作顯示紅色箭頭（預設：true）"
+    "zh": "為拖曳操作顯示紅色箭頭（預設：true）"
   },
   {
     "en": "Show remote session URL and QR code",
@@ -4485,7 +4485,7 @@
   },
   {
     "en": "Sign in with your Anthropic account",
-    "zh": "使用你的 Anthropic 賬號登入"
+    "zh": "使用你的 Anthropic 帳號登入"
   },
   {
     "en": "Sign out from your Anthropic account",
@@ -4541,7 +4541,7 @@
   },
   {
     "en": "Start with all customizations (CLAUDE.md, skills, plugins, hooks, MCP servers, custom commands and agents, output styles, workflows, custom themes, keybindings, and more) disabled \\u2014 useful for troubleshooting a broken configuration. Admin-managed (policy) settings still apply. Auth, model selection, built-in tools, and permissions work normally. Sets CLAUDE_CODE_SAFE_MODE=1.",
-    "zh": "啟動時禁用所有自訂內容（CLAUDE.md、skills、plugins、Hooks、MCP servers、自訂命令和 Agent、output styles、workflows、自訂主題、keybindings 等）——用於排查損壞設定。管理員託管（policy）設定仍會生效。認證、模型選擇、內建工具和權限正常工作。設定 CLAUDE_CODE_SAFE_MODE=1。"
+    "zh": "啟動時禁用所有自訂內容（CLAUDE.md、skills、plugins、Hooks、MCP servers、自訂命令和 Agent、output styles、workflows、自訂主題、keybindings 等）——用於排除損壞設定。管理員託管（policy）設定仍會生效。認證、模型選擇、內建工具和權限正常工作。設定 CLAUDE_CODE_SAFE_MODE=1。"
   },
   {
     "en": "Start fresh: discard the current conversation and context",
@@ -4561,7 +4561,7 @@
   },
   {
     "en": "Starting new login following /upgrade. Exit with Ctrl-C to use existing account.",
-    "zh": "/upgrade 後重新登入。按 Ctrl-C 使用現有賬號。"
+    "zh": "/upgrade 後重新登入。按 Ctrl-C 使用現有帳號。"
   },
   {
     "en": "Stash changes and continue",
@@ -4653,7 +4653,7 @@
   },
   {
     "en": "Switch Anthropic accounts",
-    "zh": "切換 Anthropic 賬號"
+    "zh": "切換 Anthropic 帳號"
   },
   {
     "en": "Switch to the Marketplaces tab to view allowed sources.",
@@ -4777,7 +4777,7 @@
   },
   {
     "en": "The body has already been consumed.",
-    "zh": "響應體已被消費。"
+    "zh": "回應主體已被消費。"
   },
   {
     "en": "The code has not changed (nothing will be restored).",
@@ -4929,7 +4929,7 @@
   },
   {
     "en": "Token refresh already in progress, reusing existing promise",
-    "zh": "Token 重新整理已在進行中，複用現有 promise"
+    "zh": "Token 重新整理已在進行中，重複使用現有 promise"
   },
   {
     "en": "Tokens per Day",
@@ -5205,11 +5205,11 @@
   },
   {
     "en": "Use this skill to configure the Claude Code harness via settings.json. Automated behaviors (\"from now on when X\", \"each time X\", \"whenever X\", \"before/after X\") require hooks configured in settings.json - the harness executes these, not Claude, so memory/preferences cannot fulfill them. Also use for: permissions (\"allow X\", \"add permission\", \"move permission to\"), env vars (\"set X=Y\"), hook troubleshooting, or any changes to settings.json/settings.local.json files. Examples: \"allow npm commands\", \"add bq permission to global settings\", \"move permission to user settings\", \"set DEBUG=true\", \"when claude stops show X\". For simple settings like theme/model, use Config tool.",
-    "zh": "使用此技能透過 settings.json 設定 Claude Code harness。自動化行為（“從現在起當 X”“每次 X”“每當 X”“在 X 之前/之後”）需要在 settings.json 中設定 Hook - 這些由 harness 執行，不是 Claude，因此記憶/偏好無法滿足它們。也用於：權限（“允許 X”“新增權限”“移動權限到”）、環境變數（“設定 X=Y”）、Hook 故障排查，或對 settings.json/settings.local.json 的任何修改。示例：“允許 npm 命令”“向全域性設定新增 bq 權限”“將權限移到使用者設定”“設定 DEBUG=true”“當 claude 停止時顯示 X”。對於主題/模型這類簡單設定，請使用 Config 工具。"
+    "zh": "使用此技能透過 settings.json 設定 Claude Code harness。自動化行為（“從現在起當 X”“每次 X”“每當 X”“在 X 之前/之後”）需要在 settings.json 中設定 Hook - 這些由 harness 執行，不是 Claude，因此記憶/偏好無法滿足它們。也用於：權限（“允許 X”“新增權限”“移動權限到”）、環境變數（“設定 X=Y”）、Hook 故障排除，或對 settings.json/settings.local.json 的任何修改。範例：“允許 npm 命令”“向全域設定新增 bq 權限”“將權限移到使用者設定”“設定 DEBUG=true”“當 claude 停止時顯示 X”。對於主題/模型這類簡單設定，請使用 Config 工具。"
   },
   {
     "en": "Use this token by setting: export CLAUDE_CODE_OAUTH_TOKEN=<token>",
-    "zh": "使用此令牌：export CLAUDE_CODE_OAUTH_TOKEN=<令牌>"
+    "zh": "使用此權杖：export CLAUDE_CODE_OAUTH_TOKEN=<權杖>"
   },
   {
     "en": "Use tmux instead",
@@ -5593,7 +5593,7 @@
   },
   {
     "en": "Work item lease expired, fetching fresh token",
-    "zh": "工作項租約過期，獲取新 token"
+    "zh": "工作項租約過期，取得新 token"
   },
   {
     "en": "Working Directory Has Changes",
@@ -5629,7 +5629,7 @@
   },
   {
     "en": "Write debug logs to a specific file path (implicitly enables debug mode)",
-    "zh": "將除錯日誌寫入指定檔案路徑（隱式啟用除錯模式）"
+    "zh": "將除錯日誌寫入指定檔案路徑（隱含啟用除錯模式）"
   },
   {
     "en": "Write unit tests for all new utilities",
@@ -5949,7 +5949,7 @@
   },
   {
     "en": "false (for emails with your domain)",
-    "zh": "否（適用於你的域名郵箱）"
+    "zh": "否（適用於你的域名信箱）"
   },
   {
     "en": "files changed",
@@ -6285,7 +6285,7 @@
   },
   {
     "en": "└ Failed to fetch versions",
-    "zh": "└ 獲取版本失敗"
+    "zh": "└ 取得版本失敗"
   },
   {
     "en": "└ No active version locks",
@@ -6385,7 +6385,7 @@
   },
   {
     "en": "Examples:",
-    "zh": "示例："
+    "zh": "範例："
   },
   {
     "en": "choices:",
@@ -6433,7 +6433,7 @@
   },
   {
     "en": "Minimal mode: skip hooks, LSP, plugin sync, attribution, auto-memory, background prefetches, keychain reads, and CLAUDE.md auto-discovery. Sets CLAUDE_CODE_SIMPLE=1. Anthropic auth is strictly ANTHROPIC_API_KEY or apiKeyHelper via --settings (OAuth and keychain are never read). 3P providers (Bedrock/Vertex/Foundry) use their own credentials. Skills still resolve via /skill-name. Explicitly provide context via: --system-prompt[-file], --append-system-prompt[-file], --add-dir (CLAUDE.md dirs), --mcp-config, --settings, --agents, --plugin-dir.",
-    "zh": "極簡模式：跳過 hooks、LSP、外掛同步、歸因、自動記憶、後臺預取、鑰匙串讀取和 CLAUDE.md 自動發現。設定 CLAUDE_CODE_SIMPLE=1。Anthropic 身份驗證嚴格使用 ANTHROPIC_API_KEY 或透過 --settings 設定的 apiKeyHelper（不會讀取 OAuth 和鑰匙串）。第三方 provider（Bedrock/Vertex/Foundry）使用各自憑據。Skills 仍可透過 /skill-name 解析。請顯式提供上下文：--system-prompt[-file]、--append-system-prompt[-file]、--add-dir（CLAUDE.md 目錄）、--mcp-config、--settings、--agents、--plugin-dir。"
+    "zh": "極簡模式：跳過 hooks、LSP、外掛同步、歸因、自動記憶、後台預取、鑰匙串讀取和 CLAUDE.md 自動發現。設定 CLAUDE_CODE_SIMPLE=1。Anthropic 身分驗證嚴格使用 ANTHROPIC_API_KEY 或透過 --settings 設定的 apiKeyHelper（不會讀取 OAuth 和鑰匙串）。第三方 provider（Bedrock/Vertex/Foundry）使用各自憑證。Skills 仍可透過 /skill-name 解析。請明確提供上下文：--system-prompt[-file]、--append-system-prompt[-file]、--add-dir（CLAUDE.md 目錄）、--mcp-config、--settings、--agents、--plugin-dir。"
   },
   {
     "en": "Enable SendUserMessage tool for agent-to-user communication",
@@ -6457,11 +6457,11 @@
   },
   {
     "en": "Move per-machine sections (cwd, env info, memory paths, git status) from the system prompt into the first user message. Improves cross-user prompt-cache reuse. Only applies with the default system prompt (ignored with --system-prompt). (default: false)",
-    "zh": "將每臺機器不同的資訊段（cwd、env 資訊、memory 路徑、git 狀態）從系統提示詞移到第一條使用者訊息中。這樣可提高跨使用者 prompt cache 複用。僅適用於預設系統提示詞（使用 --system-prompt 時忽略）。（預設：false）"
+    "zh": "將每臺機器不同的資訊段（cwd、env 資訊、memory 路徑、git 狀態）從系統提示詞移到第一條使用者訊息中。這樣可提高跨使用者 prompt cache 重複使用。僅適用於預設系統提示詞（使用 --system-prompt 時忽略）。（預設：false）"
   },
   {
     "en": "Move per-machine sections (cwd, env info, memory paths, git status) from the system prompt into the first user message. Improves cross-user prompt-cache reuse. Only applies with the default system prompt (ignored with --system-prompt).",
-    "zh": "將每臺機器不同的資訊段（cwd、env 資訊、memory 路徑、git 狀態）從系統提示詞移到第一條使用者訊息中。這樣可提高跨使用者 prompt cache 複用。僅適用於預設系統提示詞（使用 --system-prompt 時忽略）。"
+    "zh": "將每臺機器不同的資訊段（cwd、env 資訊、memory 路徑、git 狀態）從系統提示詞移到第一條使用者訊息中。這樣可提高跨使用者 prompt cache 重複使用。僅適用於預設系統提示詞（使用 --system-prompt 時忽略）。"
   },
   {
     "en": "Render screen-reader friendly output (flat text, no decorative borders or animations).",
@@ -6493,7 +6493,7 @@
   },
   {
     "en": "When resuming, create a new session ID instead of reusing the original (use with --resume or --continue)",
-    "zh": "恢復工作階段時建立新的 session ID，而不是複用原 session ID（與 --resume 或 --continue 搭配使用）"
+    "zh": "恢復工作階段時建立新的 session ID，而不是重複使用原 session ID（與 --resume 或 --continue 搭配使用）"
   },
   {
     "en": "Resume a session linked to a PR by PR number/URL, or open interactive picker with optional search term",
@@ -6513,7 +6513,7 @@
   },
   {
     "en": "JSON Schema for structured output validation. Example: {\"type\":\"object\",\"properties\":{\"name\":{\"type\":\"string\"}},\"required\":[\"name\"]}",
-    "zh": "結構化輸出校驗用 JSON Schema。示例：{\"type\":\"object\",\"properties\":{\"name\":{\"type\":\"string\"}},\"required\":[\"name\"]}"
+    "zh": "結構化輸出校驗用 JSON Schema。範例：{\"type\":\"object\",\"properties\":{\"name\":{\"type\":\"string\"}},\"required\":[\"name\"]}"
   },
   {
     "en": "[DEPRECATED. Use --debug instead] Enable MCP debug mode (shows MCP server errors)",
@@ -6537,11 +6537,11 @@
   },
   {
     "en": "Input format (only works with --print): \"text\" (default), or \"stream-json\" (realtime streaming input) (choices: \"text\", \"stream-json\")",
-    "zh": "輸入格式（僅 --print 有效）：\"text\"（預設）或 \"stream-json\"（實時流式輸入）（可選：\"text\"、\"stream-json\"）"
+    "zh": "輸入格式（僅 --print 有效）：\"text\"（預設）或 \"stream-json\"（即時流式輸入）（可選：\"text\"、\"stream-json\"）"
   },
   {
     "en": "Input format (only works with --print): \"text\" (default), or \"stream-json\" (realtime streaming input)",
-    "zh": "輸入格式（僅 --print 有效）：\"text\"（預設）或 \"stream-json\"（實時流式輸入）"
+    "zh": "輸入格式（僅 --print 有效）：\"text\"（預設）或 \"stream-json\"（即時流式輸入）"
   },
   {
     "en": "Load a plugin from a directory or .zip for this session only (repeatable: --plugin-dir A --plugin-dir B.zip)",
@@ -6553,11 +6553,11 @@
   },
   {
     "en": "Fetch a plugin .zip from a URL for this session only (repeatable: --plugin-url A --plugin-url B)",
-    "zh": "僅為目前工作階段從 URL 獲取外掛 .zip（可重複：--plugin-url A --plugin-url B）"
+    "zh": "僅為目前工作階段從 URL 取得外掛 .zip（可重複：--plugin-url A --plugin-url B）"
   },
   {
     "en": "Fetch a plugin .zip from a URL for this session only (repeatable: --plugin-url A --plugin-url B) (default: [])",
-    "zh": "僅為目前工作階段從 URL 獲取外掛 .zip（可重複：--plugin-url A --plugin-url B）（預設：[]）"
+    "zh": "僅為目前工作階段從 URL 取得外掛 .zip（可重複：--plugin-url A --plugin-url B）（預設：[]）"
   },
   {
     "en": "Load plugins from a directory for this session only (repeatable: --plugin-dir A --plugin-dir B) (default: [])",
@@ -6641,19 +6641,19 @@
   },
   {
     "en": "Output format (only works with --print): \"text\" (default), \"json\" (single result), or \"stream-json\" (realtime streaming) (choices: \"text\", \"json\", \"stream-json\")",
-    "zh": "輸出格式（僅 --print 有效）：\"text\"（預設）、\"json\"（單次結果）或 \"stream-json\"（實時流式輸出）（可選：\"text\"、\"json\"、\"stream-json\"）"
+    "zh": "輸出格式（僅 --print 有效）：\"text\"（預設）、\"json\"（單次結果）或 \"stream-json\"（即時流式輸出）（可選：\"text\"、\"json\"、\"stream-json\"）"
   },
   {
     "en": "Output format (only works with --print): \"text\" (default), \"json\" (single result), or \"stream-json\" (realtime streaming)",
-    "zh": "輸出格式（僅 --print 有效）：\"text\"（預設）、\"json\"（單次結果）或 \"stream-json\"（實時流式輸出）"
+    "zh": "輸出格式（僅 --print 有效）：\"text\"（預設）、\"json\"（單次結果）或 \"stream-json\"（即時流式輸出）"
   },
   {
     "en": "Print response and exit (useful for pipes). Note: The workspace trust dialog is skipped when Claude is run with the -p mode. Only use this flag in directories you trust.",
-    "zh": "列印響應並離開（適合管道）。注意：使用 -p 模式執行 Claude 時會跳過工作區信任對話方塊。只在你信任的目錄中使用此 flag。"
+    "zh": "列印回應並離開（適合管道）。注意：使用 -p 模式執行 Claude 時會跳過工作區信任對話方塊。只在你信任的目錄中使用此 flag。"
   },
   {
     "en": "Print response and exit (useful for pipes). Note: The workspace trust dialog is skipped when Claude is run in non-interactive mode (via -p, or when stdout is not a TTY, e.g. piped or redirected output). Only use this in directories you trust.",
-    "zh": "列印響應並離開（適合管道）。注意：Claude 以非互動模式執行時會跳過工作區信任對話方塊（例如使用 -p，或 stdout 不是 TTY，如管道/重定向輸出）。只在你信任的目錄中使用。"
+    "zh": "列印回應並離開（適合管道）。注意：Claude 以非互動模式執行時會跳過工作區信任對話方塊（例如使用 -p，或 stdout 不是 TTY，如管道/重新導向輸出）。只在你信任的目錄中使用。"
   },
   {
     "en": "Re-emit user messages from stdin back on stdout for acknowledgment (only works with --input-format=stream-json and --output-format=stream-json)",
@@ -6681,15 +6681,15 @@
   },
   {
     "en": "Manage background and configured agents",
-    "zh": "管理後臺和已設定的 Agent"
+    "zh": "管理後台和已設定的 Agent"
   },
   {
     "en": "Manage background agents",
-    "zh": "管理後臺 Agent"
+    "zh": "管理後台 Agent"
   },
   {
     "en": "Show only background sessions started under",
-    "zh": "僅顯示在此路徑下啟動的後臺工作階段"
+    "zh": "僅顯示在此路徑下啟動的後台工作階段"
   },
   {
     "en": "Manage authentication",
@@ -6777,7 +6777,7 @@
   },
   {
     "en": "Get details about an MCP server. Unapproved .mcp.json servers are shown as \\u23F8 Pending approval and not connected to; approved servers are health-checked.",
-    "zh": "獲取 MCP 伺服器詳情。未批准的 .mcp.json 伺服器會顯示為 ⏸ 待批准且不會連線；已批准的伺服器會做健康檢查。"
+    "zh": "取得 MCP 伺服器詳情。未批准的 .mcp.json 伺服器會顯示為 ⏸ 待批准且不會連線；已批准的伺服器會做健康檢查。"
   },
   {
     "en": "Remove an MCP server",
@@ -6877,11 +6877,11 @@
   },
   {
     "en": "Configure the Advisor Tool to consult a stronger model for guidance at key moments during a task",
-    "zh": "設定 Advisor Tool，在任務關鍵節點諮詢更強模型獲取建議"
+    "zh": "設定 Advisor Tool，在任務關鍵節點諮詢更強模型取得建議"
   },
   {
     "en": "Send this session to the background and free the terminal",
-    "zh": "將本工作階段放到後臺並釋放終端"
+    "zh": "將本工作階段放到後台並釋放終端"
   },
   {
     "en": "Start a new session with empty context; previous session stays on disk (resumable with /resume)",
@@ -6921,7 +6921,7 @@
   },
   {
     "en": "Detach from this background session (it keeps running)",
-    "zh": "從這個後臺工作階段斷開（工作階段會繼續執行）"
+    "zh": "從這個後台工作階段斷開（工作階段會繼續執行）"
   },
   {
     "en": "Dump the JS heap to ~/Desktop",
@@ -6953,7 +6953,7 @@
   },
   {
     "en": "Manage background services: assistants, scheduled tasks, and remote control",
-    "zh": "管理後臺服務：助手、計劃任務和遠端控制"
+    "zh": "管理後台服務：助手、計劃任務和遠端控制"
   },
   {
     "en": "Monitor and autofix any issues with the current PR",
@@ -6985,7 +6985,7 @@
   },
   {
     "en": "Review the changed code for reuse, simplification, efficiency, and altitude cleanups, then apply the fixes. Quality only \\u2014 it does not hunt for bugs; use /code-review for that.",
-    "zh": "審查已修改程式碼的複用、簡化、效率和層級清理，然後應用修復。只做質量清理，不查 bug；查 bug 用 /code-review。"
+    "zh": "審查已修改程式碼的重複使用、簡化、效率和層級清理，然後應用修復。只做質量清理，不查 bug；查 bug 用 /code-review。"
   },
   {
     "en": "Scan your transcripts for common read-only Bash and MCP tool calls, then add a prioritized allowlist to project .claude/settings.json to reduce permission prompts.",
@@ -7017,11 +7017,11 @@
   },
   {
     "en": "Spawn a background agent that inherits the full conversation",
-    "zh": "啟動繼承完整對話的後臺 Agent"
+    "zh": "啟動繼承完整對話的後台 Agent"
   },
   {
     "en": "Stop this background session; transcript and worktree are kept",
-    "zh": "停止這個後臺工作階段；保留 transcript 和 worktree"
+    "zh": "停止這個後台工作階段；保留 transcript 和 worktree"
   },
   {
     "en": "Submit feedback, report a bug, or share your conversation",
@@ -7057,7 +7057,7 @@
   },
   {
     "en": "Plan a large change; background agents each open a PR",
-    "zh": "規劃大型改動；後臺 Agent 分別開 PR"
+    "zh": "規劃大型改動；後台 Agent 分別開 PR"
   },
   {
     "en": "Build and debug apps that use the Claude API",
@@ -7073,11 +7073,11 @@
   },
   {
     "en": "Manage background services and routines",
-    "zh": "管理後臺服務和計劃任務"
+    "zh": "管理後台服務和計劃任務"
   },
   {
     "en": "Turn on debug logging and investigate problems",
-    "zh": "開啟除錯日誌並排查問題"
+    "zh": "開啟除錯日誌並排除問題"
   },
   {
     "en": "Push your design system components to claude.ai/design",
@@ -7141,7 +7141,7 @@
   },
   {
     "en": "View and manage everything running in the background",
-    "zh": "檢視並管理所有後臺執行項"
+    "zh": "檢視並管理所有後台執行項"
   },
   {
     "en": "Claude Code on the web drafts a plan you can edit and approve",
@@ -7157,7 +7157,7 @@
   },
   {
     "en": "Set up Claude Code on the web with your GitHub account",
-    "zh": "用你的 GitHub 賬號設定 Claude Code on the web"
+    "zh": "用你的 GitHub 帳號設定 Claude Code on the web"
   },
   {
     "en": "Browse running and completed workflows",
@@ -7405,11 +7405,11 @@
   },
   {
     "en": "Workflow launched in background. Task ID: ${...}${...}${...}${...}${...} You will be notified when it completes. Use /workflows to watch live progress.",
-    "zh": "工作流已在後臺啟動。任務 ID：${...}${...}${...}${...}${...} 完成後會通知你。用 /workflows 檢視實時進度。"
+    "zh": "工作流已在後台啟動。任務 ID：${...}${...}${...}${...}${...} 完成後會通知你。用 /workflows 檢視即時進度。"
   },
   {
     "en": "Workflow launched in background. Task ID: ",
-    "zh": "工作流已在後臺啟動。任務 ID："
+    "zh": "工作流已在後台啟動。任務 ID："
   },
   {
     "en": "You will be notified when it completes.",
@@ -7417,7 +7417,7 @@
   },
   {
     "en": "Use /workflows to watch live progress.",
-    "zh": "用 /workflows 檢視實時進度。"
+    "zh": "用 /workflows 檢視即時進度。"
   },
   {
     "en": "\nSummary: ${...}",
@@ -7441,7 +7441,7 @@
   },
   {
     "en": "\nRun ID: ${...}\nTo resume after editing the script: Workflow({scriptPath: \"${...}\", resumeFromRunId: \"${...}\"}) \\u2014 completed agents return cached results.",
-    "zh": "\n執行 ID：${...}\n編輯指令碼後如需繼續：Workflow({scriptPath: \"${...}\", resumeFromRunId: \"${...}\"})，已完成的 Agent 會複用快取結果。"
+    "zh": "\n執行 ID：${...}\n編輯指令碼後如需繼續：Workflow({scriptPath: \"${...}\", resumeFromRunId: \"${...}\"})，已完成的 Agent 會重複使用快取結果。"
   },
   {
     "en": "Dynamic workflow \"${...}\" completed",
@@ -7461,7 +7461,7 @@
   },
   {
     "en": "Resume the paused workflow by calling: Workflow({scriptPath: '${...}', resumeFromRunId: '${...}'${...}}) \\u2014 completed agents return cached results.",
-    "zh": "如需繼續暫停的工作流，請呼叫：Workflow({scriptPath: '${...}', resumeFromRunId: '${...}'${...}})，已完成的 Agent 會複用快取結果。"
+    "zh": "如需繼續暫停的工作流，請呼叫：Workflow({scriptPath: '${...}', resumeFromRunId: '${...}'${...}})，已完成的 Agent 會重複使用快取結果。"
   },
   {
     "en": "Agent transcripts: ${...}",

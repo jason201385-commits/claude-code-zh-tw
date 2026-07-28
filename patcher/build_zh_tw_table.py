@@ -71,7 +71,48 @@ NORMALIZE_ALL = [
     ("只讀", "唯讀"), ("退出", "離開"),
     ("點擊", "點選"), ("自定義", "自訂"),
     ("想象", "想像"),
+    # 2026-07-29 QA 閘補充(codex blocker 清單實測成立的殘留)
+    ("賬號", "帳號"), ("賬戶", "帳戶"),
+    ("實時", "即時"), ("郵箱", "信箱"),
+    ("拖拽", "拖曳"), ("全域性", "全域"),
+    ("令牌", "權杖"), ("後臺", "後台"),
+    ("憑據", "憑證"), ("重定向", "重新導向"),
+    ("身份", "身分"), ("獲取", "取得"),
+    ("複用", "重複使用"), ("示例", "範例"),
+    ("顯式", "明確"), ("隱式", "隱含"),
+    ("響應體", "回應主體"), ("響應", "回應"),
+    ("排查", "排除"),
 ]
+
+# QA 閘(release gate):最終產物掃到這些詞就直接建置失敗——
+# 這是「檢查」不是「修正」;NORMALIZE_ALL 是修正器,這裡是安全網。
+BLOCKER_TERMS = [
+    "賬號", "賬戶", "實時", "郵箱", "拖拽", "全域性", "令牌", "後臺",
+    "憑據", "顯式", "隱式", "重定向", "身份", "獲取", "複用", "示例",
+    "軟件", "視頻", "文件夾", "服務器", "數據庫", "字符串",
+    "響應", "排查",
+]
+# 語境敏感詞:只警告不擋(「最新消息」「用戶端」在台灣語境合法)
+WARN_TERMS = ["消息", "用戶端", "支持"]
+
+
+def qa_gate(texts_with_meta):
+    """texts_with_meta: [(text, 描述)]。BLOCKER 命中 → 列出後 exit;WARN 只計數。"""
+    blockers, warns = [], {}
+    for text, meta in texts_with_meta:
+        for w in BLOCKER_TERMS:
+            if w in text:
+                blockers.append((w, meta, text[:50]))
+        for w in WARN_TERMS:
+            if w in text:
+                warns[w] = warns.get(w, 0) + 1
+    if warns:
+        print("  QA 警告(語境敏感詞,請人工抽查):", warns)
+    if blockers:
+        print(f"❌ QA 閘失敗:{len(blockers)} 筆禁用詞殘留")
+        for w, meta, t in blockers[:20]:
+            print(f"   [{w}] {meta}: {t}")
+        sys.exit(1)
 
 # spinner 動詞的台灣口語改寫(大陸網路梗 → 台灣說法),套用在 to_tw 之後
 VERB_OVERRIDES = {
@@ -188,6 +229,17 @@ def main():
         t["text"] = normalize(to_tw(t["text"]))
     (out_dir / "tips.zh-TW.json").write_text(
         json.dumps(tips, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+    # --- QA 閘:寫檔後重讀最終產物再掃一次(codex 建議的雙重檢查) ---
+    gate_texts = []
+    reread = json.loads((out_dir / "cli-translations.zh-TW.json").read_text(encoding="utf-8"))
+    gate_texts += [(e["zh"], f"cli[{i}] en={e['en'][:30]!r}") for i, e in enumerate(reread)]
+    reread_v = json.loads((out_dir / "verbs.zh-TW.json").read_text(encoding="utf-8"))
+    gate_texts += [(v, f"verbs[{i}]") for i, v in enumerate(reread_v.get("verbs", []))]
+    reread_t = json.loads((out_dir / "tips.zh-TW.json").read_text(encoding="utf-8"))
+    gate_texts += [(t["text"], f"tips[{t.get('id','?')}]") for t in reread_t.get("tips", [])]
+    qa_gate(gate_texts)
+    print("✅ QA 閘通過(禁用詞零殘留)")
 
     report = {
         "total_cli_entries": len(result),

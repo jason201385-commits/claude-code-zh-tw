@@ -58,7 +58,7 @@
     },
     {
       "id": "enter-to-steer-in-relatime",
-      "text": "Claude 工作時隨時傳送訊息來實時引導方向"
+      "text": "Claude 工作時隨時傳送訊息來即時引導方向"
     },
     {
       "id": "todo-list",
@@ -86,7 +86,7 @@
     },
     {
       "id": "drag-and-drop-images",
-      "text": "你知道可以直接把圖片檔案拖拽到終端裡嗎？"
+      "text": "你知道可以直接把圖片檔案拖曳到終端裡嗎？"
     },
     {
       "id": "paste-images-mac",
@@ -110,7 +110,7 @@
     },
     {
       "id": "custom-commands",
-      "text": "在專案的 .claude/skills/ 或全域性的 ~/.claude/skills/ 新增 .md 檔案來建立自訂技能"
+      "text": "在專案的 .claude/skills/ 或全域的 ~/.claude/skills/ 新增 .md 檔案來建立自訂技能"
     },
     {
       "id": "shift-tab",

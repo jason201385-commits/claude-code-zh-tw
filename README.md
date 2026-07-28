@@ -2,7 +2,9 @@
 
 **讓 Claude Code 說台灣話,讓新手五分鐘上手。**
 
-繁體中文(台灣)體驗 + 新手引導一體包:繁中回覆、`/zh-start` 首航導覽、`/zh-help` 主題教學、顯示層術語正規化,以及選配的 UI 全面中文化。MIT 授權。
+[「Claude Code 新手小學堂」](https://claude.easyknowai.com)畢業後的**繁中護航包**:繁中回覆、`/zh-start` 首航導覽、`/zh-help` 主題教學、`/zh-doctor` 一鍵健檢、三狗溝通層(花生/芝麻/湯圓),以及選配的 UI 中文化詞表。MIT 授權。
+
+> 還沒碰過 Claude Code?先去[小學堂](https://claude.easyknowai.com)走 6 課零終端機教學(免費、有狗狗助教),畢業再回來裝這包。
 
 ## 為什麼需要這個
 
@@ -21,19 +23,25 @@
 
 ## 安裝
 
-### 方式一:專案內免安裝載入(開發/試用)
+### 方式一:官方 plugin marketplace(推薦)
 
-把本資料夾放進(或 link 到)專案的 `.claude/skills/` 下,重啟 Claude Code 即自動載入:
+在 Claude Code 裡輸入兩行,全程有官方信任提示、可更新可移除:
 
-```bash
-git clone https://github.com/jason201385-commits/claude-code-zh-tw .claude/skills/claude-code-zh-tw
+```
+/plugin marketplace add jason201385-commits/claude-code-zh-tw
+/plugin install claude-code-zh-tw@easyknowai
 ```
 
-### 方式二:個人全域載入
+### 方式二:開發者免安裝載入
 
-放到 `~/.claude/skills/` 下,所有專案都生效(其餘同上)。
+clone 到 `~/.claude/skills/`(全域)或專案 `.claude/skills/`(單一專案),重啟 Claude Code 即自動載入:
 
-> 需要 Node.js(hooks 用;沒有 Node 時 hooks 靜默失效,指令與教學仍可用)。
+```bash
+git clone https://github.com/jason201385-commits/claude-code-zh-tw ~/.claude/skills/claude-code-zh-tw
+```
+
+> - 需要 Node.js(hooks 用;沒有 Node 時 hooks 靜默停用,指令與教學仍可用——跑 `/zh-doctor` 會告訴你現在的狀態)。
+> - 指令在選單顯示為 `/claude-code-zh-tw:zh-start` 形式;沒有撞名時直接打 `/zh-start` 也通(Claude Code v2.1.216+)。
 
 ## 提供的指令
 
@@ -42,7 +50,20 @@ git clone https://github.com/jason201385-commits/claude-code-zh-tw .claude/skill
 | `/zh-start` | 五分鐘新手首航:認識畫面 → 唯讀任務 → 第一個修改 → 安全網 → 繁中 CLAUDE.md |
 | `/zh-help [主題]` | 繁中主題說明:快速開始/權限/指令/Git/錯誤/術語 |
 | `/zh-explain` | 用繁中解釋剛才的錯誤(只解釋,不自動修) |
+| `/zh-doctor` | 一鍵健檢:版本/Node/hooks/進度檔/額度,問題附修法與求助管道 |
 | `/zh-mode guided\|basic\|off` | 切換引導強度(新手保護/只繁中/完全關閉) |
+
+## 三狗溝通層 🐕
+
+Jason 家三隻真狗(在[小學堂](https://claude.easyknowai.com)當 AI 助教的同一批),在終端機裡輕量登場——**只在 guided 模式出聲、每次最多一句、永遠不擋技術內容**:
+
+| 狗 | 職能 | 出場時機 |
+|---|---|---|
+| 花生 | 領航 | `/zh-start` 首航導覽 |
+| 芝麻 | 守門 | 高風險動作前的一句提醒 |
+| 湯圓 | 安撫 | `/zh-explain` 與錯誤解讀的開場 |
+
+不想要?`/zh-mode basic` 一秒安靜,只留繁中。
 
 ## 搭配官方設定(建議)
 
