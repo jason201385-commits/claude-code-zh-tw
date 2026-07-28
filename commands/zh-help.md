@@ -1,6 +1,6 @@
 ---
 description: 繁中主題式說明(快速開始/權限/指令/Git/錯誤/術語)
-argument-hint: [主題]
+argument-hint: "[主題]"
 ---
 
 使用者要查的主題:$ARGUMENTS

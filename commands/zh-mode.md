@@ -1,6 +1,6 @@
 ---
 description: 切換引導模式:guided(新手)/ basic(只繁中)/ off(關閉)
-argument-hint: guided | basic | off
+argument-hint: "guided | basic | off"
 ---
 
 使用者想切換的模式:$ARGUMENTS
@@ -15,6 +15,6 @@ argument-hint: guided | basic | off
 三種模式:
 - **guided**:繁中回覆 + 新手保護(動作前解釋、高風險先問、錯誤給修復指令)+ 首航提醒
 - **basic**:只保留繁中回覆與術語規則,不做新手提示
-- **off**:本 plugin 完全安靜(繁中輸出可改用 `settings.json` 的 `language` 設定維持)
+- **off**:hooks 全靜默(不注入脈絡、不做顯示層正規化);`/zh-*` 指令與 skill 仍可主動使用。繁中輸出可改用 `settings.json` 的 `language` 設定維持
 
 參數不是這三個值就列出選項請使用者重選,不要猜。

@@ -9,8 +9,19 @@ const os = require('os');
 const DATA_DIR = path.join(os.homedir(), '.claude', 'zh-tw-guide');
 const PROGRESS = path.join(DATA_DIR, 'progress.json');
 
+const VALID_MODES = ['guided', 'basic', 'off'];
+
 function readProgress() {
-  try { return JSON.parse(fs.readFileSync(PROGRESS, 'utf8')); } catch (e) { return null; }
+  try {
+    const p = JSON.parse(fs.readFileSync(PROGRESS, 'utf8'));
+    if (!p || typeof p !== 'object' || Array.isArray(p)) return null;
+    // 結構合法但 mode 值壞掉 → 修回 guided,不當成首次使用
+    if (VALID_MODES.indexOf(p.mode) === -1) {
+      p.mode = 'guided';
+      try { fs.writeFileSync(PROGRESS, JSON.stringify(p, null, 2)); } catch (e) {}
+    }
+    return p;
+  } catch (e) { return null; }
 }
 
 let progress = readProgress();

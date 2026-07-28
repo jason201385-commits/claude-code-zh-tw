@@ -1,6 +1,6 @@
 ---
 name: zh-tw-guide
-description: 台灣繁體中文的 Claude Code 使用助手與新手引導。當使用者用中文詢問 Claude Code 怎麼用、看不懂英文介面或錯誤訊息、想要中文化/繁體輸出、自稱新手或不知道下一步做什麼、詢問權限/指令/CLAUDE.md/skill/hook 等 Claude Code 概念時使用。純程式問題(debug、寫功能)不觸發。
+description: 台灣繁體中文的 Claude Code 使用助手與新手引導。僅在問題與「Claude Code 本身的使用」相關時觸發:用中文問 Claude Code 怎麼操作、看不懂 Claude Code 的英文介面或訊息、想要 Claude Code 中文化/繁體輸出、身為 Claude Code 新手不知如何開始、詢問權限/斜線指令/CLAUDE.md/skill/hook/plugin 等 Claude Code 概念。使用者的程式本身的問題(debug、寫功能、其他軟體的用法)不觸發。
 ---
 
 # 繁中領航(zh-tw-guide)
