@@ -15,7 +15,7 @@
 - 來源:<https://github.com/joshchaotang/claude-code-i18n>
 - 授權:MIT
 - 取用 commit:`cab6f7e02be49d5228050fa16fc5dcf14b3a3cf3`(2026-07 snapshot)
-- 使用方式:**部分引用(修改後衍生)**——其 `src/translations/{en,en-technical,zh-TW,zh-TW-technical}.json` 的人工繁中翻譯,經橋接比對後有 777 條進入 `patcher/out/cli-translations.zh-TW.json`,並套用本專案的台灣用語正規化。
+- 使用方式:**部分引用(修改後衍生)**——以其 `src/translations/en-technical.json` 與 `zh-TW-technical.json` 橋接出「英文原文→人工繁中」對照,實際命中 777 條進入 `patcher/out/cli-translations.zh-TW.json`,並套用本專案的台灣用語正規化(`en.json`/`zh-TW.json` 口語版也做了橋接,但與 CLI 實際字串零命中,未被採用)。
 
 ## 3. OpenCC(轉換工具)
 

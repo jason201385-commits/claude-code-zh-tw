@@ -305,7 +305,7 @@
   },
   {
     "en": "/keybindings to customize",
-    "zh": "/keybindings 進行自定義"
+    "zh": "/keybindings 進行自訂"
   },
   {
     "en": "/plan to preview",
@@ -1505,7 +1505,7 @@
   },
   {
     "en": "Custom agent type for this teammate",
-    "zh": "此隊友的自定義 Agent 型別"
+    "zh": "此隊友的自訂 Agent 型別"
   },
   {
     "en": "Custom agents",
@@ -1517,7 +1517,7 @@
   },
   {
     "en": "Custom tip",
-    "zh": "自定義提示"
+    "zh": "自訂提示"
   },
   {
     "en": "Dark mode",
@@ -2453,11 +2453,11 @@
   },
   {
     "en": "Initialize a new CLAUDE.md file with codebase documentation",
-    "zh": "用程式碼庫檔案初始化新的 CLAUDE.md 檔案"
+    "zh": "用程式碼庫文件初始化新的 CLAUDE.md 檔案"
   },
   {
     "en": "Initialize new CLAUDE.md file(s) and optional skills/hooks with codebase documentation",
-    "zh": "用程式碼庫檔案初始化新的 CLAUDE.md 檔案，並可選建立技能/Hook"
+    "zh": "用程式碼庫文件初始化新的 CLAUDE.md 檔案，並可選建立技能/Hook"
   },
   {
     "en": "Inject bridge failure states for manual recovery testing",
@@ -2489,7 +2489,7 @@
   },
   {
     "en": "Install for all collaborators on this repository (project scope)",
-    "zh": "為所有協作者安裝（專案範圍）"
+    "zh": "為此儲存庫的所有協作者安裝（專案範圍）"
   },
   {
     "en": "Install for you (user scope)",
@@ -2793,7 +2793,7 @@
   },
   {
     "en": "MCP documentation",
-    "zh": "MCP 檔案"
+    "zh": "MCP 文件"
   },
   {
     "en": "MCP servers",
@@ -3237,7 +3237,7 @@
   },
   {
     "en": "Only hooks from managed settings can run. User-defined hooks from ~/.claude/settings.json, .claude/settings.json, and .claude/settings.local.json are blocked.",
-    "zh": "只有託管設定中的 Hook 可以執行。使用者自定義 Hook（~/.claude/settings.json、.claude/settings.json 和 .claude/settings.local.json）已被阻止。"
+    "zh": "只有託管設定中的 Hook 可以執行。使用者自訂 Hook（~/.claude/settings.json、.claude/settings.json 和 .claude/settings.local.json）已被阻止。"
   },
   {
     "en": "Only needed for temporary credentials from STS. Leave empty for long-lived keys.",
@@ -4149,7 +4149,7 @@
   },
   {
     "en": "Save to file",
-    "zh": "儲存到檔案"
+    "zh": "儲存至檔案"
   },
   {
     "en": "Saving a memory is a two-step process:",
@@ -4529,7 +4529,7 @@
   },
   {
     "en": "Source contains multiple documents; please use YAML.parseAllDocuments()",
-    "zh": "源包含多個檔案；請使用 YAML.parseAllDocuments()"
+    "zh": "源包含多個文件；請使用 YAML.parseAllDocuments()"
   },
   {
     "en": "Spawn a remote Claude Code session that monitors and autofixes the current PR",
@@ -4541,7 +4541,7 @@
   },
   {
     "en": "Start with all customizations (CLAUDE.md, skills, plugins, hooks, MCP servers, custom commands and agents, output styles, workflows, custom themes, keybindings, and more) disabled \\u2014 useful for troubleshooting a broken configuration. Admin-managed (policy) settings still apply. Auth, model selection, built-in tools, and permissions work normally. Sets CLAUDE_CODE_SAFE_MODE=1.",
-    "zh": "啟動時禁用所有自定義內容（CLAUDE.md、skills、plugins、Hooks、MCP servers、自定義命令和 Agent、output styles、workflows、自定義主題、keybindings 等）——用於排查損壞設定。管理員託管（policy）設定仍會生效。認證、模型選擇、內建工具和權限正常工作。設定 CLAUDE_CODE_SAFE_MODE=1。"
+    "zh": "啟動時禁用所有自訂內容（CLAUDE.md、skills、plugins、Hooks、MCP servers、自訂命令和 Agent、output styles、workflows、自訂主題、keybindings 等）——用於排查損壞設定。管理員託管（policy）設定仍會生效。認證、模型選擇、內建工具和權限正常工作。設定 CLAUDE_CODE_SAFE_MODE=1。"
   },
   {
     "en": "Start fresh: discard the current conversation and context",
@@ -6061,7 +6061,7 @@
   },
   {
     "en": "opens docs",
-    "zh": "開啟檔案"
+    "zh": "開啟文件"
   },
   {
     "en": "plan mode on",
@@ -6409,7 +6409,7 @@
   },
   {
     "en": "JSON object defining custom agents (e.g. '{\"reviewer\": {\"description\": \"Reviews code\", \"prompt\": \"You are a code reviewer\"}}')",
-    "zh": "定義自定義 Agent 的 JSON 物件（例如 '{\"reviewer\": {\"description\": \"審查程式碼\", \"prompt\": \"你是程式碼審查員\"}}'）"
+    "zh": "定義自訂 Agent 的 JSON 物件（例如 '{\"reviewer\": {\"description\": \"審查程式碼\", \"prompt\": \"你是程式碼審查員\"}}'）"
   },
   {
     "en": "Enable bypassing all permission checks as an option, without it being enabled by default. Recommended only for sandboxes with no internet access.",
@@ -7329,7 +7329,7 @@
   },
   {
     "en": "Comprehensive implementation with extensive testing and documentation",
-    "zh": "更完整的實現，包含充分測試和檔案"
+    "zh": "更完整的實現，包含充分測試和文件"
   },
   {
     "en": "Deeper reasoning than high, just below maximum (${...})",

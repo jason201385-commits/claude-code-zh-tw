@@ -50,7 +50,7 @@
     },
     {
       "id": "status-line",
-      "text": "使用 /statusline 設定自定義狀態列，顯示在輸入框下方"
+      "text": "使用 /statusline 設定自訂狀態列，顯示在輸入框下方"
     },
     {
       "id": "prompt-queue",
@@ -110,7 +110,7 @@
     },
     {
       "id": "custom-commands",
-      "text": "在專案的 .claude/skills/ 或全域性的 ~/.claude/skills/ 新增 .md 檔案來建立自定義技能"
+      "text": "在專案的 .claude/skills/ 或全域性的 ~/.claude/skills/ 新增 .md 檔案來建立自訂技能"
     },
     {
       "id": "shift-tab",

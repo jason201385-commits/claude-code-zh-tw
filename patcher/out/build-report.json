@@ -51,7 +51,7 @@
     {
       "en": " [read-only]",
       "zh_cn": " [只读]",
-      "zh_tw": " [只讀]"
+      "zh_tw": " [唯讀]"
     },
     {
       "en": " for history)",
@@ -151,7 +151,7 @@
     {
       "en": "/keybindings to customize",
       "zh_cn": "/keybindings 进行自定义",
-      "zh_tw": "/keybindings 進行自定義"
+      "zh_tw": "/keybindings 進行自訂"
     },
     {
       "en": "? for shortcuts",
@@ -161,7 +161,7 @@
     {
       "en": "A Claude workflow file already exists in this repository.",
       "zh_cn": "此仓库中已存在 Claude 工作流文件。",
-      "zh_tw": "此倉庫中已存在 Claude 工作流檔案。"
+      "zh_tw": "此儲存庫中已存在 Claude 工作流檔案。"
     },
     {
       "en": "A browser window will open for authentication",
@@ -196,17 +196,17 @@
     {
       "en": "Access denied to specific paths outside allowed directories",
       "zh_cn": "拒绝访问允许目录外的特定路径",
-      "zh_tw": "拒絕訪問允許目錄外的特定路徑"
+      "zh_tw": "拒絕存取允許目錄外的特定路徑"
     },
     {
       "en": "Access denied.",
       "zh_cn": "访问被拒绝。",
-      "zh_tw": "訪問被拒絕。"
+      "zh_tw": "存取被拒絕。"
     },
     {
       "en": "Access key + secret",
       "zh_cn": "访问密钥 + 密钥",
-      "zh_tw": "訪問金鑰 + 金鑰"
+      "zh_tw": "存取金鑰 + 金鑰"
     }
   ]
 }
