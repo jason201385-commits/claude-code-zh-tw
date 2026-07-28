@@ -1,0 +1,212 @@
+{
+  "total_cli_entries": 1895,
+  "source_breakdown": {
+    "cc_technical": 777,
+    "cc_standard": 0,
+    "opencc": 1118
+  },
+  "verbs": 187,
+  "tips": 41,
+  "opencc_samples_for_review": [
+    {
+      "en": " (ctrl+o to expand)",
+      "zh_cn": " (ctrl+o 展开)",
+      "zh_tw": " (ctrl+o 展開)"
+    },
+    {
+      "en": " (installed)",
+      "zh_cn": " (已安装)",
+      "zh_tw": " (已安裝)"
+    },
+    {
+      "en": " (required to block unix domain sockets)",
+      "zh_cn": " （阻止 Unix domain socket 时需要）",
+      "zh_tw": " （阻止 Unix domain socket 時需要）"
+    },
+    {
+      "en": " (truncated)",
+      "zh_cn": " (已截断)",
+      "zh_tw": " (已截斷)"
+    },
+    {
+      "en": " Directories ",
+      "zh_cn": " 目录 ",
+      "zh_tw": " 目錄 "
+    },
+    {
+      "en": " Reopen URL  ",
+      "zh_cn": " 重新打开 URL ",
+      "zh_tw": " 重新開啟 URL "
+    },
+    {
+      "en": " [destructive]",
+      "zh_cn": " [破坏性操作]",
+      "zh_tw": " [破壞性操作]"
+    },
+    {
+      "en": " [open-world]",
+      "zh_cn": " [开放环境]",
+      "zh_tw": " [開放環境]"
+    },
+    {
+      "en": " [read-only]",
+      "zh_cn": " [只读]",
+      "zh_tw": " [只讀]"
+    },
+    {
+      "en": " for history)",
+      "zh_cn": " 查看历史记录)",
+      "zh_tw": " 檢視歷史記錄)"
+    },
+    {
+      "en": " instead of Claude account subscription token. Either unset",
+      "zh_cn": " 而非 Claude 账号订阅令牌。请取消设置",
+      "zh_tw": " 而非 Claude 賬號訂閱令牌。請取消設定"
+    },
+    {
+      "en": " navigate · ",
+      "zh_cn": " 导航 · ",
+      "zh_tw": " 導航 · "
+    },
+    {
+      "en": " report the issue at https://github.com/anthropics/claude-code/issues",
+      "zh_cn": " 在 https://github.com/anthropics/claude-code/issues 报告问题",
+      "zh_tw": " 在 https://github.com/anthropics/claude-code/issues 報告問題"
+    },
+    {
+      "en": " to expand)",
+      "zh_cn": " 展开)",
+      "zh_tw": " 展開)"
+    },
+    {
+      "en": " to see full summary)",
+      "zh_cn": " 查看完整摘要)",
+      "zh_tw": " 檢視完整摘要)"
+    },
+    {
+      "en": " · /agents to manage",
+      "zh_cn": " · /agents 进行管理",
+      "zh_tw": " · /agents 進行管理"
+    },
+    {
+      "en": " · /dream to run",
+      "zh_cn": " · /dream 运行",
+      "zh_tw": " · /dream 執行"
+    },
+    {
+      "en": " · /memory to edit",
+      "zh_cn": " · /memory 进行编辑",
+      "zh_tw": " · /memory 進行編輯"
+    },
+    {
+      "en": " · /plugin for details",
+      "zh_cn": " · 用 /plugin 查看详情",
+      "zh_tw": " · 用 /plugin 檢視詳情"
+    },
+    {
+      "en": " · Marked for update",
+      "zh_cn": " · 已标记更新",
+      "zh_tw": " · 已標記更新"
+    },
+    {
+      "en": " · Run /reload-plugins to apply",
+      "zh_cn": " · 运行 /reload-plugins 以生效",
+      "zh_tw": " · 執行 /reload-plugins 以生效"
+    },
+    {
+      "en": "((empty message))",
+      "zh_cn": "((空消息))",
+      "zh_tw": "((空訊息))"
+    },
+    {
+      "en": "(Command copied to clipboard)",
+      "zh_cn": "（命令已复制到剪贴板）",
+      "zh_tw": "（命令已複製到剪貼簿）"
+    },
+    {
+      "en": "(Original working directory)",
+      "zh_cn": "(原始工作目录)",
+      "zh_tw": "(原始工作目錄)"
+    },
+    {
+      "en": "(esc to interrupt ",
+      "zh_cn": "(esc 中断 ",
+      "zh_tw": "(esc 中斷 "
+    },
+    {
+      "en": "(not installed)",
+      "zh_cn": "(未安装)",
+      "zh_tw": "(未安裝)"
+    },
+    {
+      "en": "/ for commands",
+      "zh_cn": "/ 查看命令",
+      "zh_tw": "/ 檢視命令"
+    },
+    {
+      "en": "/btw for side question",
+      "zh_cn": "/btw 题外问题",
+      "zh_tw": "/btw 題外問題"
+    },
+    {
+      "en": "/keybindings to customize",
+      "zh_cn": "/keybindings 进行自定义",
+      "zh_tw": "/keybindings 進行自定義"
+    },
+    {
+      "en": "? for shortcuts",
+      "zh_cn": "? 查看快捷键",
+      "zh_tw": "? 檢視快捷鍵"
+    },
+    {
+      "en": "A Claude workflow file already exists in this repository.",
+      "zh_cn": "此仓库中已存在 Claude 工作流文件。",
+      "zh_tw": "此倉庫中已存在 Claude 工作流檔案。"
+    },
+    {
+      "en": "A browser window will open for authentication",
+      "zh_cn": "将打开浏览器窗口进行认证",
+      "zh_tw": "將開啟瀏覽器視窗進行認證"
+    },
+    {
+      "en": "A simple common HTTP client specifically for Google APIs and services.",
+      "zh_cn": "专为 Google API 和服务设计的简单 HTTP 客户端。",
+      "zh_tw": "專為 Google API 和服務設計的簡單 HTTP 客戶端。"
+    },
+    {
+      "en": "AWS profile (SSO or named profile)",
+      "zh_cn": "AWS 配置（SSO 或命名配置）",
+      "zh_tw": "AWS 設定（SSO 或命名設定）"
+    },
+    {
+      "en": "Accept terms · Help improve Claude: OFF",
+      "zh_cn": "接受条款 · 帮助改进 Claude：关",
+      "zh_tw": "接受條款 · 幫助改進 Claude：關"
+    },
+    {
+      "en": "Accept terms · Help improve Claude: OFF (for emails with your domain)",
+      "zh_cn": "接受条款 · 帮助改进 Claude：关（适用于你的域名邮箱）",
+      "zh_tw": "接受條款 · 幫助改進 Claude：關（適用於你的域名郵箱）"
+    },
+    {
+      "en": "Accept terms · Help improve Claude: ON",
+      "zh_cn": "接受条款 · 帮助改进 Claude：开",
+      "zh_tw": "接受條款 · 幫助改進 Claude：開"
+    },
+    {
+      "en": "Access denied to specific paths outside allowed directories",
+      "zh_cn": "拒绝访问允许目录外的特定路径",
+      "zh_tw": "拒絕訪問允許目錄外的特定路徑"
+    },
+    {
+      "en": "Access denied.",
+      "zh_cn": "访问被拒绝。",
+      "zh_tw": "訪問被拒絕。"
+    },
+    {
+      "en": "Access key + secret",
+      "zh_cn": "访问密钥 + 密钥",
+      "zh_tw": "訪問金鑰 + 金鑰"
+    }
+  ]
+}

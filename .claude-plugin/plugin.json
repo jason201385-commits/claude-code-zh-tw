@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-zh-tw",
+  "description": "Claude Code 繁中領航:台灣繁體中文體驗 + 新手引導一體包。繁中輸出、/zh-start 五分鐘首航、/zh-help 主題教學、/zh-explain 錯誤解讀、顯示層術語正規化,以及選配的 UI 全面中文化(實驗性)。",
+  "version": "0.1.0",
+  "author": { "name": "Jason Chiu(魯班)· easyknowai" },
+  "license": "MIT",
+  "homepage": "https://github.com/jason201385-commits/claude-code-zh-tw",
+  "keywords": ["zh-TW", "traditional-chinese", "taiwan", "onboarding", "i18n", "beginner"]
+}

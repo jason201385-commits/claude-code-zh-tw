@@ -1,0 +1,7582 @@
+[
+  {
+    "en": " (MCP)",
+    "zh": " (MCP)"
+  },
+  {
+    "en": " (ctrl+o to expand)",
+    "zh": " (ctrl+o 展開)"
+  },
+  {
+    "en": " (installed)",
+    "zh": " (已安裝)"
+  },
+  {
+    "en": " (p to expand)",
+    "zh": " (p 展開)"
+  },
+  {
+    "en": " (required to block unix domain sockets)",
+    "zh": " （阻止 Unix domain socket 時需要）"
+  },
+  {
+    "en": " (truncated)",
+    "zh": " (已截斷)"
+  },
+  {
+    "en": " (untracked)",
+    "zh": "（未追蹤）"
+  },
+  {
+    "en": " Accept  ",
+    "zh": " 接受  "
+  },
+  {
+    "en": " Cancel",
+    "zh": " 取消"
+  },
+  {
+    "en": " Decline",
+    "zh": " 拒絕"
+  },
+  {
+    "en": " Directories ",
+    "zh": " 目錄 "
+  },
+  {
+    "en": " Generating agent from description...",
+    "zh": " 正在根據描述產生 Agent..."
+  },
+  {
+    "en": " Mode ",
+    "zh": " 模式 "
+  },
+  {
+    "en": " Reopen URL  ",
+    "zh": " 重新開啟 URL "
+  },
+  {
+    "en": " Rules ",
+    "zh": " 規則 "
+  },
+  {
+    "en": " Voice mode is now available · /voice to enable",
+    "zh": " 語音模式已可使用 · 請使用 /voice 啟用"
+  },
+  {
+    "en": " [Community Managed]",
+    "zh": " [社群管理]"
+  },
+  {
+    "en": " [destructive]",
+    "zh": " [破壞性操作]"
+  },
+  {
+    "en": " [open-world]",
+    "zh": " [開放環境]"
+  },
+  {
+    "en": " [read-only]",
+    "zh": " [唯讀]"
+  },
+  {
+    "en": " back",
+    "zh": " 返回"
+  },
+  {
+    "en": " for history)",
+    "zh": " 檢視歷史記錄)"
+  },
+  {
+    "en": " instead of Claude account subscription token. Either unset",
+    "zh": " 而非 Claude 賬號訂閱令牌。請取消設定"
+  },
+  {
+    "en": " navigate · ",
+    "zh": " 導航 · "
+  },
+  {
+    "en": " or ",
+    "zh": " 或 "
+  },
+  {
+    "en": " report the issue at https://github.com/anthropics/claude-code/issues",
+    "zh": " 在 https://github.com/anthropics/claude-code/issues 報告問題"
+  },
+  {
+    "en": " thinking…",
+    "zh": " 思考中…"
+  },
+  {
+    "en": " to cancel",
+    "zh": " 取消"
+  },
+  {
+    "en": " to expand)",
+    "zh": " 展開)"
+  },
+  {
+    "en": " to get started",
+    "zh": " 開始使用"
+  },
+  {
+    "en": " to reference files or lines in your input",
+    "zh": " 引用檔案或行號"
+  },
+  {
+    "en": " to see full summary)",
+    "zh": " 檢視完整摘要)"
+  },
+  {
+    "en": " tokens · /autocompact",
+    "zh": " tokens · /autocompact"
+  },
+  {
+    "en": " · ./path/to/marketplace",
+    "zh": " · ./path/to/marketplace"
+  },
+  {
+    "en": " · /agents",
+    "zh": " · /agents"
+  },
+  {
+    "en": " · /agents to manage",
+    "zh": " · /agents 進行管理"
+  },
+  {
+    "en": " · /dream to run",
+    "zh": " · /dream 執行"
+  },
+  {
+    "en": " · /mcp",
+    "zh": " · /mcp"
+  },
+  {
+    "en": " · /memory",
+    "zh": " · /memory"
+  },
+  {
+    "en": " · /memory to edit",
+    "zh": " · /memory 進行編輯"
+  },
+  {
+    "en": " · /permissions",
+    "zh": " · /permissions"
+  },
+  {
+    "en": " · /plugin for details",
+    "zh": " · 用 /plugin 檢視詳情"
+  },
+  {
+    "en": " · /sandbox",
+    "zh": " · /sandbox"
+  },
+  {
+    "en": " · /skills",
+    "zh": " · /skills"
+  },
+  {
+    "en": " · Design an implementation strategy",
+    "zh": " · 設計實作策略"
+  },
+  {
+    "en": " · Enter to view",
+    "zh": " · Enter 檢視"
+  },
+  {
+    "en": " · Explore the codebase thoroughly",
+    "zh": " · 徹底探索程式碼庫"
+  },
+  {
+    "en": " · Identify existing patterns",
+    "zh": " · 辨識現有模式"
+  },
+  {
+    "en": " · Marked for update",
+    "zh": " · 已標記更新"
+  },
+  {
+    "en": " · Present a plan for your approval",
+    "zh": " · 提出計畫供您核准"
+  },
+  {
+    "en": " · Run /reload-plugins to apply",
+    "zh": " · 執行 /reload-plugins 以生效"
+  },
+  {
+    "en": " · enter to collapse",
+    "zh": " · enter 收合"
+  },
+  {
+    "en": " · enter to view",
+    "zh": " · Enter 查看"
+  },
+  {
+    "en": " · owner/repo (GitHub)",
+    "zh": " · owner/repo (GitHub)"
+  },
+  {
+    "en": "! for bash mode",
+    "zh": "! 進入終端模式"
+  },
+  {
+    "en": "& for background",
+    "zh": "& 背景執行"
+  },
+  {
+    "en": "((empty message))",
+    "zh": "((空訊息))"
+  },
+  {
+    "en": "(Command copied to clipboard)",
+    "zh": "（命令已複製到剪貼簿）"
+  },
+  {
+    "en": "(No changes)",
+    "zh": "（無變更）"
+  },
+  {
+    "en": "(No content)",
+    "zh": "（無內容）"
+  },
+  {
+    "en": "(No resources found)",
+    "zh": "（找不到資源）"
+  },
+  {
+    "en": "(OSC 777)",
+    "zh": "(OSC 777)"
+  },
+  {
+    "en": "(OSC 9)",
+    "zh": "(OSC 9)"
+  },
+  {
+    "en": "(OSC 99)",
+    "zh": "(OSC 99)"
+  },
+  {
+    "en": "(Original working directory)",
+    "zh": "(原始工作目錄)"
+  },
+  {
+    "en": "(already granted)",
+    "zh": "（已授權）"
+  },
+  {
+    "en": "(esc to give additional instructions)",
+    "zh": "(按 esc 給予更多指示)"
+  },
+  {
+    "en": "(esc to interrupt ",
+    "zh": "(esc 中斷 "
+  },
+  {
+    "en": "(not installed)",
+    "zh": "(未安裝)"
+  },
+  {
+    "en": "(press esc to close)",
+    "zh": "(按 esc 關閉)"
+  },
+  {
+    "en": "(required)",
+    "zh": "（必填）"
+  },
+  {
+    "en": "(tab to switch, esc to close)",
+    "zh": "(tab 切換，esc 關閉)"
+  },
+  {
+    "en": "-- INSERT --",
+    "zh": "-- 插入 --"
+  },
+  {
+    "en": ".github/workflows/claude.yml",
+    "zh": ".github/workflows/claude.yml"
+  },
+  {
+    "en": "/ for commands",
+    "zh": "/ 檢視命令"
+  },
+  {
+    "en": "/btw for side question",
+    "zh": "/btw 題外問題"
+  },
+  {
+    "en": "/keybindings to customize",
+    "zh": "/keybindings 進行自定義"
+  },
+  {
+    "en": "/plan to preview",
+    "zh": "/plan 預覽"
+  },
+  {
+    "en": "/rename to add a name",
+    "zh": "/rename 新增名稱"
+  },
+  {
+    "en": "/usage is only available for subscription plans.",
+    "zh": "/usage 僅適用於訂閱方案。"
+  },
+  {
+    "en": "? for shortcuts",
+    "zh": "? 檢視快捷鍵"
+  },
+  {
+    "en": "@ for file paths",
+    "zh": "@ 檔案路徑"
+  },
+  {
+    "en": "A Claude workflow file already exists in this repository.",
+    "zh": "此儲存庫中已存在 Claude 工作流檔案。"
+  },
+  {
+    "en": "A browser window will open for authentication",
+    "zh": "將開啟瀏覽器視窗進行認證"
+  },
+  {
+    "en": "A simple common HTTP client specifically for Google APIs and services.",
+    "zh": "專為 Google API 和服務設計的簡單 HTTP 客戶端。"
+  },
+  {
+    "en": "ANTHROPIC_API_KEY already exists in repository secrets!",
+    "zh": "ANTHROPIC_API_KEY 已存在於儲存庫 secrets 中！"
+  },
+  {
+    "en": "API key",
+    "zh": "API 金鑰"
+  },
+  {
+    "en": "API usage billing",
+    "zh": "API 用量計費"
+  },
+  {
+    "en": "AWS profile (SSO or named profile)",
+    "zh": "AWS 設定（SSO 或命名設定）"
+  },
+  {
+    "en": "Accept edits",
+    "zh": "接受編輯"
+  },
+  {
+    "en": "Accept terms · Help improve Claude: OFF",
+    "zh": "接受條款 · 幫助改進 Claude：關"
+  },
+  {
+    "en": "Accept terms · Help improve Claude: OFF (for emails with your domain)",
+    "zh": "接受條款 · 幫助改進 Claude：關（適用於你的域名郵箱）"
+  },
+  {
+    "en": "Accept terms · Help improve Claude: ON",
+    "zh": "接受條款 · 幫助改進 Claude：開"
+  },
+  {
+    "en": "Access denied to specific paths outside allowed directories",
+    "zh": "拒絕存取允許目錄外的特定路徑"
+  },
+  {
+    "en": "Access denied.",
+    "zh": "存取被拒絕。"
+  },
+  {
+    "en": "Access key + secret",
+    "zh": "存取金鑰 + 金鑰"
+  },
+  {
+    "en": "Accessibility and Screen Recording permissions are required. Call request_access to show the permission panel.",
+    "zh": "需要輔助功能和螢幕錄製權限。呼叫 request_access 顯示權限面板。"
+  },
+  {
+    "en": "Action: ",
+    "zh": "操作："
+  },
+  {
+    "en": "Activate pending plugin changes in the current session",
+    "zh": "在目前的對話中啟用待生效的外掛變更"
+  },
+  {
+    "en": "Active days:",
+    "zh": "活躍天數："
+  },
+  {
+    "en": "Add Marketplace",
+    "zh": "新增市集"
+  },
+  {
+    "en": "Add a marketplace first using the Marketplaces tab.",
+    "zh": "請先在市集分頁中新增市集。"
+  },
+  {
+    "en": "Add a new working directory",
+    "zh": "新增工作目錄"
+  },
+  {
+    "en": "Add directory to workspace",
+    "zh": "新增目錄到工作區"
+  },
+  {
+    "en": "Adding marketplace to configuration…",
+    "zh": "正在將外掛市場新增到設定中…"
+  },
+  {
+    "en": "Adding marketplace...",
+    "zh": "正在新增外掛市場..."
+  },
+  {
+    "en": "Additional CA cert(s)",
+    "zh": "額外 CA 憑證"
+  },
+  {
+    "en": "Additional directories to allow tool access to",
+    "zh": "允許工具存取的額外目錄"
+  },
+  {
+    "en": "Advisor Tool",
+    "zh": "Advisor Tool"
+  },
+  {
+    "en": "Advisor disabled",
+    "zh": "顧問已禁用"
+  },
+  {
+    "en": "Advisor has reviewed the conversation and will apply the feedback",
+    "zh": "顧問已審查對話並將應用反饋"
+  },
+  {
+    "en": "Advisor model for the server-side advisor tool.",
+    "zh": "伺服器端顧問工具的模型。"
+  },
+  {
+    "en": "Afternoon (12-18)",
+    "zh": "下午 (12-18)"
+  },
+  {
+    "en": "Agent MCP",
+    "zh": "Agent MCP"
+  },
+  {
+    "en": "Agent MCPs",
+    "zh": "Agent MCPs"
+  },
+  {
+    "en": "Agent Parse Errors",
+    "zh": "Agent 解析錯誤"
+  },
+  {
+    "en": "Agent for the current session. Overrides the 'agent' setting.",
+    "zh": "目前工作階段的 Agent。覆蓋 'agent' 設定。"
+  },
+  {
+    "en": "Agent idle",
+    "zh": "Agent 空閒"
+  },
+  {
+    "en": "Agents: ",
+    "zh": "Agent："
+  },
+  {
+    "en": "All available plugins are already installed.",
+    "zh": "所有可用外掛均已安裝。"
+  },
+  {
+    "en": "All background agents stopped",
+    "zh": "所有後臺 Agent 已停止"
+  },
+  {
+    "en": "Start the session as a background agent and return immediately (manage with `claude agents`)",
+    "zh": "以後臺 Agent 啟動工作階段並立即返回（用 `claude agents` 管理）"
+  },
+  {
+    "en": "All plugins from our internal marketplace are vetted and approved.",
+    "zh": "我們內部外掛市場的所有外掛都經過審查和批准。"
+  },
+  {
+    "en": "All plugins from this marketplace are already installed.",
+    "zh": "此市集的所有外掛均已安裝。"
+  },
+  {
+    "en": "All powered up",
+    "zh": "一切就緒"
+  },
+  {
+    "en": "Allow external CLAUDE.md file imports?",
+    "zh": "允許引入外部 CLAUDE.md 檔案？"
+  },
+  {
+    "en": "Allow possible downgrade to stable version",
+    "zh": "允許降級到穩定版本"
+  },
+  {
+    "en": "Allow unsandboxed fallback:",
+    "zh": "允許回退到非沙盒模式："
+  },
+  {
+    "en": "Allowed Unix Sockets:",
+    "zh": "允許的 Unix domain socket："
+  },
+  {
+    "en": "Allowed by auto mode classifier",
+    "zh": "已由自動模式分類器允許"
+  },
+  {
+    "en": "Also requested:",
+    "zh": "同時請求："
+  },
+  {
+    "en": "Also try: ",
+    "zh": "還可以試試："
+  },
+  {
+    "en": "Always copy full response",
+    "zh": "總是複製完整回覆"
+  },
+  {
+    "en": "Amazon Bedrock (Mantle) base URL",
+    "zh": "Amazon Bedrock (Mantle) 基礎 URL"
+  },
+  {
+    "en": "Amazon Bedrock, Microsoft Foundry, or Vertex AI",
+    "zh": "Amazon Bedrock、Microsoft Foundry 或 Vertex AI"
+  },
+  {
+    "en": "An update to our Consumer Terms and Privacy Policy will take effect on",
+    "zh": "消費者條款和隱私政策更新將生效於"
+  },
+  {
+    "en": "Another Claude session is currently using the computer.",
+    "zh": "另一個 Claude 工作階段正在使用電腦。"
+  },
+  {
+    "en": "Another Claude session is currently using the computer. Wait for that session to finish, or find a non-computer-use approach.",
+    "zh": "另一個 Claude 工作階段正在使用電腦。請等待該工作階段完成，或使用非電腦操作的方式。"
+  },
+  {
+    "en": "Another process refreshed tokens, using those",
+    "zh": "另一個程序重新整理了 token，使用那些"
+  },
+  {
+    "en": "Answering...",
+    "zh": "回答中..."
+  },
+  {
+    "en": "Answering…",
+    "zh": "回答中…"
+  },
+  {
+    "en": "Anthropic base URL",
+    "zh": "Anthropic 基礎 URL"
+  },
+  {
+    "en": "Anthropic's agentic coding tool",
+    "zh": "Anthropic 的智慧程式設計工具"
+  },
+  {
+    "en": "Any Bash command",
+    "zh": "任意 Bash 命令"
+  },
+  {
+    "en": "Append a system prompt to the default system prompt",
+    "zh": "將系統提示追加到預設系統提示"
+  },
+  {
+    "en": "Are you sure you want to delete the agent",
+    "zh": "確定要刪除此 Agent 嗎"
+  },
+  {
+    "en": "Are you sure you want to delete this permission rule?",
+    "zh": "確定要刪除此權限規則嗎？"
+  },
+  {
+    "en": "Args: ",
+    "zh": "參數："
+  },
+  {
+    "en": "Ask a quick side question without interrupting the main conversation",
+    "zh": "在不中斷主對話的情況下提問"
+  },
+  {
+    "en": "Ask a repository admin to run this command if setup fails",
+    "zh": "如果設定失敗，請儲存庫管理員執行此命令"
+  },
+  {
+    "en": "Async agent",
+    "zh": "非同步 Agent"
+  },
+  {
+    "en": "Async hook ",
+    "zh": "非同步 Hook "
+  },
+  {
+    "en": "Auth method",
+    "zh": "認證方式"
+  },
+  {
+    "en": "Auth token",
+    "zh": "認證 Token"
+  },
+  {
+    "en": "Auth: ",
+    "zh": "驗證："
+  },
+  {
+    "en": "Authenticating with",
+    "zh": "正在驗證"
+  },
+  {
+    "en": "Author: ",
+    "zh": "作者："
+  },
+  {
+    "en": "Auto mode",
+    "zh": "自動模式"
+  },
+  {
+    "en": "Auto-allow mode:",
+    "zh": "自動允許模式："
+  },
+  {
+    "en": "Auto-compact",
+    "zh": "自動壓縮"
+  },
+  {
+    "en": "Auto-compact is currently disabled (see /config)",
+    "zh": "自動壓縮目前已禁用（見 /config）"
+  },
+  {
+    "en": "Auto-compact when context is full",
+    "zh": "上下文已滿時自動壓縮"
+  },
+  {
+    "en": "Auto-compact window reset to model default",
+    "zh": "自動壓縮視窗已重置為模型預設值"
+  },
+  {
+    "en": "Auto-compact window: ",
+    "zh": "自動壓縮視窗："
+  },
+  {
+    "en": "Auto-connect to IDE (external terminal)",
+    "zh": "自動連接 IDE（外部終端）"
+  },
+  {
+    "en": "Auto-install IDE extension",
+    "zh": "自動安裝 IDE 擴充功能"
+  },
+  {
+    "en": "Auto-registered claude-cli:// deep link protocol handler",
+    "zh": "已自動註冊 claude-cli:// 深度連結協議處理程式"
+  },
+  {
+    "en": "Auto-update channel",
+    "zh": "自動更新頻道"
+  },
+  {
+    "en": "Auto-update enabled. Claude Code will automatically update this marketplace and its installed plugins.",
+    "zh": "已啟用自動更新。Claude Code 將自動更新此市集及其已安裝的外掛。"
+  },
+  {
+    "en": "Auto-updates are disabled in development builds.",
+    "zh": "開發版中自動更新已禁用。"
+  },
+  {
+    "en": "Auto-updating…",
+    "zh": "自動更新中…"
+  },
+  {
+    "en": "Autocompact",
+    "zh": "自動壓縮"
+  },
+  {
+    "en": "Autocompact buffer",
+    "zh": "自動壓縮緩衝"
+  },
+  {
+    "en": "Autocompact is disabled",
+    "zh": "自動壓縮已關閉"
+  },
+  {
+    "en": "Autofix PR",
+    "zh": "自動修復 PR"
+  },
+  {
+    "en": "Automatic color",
+    "zh": "自動配色"
+  },
+  {
+    "en": "Automatically connect to IDE on startup if exactly one valid IDE is available",
+    "zh": "啟動時自動連線 IDE（僅當恰好有一個可用 IDE 時）"
+  },
+  {
+    "en": "Back to plugin list",
+    "zh": "返回外掛列表"
+  },
+  {
+    "en": "Background process cannot read terminal input",
+    "zh": "後臺程序無法讀取終端輸入"
+  },
+  {
+    "en": "Background process cannot write to terminal output",
+    "zh": "後臺程序無法寫入終端輸出"
+  },
+  {
+    "en": "Background tasks",
+    "zh": "背景任務"
+  },
+  {
+    "en": "Backgrounded agent",
+    "zh": "背景代理"
+  },
+  {
+    "en": "Bad request:",
+    "zh": "請求錯誤："
+  },
+  {
+    "en": "Balanced performance - best for most agents",
+    "zh": "性能均衡，適合大多數 Agent"
+  },
+  {
+    "en": "Be comprehensive for best results",
+    "zh": "描述越完整，效果越佳"
+  },
+  {
+    "en": "Bedrock API key (bearer token)",
+    "zh": "Bedrock API 金鑰（Bearer 令牌）"
+  },
+  {
+    "en": "Bedrock base URL",
+    "zh": "Bedrock 基礎 URL"
+  },
+  {
+    "en": "Before compacting, ask me what to preserve",
+    "zh": "壓縮前先問我保留什麼"
+  },
+  {
+    "en": "Behavior ",
+    "zh": "行為 "
+  },
+  {
+    "en": "Binary file",
+    "zh": "二進位檔案"
+  },
+  {
+    "en": "Binary file - cannot display diff",
+    "zh": "二進位檔案 — 無法顯示差異"
+  },
+  {
+    "en": "Brief explanation of the classification decision",
+    "zh": "分類決定的簡要說明"
+  },
+  {
+    "en": "Broken pipe - server closed connection unexpectedly",
+    "zh": "管道斷開 - 伺服器意外關閉連線"
+  },
+  {
+    "en": "Browse custom commands:",
+    "zh": "自訂指令:"
+  },
+  {
+    "en": "Browse default commands:",
+    "zh": "預設指令:"
+  },
+  {
+    "en": "Browser didn't open automatically. URL is shown in UI.",
+    "zh": "瀏覽器未自動開啟。URL 已顯示在介面中。"
+  },
+  {
+    "en": "Browser didn't open? Use the url below to sign in",
+    "zh": "瀏覽器沒有開啟？使用下面的連結登入"
+  },
+  {
+    "en": "Browser switching is only available with bridge connections.",
+    "zh": "瀏覽器切換僅在橋接連線中可用。"
+  },
+  {
+    "en": "Bug Report",
+    "zh": "報告問題"
+  },
+  {
+    "en": "Build, debug, and optimize Claude API / Anthropic SDK apps.",
+    "zh": "構建、除錯並最佳化 Claude API / Anthropic SDK 應用。"
+  },
+  {
+    "en": "Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill should include prompt caching.",
+    "zh": "構建、除錯並最佳化 Claude API / Anthropic SDK 應用。使用此技能構建的應用應包含 prompt caching。"
+  },
+  {
+    "en": "Built-in Hooks",
+    "zh": "內建 Hook"
+  },
+  {
+    "en": "Built-in MCPs",
+    "zh": "內建 MCP"
+  },
+  {
+    "en": "Built-in agents",
+    "zh": "內建代理"
+  },
+  {
+    "en": "Bypass Permissions",
+    "zh": "跳過權限"
+  },
+  {
+    "en": "CLAUDE_CODE_AUTO_COMPACT_WINDOW is set and takes precedence. Unset it to change this setting here.",
+    "zh": "CLAUDE_CODE_AUTO_COMPACT_WINDOW 已設定並優先於此處。取消設定後方可在此更改。"
+  },
+  {
+    "en": "CLI arg agents",
+    "zh": "CLI 參數代理"
+  },
+  {
+    "en": "Calling AWS STS and Bedrock…",
+    "zh": "正在呼叫 AWS STS 和 Bedrock…"
+  },
+  {
+    "en": "Can Anthropic look at your session transcript to help us improve Claude Code?",
+    "zh": "是否允許 Anthropic 查閱您的對話紀錄以改善 Claude Code？"
+  },
+  {
+    "en": "Can Claude...",
+    "zh": "Claude 能不能..."
+  },
+  {
+    "en": "Cancelled ",
+    "zh": "已取消 "
+  },
+  {
+    "en": "Cancelled: ",
+    "zh": "已取消："
+  },
+  {
+    "en": "Cannot block unix domain sockets (see Dependencies tab)",
+    "zh": "無法封鎖 unix domain sockets（請參閱 Dependencies 分頁）"
+  },
+  {
+    "en": "Capabilities: ",
+    "zh": "能力："
+  },
+  {
+    "en": "Change the theme",
+    "zh": "變更主題"
+  },
+  {
+    "en": "Changing thinking mode mid-conversation will increase latency and may reduce quality. For best results, set this at the start of a session.",
+    "zh": "對話中切換思考模式會增加延遲並可能降低質量。建議在工作階段開始時設定。"
+  },
+  {
+    "en": "Channel closed before call started",
+    "zh": "呼叫開始前頻道已關閉"
+  },
+  {
+    "en": "Channel notifications re-registered after reconnect",
+    "zh": "重連後重新註冊頻道通知"
+  },
+  {
+    "en": "Channel notifications registered",
+    "zh": "頻道通知已註冊"
+  },
+  {
+    "en": "Channels are not currently available",
+    "zh": "頻道目前不可用"
+  },
+  {
+    "en": "Channels require claude.ai authentication · run /login, then restart",
+    "zh": "頻道需要 claude.ai 認證 · 執行 /login，然後重啟"
+  },
+  {
+    "en": "Chat about this",
+    "zh": "討論此內容"
+  },
+  {
+    "en": "Check for new plugins later or add more marketplaces.",
+    "zh": "稍後再檢查新外掛或新增更多市集。"
+  },
+  {
+    "en": "Check your internet connection",
+    "zh": "請檢查您的網路連線"
+  },
+  {
+    "en": "Check your network connection.",
+    "zh": "請檢查您的網路連線。"
+  },
+  {
+    "en": "Checking GCP credentials validity for auth refresh",
+    "zh": "檢查 GCP 憑證有效性以重新整理認證"
+  },
+  {
+    "en": "Checking GitHub CLI installation…",
+    "zh": "正在檢查 GitHub CLI 安裝狀態…"
+  },
+  {
+    "en": "Checking candidate",
+    "zh": "檢查候選"
+  },
+  {
+    "en": "Checking connectivity...",
+    "zh": "檢查連線中..."
+  },
+  {
+    "en": "Checking for Claude Desktop…",
+    "zh": "檢查 Claude Desktop…"
+  },
+  {
+    "en": "Checking for updates",
+    "zh": "檢查更新中"
+  },
+  {
+    "en": "Checking git status",
+    "zh": "檢查 git 狀態"
+  },
+  {
+    "en": "Checking installation status...",
+    "zh": "正在檢查安裝狀態..."
+  },
+  {
+    "en": "Checking installation status…",
+    "zh": "檢查安裝狀態…"
+  },
+  {
+    "en": "Checking login status…",
+    "zh": "檢查登入狀態…"
+  },
+  {
+    "en": "Checking out branch",
+    "zh": "切換分支中"
+  },
+  {
+    "en": "Checking thinkback installation…",
+    "zh": "檢查 thinkback 安裝…"
+  },
+  {
+    "en": "Choose an option:",
+    "zh": "請選擇："
+  },
+  {
+    "en": "Choose different models…",
+    "zh": "選擇其他模型…"
+  },
+  {
+    "en": "Choose location",
+    "zh": "選擇位置"
+  },
+  {
+    "en": "Choose the text style that looks best with your terminal",
+    "zh": "選擇最適合你終端機的文字風格"
+  },
+  {
+    "en": "Chrome extension not detected · https://claude.ai/chrome to install",
+    "zh": "未檢測到 Chrome 擴充套件 · https://claude.ai/chrome 安裝"
+  },
+  {
+    "en": "Claude Code",
+    "zh": "Claude Code"
+  },
+  {
+    "en": "Claude Code Browser Extension Native Host",
+    "zh": "Claude Code 瀏覽器擴充套件本地宿主"
+  },
+  {
+    "en": "Claude Code Review - Automated code review on new PRs",
+    "zh": "Claude Code Review — 新 PR 自動程式碼審查"
+  },
+  {
+    "en": "Claude Code installation completed successfully",
+    "zh": "Claude Code 安裝成功完成"
+  },
+  {
+    "en": "Claude Code installation failed",
+    "zh": "Claude Code 安裝失敗"
+  },
+  {
+    "en": "Claude Code is an agentic coding CLI based on the Anthropic API.",
+    "zh": "Claude Code 是基於 Anthropic API 的智慧程式設計 CLI。"
+  },
+  {
+    "en": "Claude Code reads this from AWS_REGION, not ~/.aws/config — set it explicitly even if your profile has a region.",
+    "zh": "Claude Code 從 AWS_REGION 讀取此設定，而非 ~/.aws/config — 即使你的 profile 有 region 也需要顯式設定。"
+  },
+  {
+    "en": "Claude Code successfully installed!",
+    "zh": "Claude Code 已成功安裝！"
+  },
+  {
+    "en": "Claude Code uses the standard AWS credential chain. Pick the method you already use with the AWS CLI.",
+    "zh": "Claude Code 使用標準 AWS 憑證鏈。選擇你已在 AWS CLI 中使用的方式即可。"
+  },
+  {
+    "en": "Claude Code will always reject requests to use denied tools.",
+    "zh": "Claude Code 將始終拒絕使用被拒絕的工具。"
+  },
+  {
+    "en": "Claude Code will be able to read files in this directory and make edits when auto-accept edits is on.",
+    "zh": "Claude Code 將可以讀取此目錄中的檔案，並在啟用自動接受編輯時進行修改。"
+  },
+  {
+    "en": "Claude Code will no longer have access to files in this directory.",
+    "zh": "Claude Code 將不再擁有此目錄的檔案存取權限。"
+  },
+  {
+    "en": "Claude Code will restart to apply.",
+    "zh": "Claude Code 將重啟以生效。"
+  },
+  {
+    "en": "Claude account with subscription ·",
+    "zh": "Claude 訂閱賬號 ·"
+  },
+  {
+    "en": "Claude can make mistakes",
+    "zh": "Claude 可能會犯錯"
+  },
+  {
+    "en": "Claude checkpoints your files before every edit. Press",
+    "zh": "Claude 在每次編輯前會檢查點你的檔案。按"
+  },
+  {
+    "en": "Claude explains its implementation choices and codebase patterns",
+    "zh": "Claude 解釋其實現選擇和程式碼庫模式"
+  },
+  {
+    "en": "Claude found these results:",
+    "zh": "Claude 找到了以下結果："
+  },
+  {
+    "en": "Claude in Chrome (Beta) settings",
+    "zh": "Claude in Chrome（Beta）設定"
+  },
+  {
+    "en": "Claude in Chrome enabled by default",
+    "zh": "Chrome 中的 Claude 預設啟用"
+  },
+  {
+    "en": "Claude in Chrome is not supported in WSL at this time.",
+    "zh": "目前 WSL 中不支援 Claude in Chrome。"
+  },
+  {
+    "en": "Claude in Chrome requires a claude.ai subscription",
+    "zh": "Claude in Chrome 需要 claude.ai 訂閱"
+  },
+  {
+    "en": "Claude in Chrome requires a claude.ai subscription.",
+    "zh": "Claude in Chrome 需要 claude.ai 訂閱。"
+  },
+  {
+    "en": "Claude is done using your computer",
+    "zh": "Claude 已停止操作你的電腦"
+  },
+  {
+    "en": "Claude is now exploring and designing an implementation approach.",
+    "zh": "Claude 正在探索並設計實作方案。"
+  },
+  {
+    "en": "Claude is using your computer · press Ctrl+C to stop",
+    "zh": "Claude 正在操作你的電腦 · 按 Ctrl+C 停止"
+  },
+  {
+    "en": "Claude is using your computer · press Esc to stop",
+    "zh": "Claude 正在操作你的電腦 · 按 Esc 停止"
+  },
+  {
+    "en": "Claude is waiting for your input",
+    "zh": "Claude 正在等待您的輸入"
+  },
+  {
+    "en": "Claude pauses and asks you to write small pieces of code for hands-on practice",
+    "zh": "Claude 暫停並讓你編寫小段程式碼進行實踐練習"
+  },
+  {
+    "en": "Claude wants to enter plan mode to explore and design an implementation approach.",
+    "zh": "Claude 希望進入規劃模式以探索並設計實作方案。"
+  },
+  {
+    "en": "Claude wants to exit plan mode",
+    "zh": "Claude 希望離開規劃模式"
+  },
+  {
+    "en": "Claude will respond without extended thinking",
+    "zh": "Claude 將不使用延伸思考直接回應"
+  },
+  {
+    "en": "Claude will think before responding",
+    "zh": "Claude 將先進行思考再回應"
+  },
+  {
+    "en": "Cleaning up old npm installations...",
+    "zh": "正在清理舊的 npm 安裝..."
+  },
+  {
+    "en": "Cleanup timeout reached, stopping process monitoring",
+    "zh": "清理超時，停止程序監控"
+  },
+  {
+    "en": "Clear authentication",
+    "zh": "清除驗證"
+  },
+  {
+    "en": "Clear conversation and start with only the plan",
+    "zh": "清除對話，僅保留方案"
+  },
+  {
+    "en": "Clear conversation history and free up context",
+    "zh": "清除對話紀錄並釋放上下文空間"
+  },
+  {
+    "en": "Clear conversation history but keep a summary in context. Optional: /compact [instructions for summarization]",
+    "zh": "清除對話紀錄但保留摘要。可選：/compact [摘要指示]"
+  },
+  {
+    "en": "Click to expand",
+    "zh": "點選展開"
+  },
+  {
+    "en": "Click to expand collapsed tool results",
+    "zh": "點選展開已摺疊的工具結果"
+  },
+  {
+    "en": "Client cancelled task execution.",
+    "zh": "客戶端取消了任務執行。"
+  },
+  {
+    "en": "Cloud Authentication",
+    "zh": "雲端認證"
+  },
+  {
+    "en": "Collecting transcript for sharing",
+    "zh": "正在收集對話記錄以分享"
+  },
+  {
+    "en": "Comma-separated list of setting sources to load (user, project, local).",
+    "zh": "要載入的設定來源列表（逗號分隔：user、project、local）。"
+  },
+  {
+    "en": "Command should be emulated but is not implemented",
+    "zh": "命令應該被模擬但未實現"
+  },
+  {
+    "en": "Command: ",
+    "zh": "指令："
+  },
+  {
+    "en": "Commands cannot run outside the sandbox under any circumstances.",
+    "zh": "任何情況下都不允許在沙盒外執行命令。"
+  },
+  {
+    "en": "Commands recently denied by the auto mode classifier.",
+    "zh": "自動模式分類器最近拒絕的命令。"
+  },
+  {
+    "en": "Commands: ",
+    "zh": "命令："
+  },
+  {
+    "en": "Compact buffer",
+    "zh": "壓縮緩衝"
+  },
+  {
+    "en": "Compact summary",
+    "zh": "壓縮摘要"
+  },
+  {
+    "en": "Compacted ",
+    "zh": "已壓縮 "
+  },
+  {
+    "en": "Compacting conversation",
+    "zh": "壓縮對話中"
+  },
+  {
+    "en": "Compacting conversation…",
+    "zh": "壓縮對話中…"
+  },
+  {
+    "en": "Compaction canceled.",
+    "zh": "壓縮已取消。"
+  },
+  {
+    "en": "Compaction interrupted · This may be due to network issues — please try again.",
+    "zh": "壓縮中斷 · 可能是網路問題，請重試。"
+  },
+  {
+    "en": "Complete a security review of the pending changes on the current branch",
+    "zh": "對目前分支的待定變更進行完整的安全審查"
+  },
+  {
+    "en": "Completed task",
+    "zh": "已完成任務"
+  },
+  {
+    "en": "Completing auth flow with authorization code",
+    "zh": "使用授權碼完成認證流程"
+  },
+  {
+    "en": "Computer Use",
+    "zh": "計算機使用"
+  },
+  {
+    "en": "Computer Use needs macOS permissions",
+    "zh": "Computer Use 需要 macOS 權限"
+  },
+  {
+    "en": "Computer Use wants to control these apps",
+    "zh": "Computer Use 要控制這些 App"
+  },
+  {
+    "en": "Computer control is disabled in Settings. Enable it and try again.",
+    "zh": "電腦控制在設定中被禁用。請啟用後重試。"
+  },
+  {
+    "en": "Config change rejected",
+    "zh": "設定更改被拒絕"
+  },
+  {
+    "en": "Config location: ",
+    "zh": "設定位置："
+  },
+  {
+    "en": "Config parsing failed with error",
+    "zh": "設定解析失敗"
+  },
+  {
+    "en": "Configuration Error",
+    "zh": "設定錯誤"
+  },
+  {
+    "en": "Configure Mode:",
+    "zh": "設定模式："
+  },
+  {
+    "en": "Configure Overrides:",
+    "zh": "設定覆蓋："
+  },
+  {
+    "en": "Configure agent memory",
+    "zh": "設定代理記憶"
+  },
+  {
+    "en": "Configure extra usage to keep working when limits are hit",
+    "zh": "設定額外用量以在達到上限時繼續使用"
+  },
+  {
+    "en": "Configure options",
+    "zh": "設定選項"
+  },
+  {
+    "en": "Configure the auto-compact window size",
+    "zh": "設定自動壓縮視窗大小"
+  },
+  {
+    "en": "Configure the default remote environment for teleport sessions",
+    "zh": "設定 teleport 對話的預設遠端環境"
+  },
+  {
+    "en": "Confirm you want to restore",
+    "zh": "確認要還原"
+  },
+  {
+    "en": "Connect Claude on the web to GitHub?",
+    "zh": "要將網頁版 Claude 連結到 GitHub 嗎？"
+  },
+  {
+    "en": "Connect this terminal for remote-control sessions",
+    "zh": "連接此終端機以進行遠端控制"
+  },
+  {
+    "en": "Connect to an IDE for integrated development features.",
+    "zh": "連接 IDE 以使用整合開發功能。"
+  },
+  {
+    "en": "Connecting GitHub to Claude…",
+    "zh": "正在連線 GitHub 到 Claude…"
+  },
+  {
+    "en": "Connecting to",
+    "zh": "連線到"
+  },
+  {
+    "en": "Connection error.",
+    "zh": "連線錯誤。"
+  },
+  {
+    "en": "Connection is already listening",
+    "zh": "連線已在監聽"
+  },
+  {
+    "en": "Connection refused - server may be down",
+    "zh": "連線被拒絕 - 伺服器可能已關閉"
+  },
+  {
+    "en": "Connection was closed before it was established.",
+    "zh": "連線在建立前被關閉。"
+  },
+  {
+    "en": "Conquering the world",
+    "zh": "征服世界"
+  },
+  {
+    "en": "Contact your administrator.",
+    "zh": "請聯絡管理員。"
+  },
+  {
+    "en": "Contact your system administrator for more information.",
+    "zh": "聯絡系統管理員獲取更多資訊。"
+  },
+  {
+    "en": "Contains warnings",
+    "zh": "包含警告"
+  },
+  {
+    "en": "Context Usage",
+    "zh": "上下文用量"
+  },
+  {
+    "en": "Context Usage Warnings",
+    "zh": "上下文用量警告"
+  },
+  {
+    "en": "Context limit reached · /compact or /clear to continue",
+    "zh": "上下文已滿 · /compact 或 /clear 繼續"
+  },
+  {
+    "en": "Continue the current session in Claude Desktop",
+    "zh": "在 Claude Desktop 中繼續目前工作階段"
+  },
+  {
+    "en": "Continue the most recent conversation in the current directory",
+    "zh": "繼續目前目錄中最近的對話"
+  },
+  {
+    "en": "Continue this conversation",
+    "zh": "繼續此對話"
+  },
+  {
+    "en": "Continue to run and watch for changes",
+    "zh": "繼續執行並監視更改"
+  },
+  {
+    "en": "Continue without these settings",
+    "zh": "跳過設定繼續"
+  },
+  {
+    "en": "Continue without using this MCP server",
+    "zh": "不使用此 MCP 伺服器繼續"
+  },
+  {
+    "en": "Conversation compacted",
+    "zh": "對話已壓縮"
+  },
+  {
+    "en": "Conversation copied to clipboard",
+    "zh": "對話已複製到剪貼簿"
+  },
+  {
+    "en": "Conversation summarized",
+    "zh": "對話已摘要"
+  },
+  {
+    "en": "Conversation too long. Press esc twice to go up a few messages and try again.",
+    "zh": "對話過長。按 Esc 兩次返回上幾條訊息後重試。"
+  },
+  {
+    "en": "Copy Claude's last response to clipboard (or /copy N for the Nth-latest)",
+    "zh": "複製最新回覆至剪貼簿（/copy N 複製第 N 個）"
+  },
+  {
+    "en": "Copy on select",
+    "zh": "選中即複製"
+  },
+  {
+    "en": "Copy the conversation to your system clipboard",
+    "zh": "複製對話到系統剪貼簿"
+  },
+  {
+    "en": "Copy to clipboard",
+    "zh": "複製到剪貼簿"
+  },
+  {
+    "en": "Cost of the Claude Code session",
+    "zh": "Claude Code 工作階段費用"
+  },
+  {
+    "en": "Count of CLI sessions started",
+    "zh": "CLI 工作階段啟動次數"
+  },
+  {
+    "en": "Create Authentication Token",
+    "zh": "建立驗證 Token"
+  },
+  {
+    "en": "Create GitHub Actions workflow",
+    "zh": "建立 GitHub Actions 工作流程"
+  },
+  {
+    "en": "Create a branch of the current conversation at this point",
+    "zh": "在目前點建立對話的分支"
+  },
+  {
+    "en": "Create a git commit",
+    "zh": "建立 git commit"
+  },
+  {
+    "en": "Create a long-lived token with your Claude subscription",
+    "zh": "用 Claude 訂閱建立長期令牌"
+  },
+  {
+    "en": "Create a new animation from scratch",
+    "zh": "從零開始建立新動畫"
+  },
+  {
+    "en": "Create a new git worktree for this session (optionally specify a name)",
+    "zh": "為此工作階段建立新的 git worktree（可指定名稱）"
+  },
+  {
+    "en": "Create a new secret with a different name",
+    "zh": "用不同名稱建立新金鑰"
+  },
+  {
+    "en": "Create a remote session with the given description",
+    "zh": "使用給定描述建立遠端工作階段"
+  },
+  {
+    "en": "Create, update, list, or run scheduled remote agents (triggers) that execute on a cron schedule.",
+    "zh": "建立、更新、列出或執行排程的遠端代理（按 cron 排程執行的觸發器）。"
+  },
+  {
+    "en": "Create new agent",
+    "zh": "建立新代理"
+  },
+  {
+    "en": "Create or list command aliases",
+    "zh": "建立或列出指令別名"
+  },
+  {
+    "en": "Create skills in .claude/skills/ or ~/.claude/skills/",
+    "zh": "在 .claude/skills/ 或 ~/.claude/skills/ 中建立技能"
+  },
+  {
+    "en": "Create type stub file(s) for import",
+    "zh": "為匯入建立型別存根檔案"
+  },
+  {
+    "en": "Create verifier skill(s) for automated verification of code changes",
+    "zh": "建立驗證技能以自動驗證程式碼變更"
+  },
+  {
+    "en": "Creating a long-lived token for GitHub Actions",
+    "zh": "為 GitHub Actions 建立長期 Token"
+  },
+  {
+    "en": "Creation method",
+    "zh": "建立方式"
+  },
+  {
+    "en": "Credit balance too low · Add funds: https://platform.claude.com/settings/billing",
+    "zh": "餘額不足 · 請加值：https://platform.claude.com/settings/billing"
+  },
+  {
+    "en": "Ctrl+d to show debug info",
+    "zh": "按 Ctrl+D 顯示除錯資訊"
+  },
+  {
+    "en": "Ctrl-D to hide debug info",
+    "zh": "Ctrl-D 隱藏除錯資訊"
+  },
+  {
+    "en": "Current Plan",
+    "zh": "目前計劃"
+  },
+  {
+    "en": "Current setting:",
+    "zh": "目前設定："
+  },
+  {
+    "en": "Current streak:",
+    "zh": "目前連續："
+  },
+  {
+    "en": "Currently pinned:",
+    "zh": "目前固定："
+  },
+  {
+    "en": "Currently using",
+    "zh": "目前使用"
+  },
+  {
+    "en": "Currently using:",
+    "zh": "目前使用："
+  },
+  {
+    "en": "Custom agent type for this teammate",
+    "zh": "此隊友的自定義 Agent 型別"
+  },
+  {
+    "en": "Custom agents",
+    "zh": "自訂 Agent"
+  },
+  {
+    "en": "Custom model",
+    "zh": "自訂模型"
+  },
+  {
+    "en": "Custom tip",
+    "zh": "自定義提示"
+  },
+  {
+    "en": "Dark mode",
+    "zh": "深色模式"
+  },
+  {
+    "en": "Dark mode (ANSI colors only)",
+    "zh": "深色模式（僅 ANSI 色）"
+  },
+  {
+    "en": "Dark mode (colorblind-friendly)",
+    "zh": "深色模式（色弱友善）"
+  },
+  {
+    "en": "Data Privacy",
+    "zh": "資料隱私"
+  },
+  {
+    "en": "Debug mode",
+    "zh": "除錯模式"
+  },
+  {
+    "en": "Debug mode enabled",
+    "zh": "除錯模式已啟用"
+  },
+  {
+    "en": "Default (recommended)",
+    "zh": "預設（建議）"
+  },
+  {
+    "en": "Default - trusted network access",
+    "zh": "預設 - 信任網路存取"
+  },
+  {
+    "en": "Default permission mode",
+    "zh": "預設權限模式"
+  },
+  {
+    "en": "Default region",
+    "zh": "預設區域"
+  },
+  {
+    "en": "Default teammate model",
+    "zh": "預設隊友模型"
+  },
+  {
+    "en": "Default transcript view mode on startup",
+    "zh": "啟動時的預設對話記錄檢視模式"
+  },
+  {
+    "en": "Default value used when the user provides nothing",
+    "zh": "使用者未提供時使用的預設值"
+  },
+  {
+    "en": "Default view",
+    "zh": "預設檢視"
+  },
+  {
+    "en": "Delay for a specified amount of time",
+    "zh": "延遲指定的時間"
+  },
+  {
+    "en": "Delete agent",
+    "zh": "刪除代理"
+  },
+  {
+    "en": "Delete hook",
+    "zh": "刪除 Hook"
+  },
+  {
+    "en": "Delete it along with the plugin?",
+    "zh": "是否連同外掛一併刪除？"
+  },
+  {
+    "en": "Delete this hook",
+    "zh": "刪除此 Hook"
+  },
+  {
+    "en": "Denied by auto mode classifier ",
+    "zh": "被自動模式分類器拒絕 "
+  },
+  {
+    "en": "Describe the issue below:",
+    "zh": "請在下方描述問題："
+  },
+  {
+    "en": "Description (tell Claude when to use this agent)",
+    "zh": "描述（告訴 Claude 何時使用此代理）"
+  },
+  {
+    "en": "Diagnose and verify your Claude Code installation and settings",
+    "zh": "診斷並驗證 Claude Code 的安裝和設定"
+  },
+  {
+    "en": "Diff tool",
+    "zh": "差異比對工具"
+  },
+  {
+    "en": "Directory that contains virtual environments",
+    "zh": "包含虛擬環境的目錄"
+  },
+  {
+    "en": "Disable Claude in Chrome integration",
+    "zh": "禁用 Chrome 中的 Claude 整合"
+  },
+  {
+    "en": "Disable it just for you in .claude/settings.local.json?",
+    "zh": "是否僅在 .claude/settings.local.json 中為您停用？"
+  },
+  {
+    "en": "Disable plugin",
+    "zh": "禁用外掛"
+  },
+  {
+    "en": "Discarded in favor of other hedged attempt",
+    "zh": "為其他對沖嘗試丟棄"
+  },
+  {
+    "en": "Disconnect this session",
+    "zh": "斷開此工作階段"
+  },
+  {
+    "en": "Discover Claude Code features through quick interactive lessons",
+    "zh": "透過快速互動課程發現 Claude Code 功能"
+  },
+  {
+    "en": "Discover plugins",
+    "zh": "探索外掛"
+  },
+  {
+    "en": "Do you have feedback about the plan?",
+    "zh": "你對計劃有反饋嗎？"
+  },
+  {
+    "en": "Do you want to allow Claude to fetch this content?",
+    "zh": "是否允許 Claude 擷取此內容？"
+  },
+  {
+    "en": "Do you want to allow this connection?",
+    "zh": "是否允許此連線？"
+  },
+  {
+    "en": "Do you want to make this edit to",
+    "zh": "是否要修改此檔案："
+  },
+  {
+    "en": "Do you want to proceed?",
+    "zh": "是否繼續？"
+  },
+  {
+    "en": "Do you want to use this API key?",
+    "zh": "你要使用這個 API 金鑰嗎？"
+  },
+  {
+    "en": "Do you wish to disable auto-connect to IDE?",
+    "zh": "是否關閉自動連接 IDE？"
+  },
+  {
+    "en": "Do you wish to enable auto-connect to IDE?",
+    "zh": "是否啟用自動連接 IDE？"
+  },
+  {
+    "en": "Does Claude...",
+    "zh": "Claude 是否..."
+  },
+  {
+    "en": "Don't ask again",
+    "zh": "不再詢問"
+  },
+  {
+    "en": "Don't ask me again",
+    "zh": "不要再問我"
+  },
+  {
+    "en": "Double-tap esc to rewind the code and/or conversation to a previous point in time",
+    "zh": "按兩下 Esc 回退程式碼和/或對話到之前的某個時刻"
+  },
+  {
+    "en": "Double-tap esc to rewind the conversation to a previous point in time",
+    "zh": "按兩下 Esc 回退對話到之前的某個時刻"
+  },
+  {
+    "en": "Due to prompt injection risks, only use it with code you trust",
+    "zh": "基於提示注入風險，僅限使用於信任的程式碼"
+  },
+  {
+    "en": "Each candidate is tested with a one-token request:",
+    "zh": "每個候選模型用一個 token 的請求測試："
+  },
+  {
+    "en": "Each subagent has its own context window, custom system prompt, and specific tools.",
+    "zh": "每個子 Agent 擁有獨立的上下文視窗、自訂系統提示詞與專屬工具。"
+  },
+  {
+    "en": "Edit Claude memory files",
+    "zh": "編輯 Claude 記憶檔案"
+  },
+  {
+    "en": "Edit Failed",
+    "zh": "編輯失敗"
+  },
+  {
+    "en": "Edit agent",
+    "zh": "編輯代理"
+  },
+  {
+    "en": "Edit and press Enter to retry, or Esc to cancel",
+    "zh": "修改後按 Enter 重試，或按 Esc 取消"
+  },
+  {
+    "en": "Edit color",
+    "zh": "修改顏色"
+  },
+  {
+    "en": "Edit content",
+    "zh": "編輯內容"
+  },
+  {
+    "en": "Edit file",
+    "zh": "編輯檔案"
+  },
+  {
+    "en": "Edit model",
+    "zh": "編輯模型"
+  },
+  {
+    "en": "Edit tools",
+    "zh": "編輯工具"
+  },
+  {
+    "en": "Editor mode",
+    "zh": "編輯器模式"
+  },
+  {
+    "en": "Effort level for the current session (low, medium, high, max)",
+    "zh": "目前工作階段的努力級別（low、medium、high、max）"
+  },
+  {
+    "en": "Effort set to high for this turn",
+    "zh": "本輪運算強度已設為 high"
+  },
+  {
+    "en": "Enable Claude in Chrome integration",
+    "zh": "啟用 Chrome 中的 Claude 整合"
+  },
+  {
+    "en": "Enable Option+Enter key binding for newlines and visual bell",
+    "zh": "啟用 Option+Enter 快捷鍵用於換行和視覺提示"
+  },
+  {
+    "en": "Enable Remote Control for all sessions",
+    "zh": "為所有對話啟用遠端控制"
+  },
+  {
+    "en": "Enable Remote Control for this session",
+    "zh": "為此對話啟用遠端控制"
+  },
+  {
+    "en": "Enable auth status messages in SDK mode",
+    "zh": "在 SDK 模式下啟用認證狀態訊息"
+  },
+  {
+    "en": "Enable debug logging for this session and help diagnose issues",
+    "zh": "為本次對話啟用除錯記錄以協助診斷問題"
+  },
+  {
+    "en": "Enable extended thinking (false to disable)",
+    "zh": "啟用延伸思考（false 以停用）"
+  },
+  {
+    "en": "Enable file checkpointing for code rewind",
+    "zh": "啟用檔案檢查點以供程式碼還原"
+  },
+  {
+    "en": "Enable or disable thinking for this session.",
+    "zh": "為本次工作階段啟用或禁用思考模式。"
+  },
+  {
+    "en": "Enable plan mode or view the current session plan",
+    "zh": "啟用規劃模式或檢視目前的計畫"
+  },
+  {
+    "en": "Enable plugin",
+    "zh": "啟用外掛"
+  },
+  {
+    "en": "Enable todo/task tracking",
+    "zh": "啟用待辦事項/任務追蹤"
+  },
+  {
+    "en": "Enable voice dictation (hold-to-talk)",
+    "zh": "啟用語音聽寫（按住說話）"
+  },
+  {
+    "en": "Enable with latest channel",
+    "zh": "啟用最新頻道"
+  },
+  {
+    "en": "Enable with stable channel",
+    "zh": "啟用穩定頻道"
+  },
+  {
+    "en": "Ensure you have access to this repository",
+    "zh": "確保你有此儲存庫的存取權限"
+  },
+  {
+    "en": "Enter",
+    "zh": "Enter"
+  },
+  {
+    "en": "Enter ",
+    "zh": "Enter "
+  },
+  {
+    "en": "Enter a unique identifier for your agent:",
+    "zh": "請為 Agent 輸入唯一識別碼："
+  },
+  {
+    "en": "Enter filename:",
+    "zh": "輸入檔名："
+  },
+  {
+    "en": "Enter marketplace source:",
+    "zh": "輸入市集來源："
+  },
+  {
+    "en": "Enter new secret name (alphanumeric with underscores):",
+    "zh": "輸入新的密鑰名稱（英數字及底線）："
+  },
+  {
+    "en": "Enter new session name",
+    "zh": "輸入新會話名稱"
+  },
+  {
+    "en": "Enter plan mode?",
+    "zh": "進入規劃模式？"
+  },
+  {
+    "en": "Enter the path to the directory:",
+    "zh": "輸入目錄路徑："
+  },
+  {
+    "en": "Enter the system prompt for your agent:",
+    "zh": "請輸入 Agent 的系統提示詞："
+  },
+  {
+    "en": "Enter to apply",
+    "zh": "Enter 套用"
+  },
+  {
+    "en": "Enter to auth",
+    "zh": "按 Enter 進行認證"
+  },
+  {
+    "en": "Enter to confirm · Esc to cancel",
+    "zh": "Enter 確認 · Esc 取消"
+  },
+  {
+    "en": "Enter to confirm · Esc to exit",
+    "zh": "按 Enter 確認 · 按 Esc 離開"
+  },
+  {
+    "en": "Enter to confirm · Esc to skip",
+    "zh": "按 Enter 確認 · 按 Esc 跳過"
+  },
+  {
+    "en": "Enter to continue",
+    "zh": "Enter 繼續"
+  },
+  {
+    "en": "Enter to continue ·",
+    "zh": "按 Enter 繼續 ·"
+  },
+  {
+    "en": "Enter to copy link · Esc to cancel",
+    "zh": "Enter 複製連結 · Esc 取消"
+  },
+  {
+    "en": "Enter to run · Esc to go back",
+    "zh": "按 Enter 執行 · 按 Esc 返回"
+  },
+  {
+    "en": "Enter to select ·",
+    "zh": "按 Enter 選擇 ·"
+  },
+  {
+    "en": "Enter to select · Esc to continue",
+    "zh": "Enter 選擇 · Esc 繼續"
+  },
+  {
+    "en": "Enter to submit · Esc to cancel",
+    "zh": "Enter 送出 · Esc 取消"
+  },
+  {
+    "en": "Enter to view",
+    "zh": "Enter 查看"
+  },
+  {
+    "en": "Enter view",
+    "zh": "Enter 查看"
+  },
+  {
+    "en": "Enter your preferred response and voice language:",
+    "zh": "輸入你偏好的回應和語音語言："
+  },
+  {
+    "en": "Enter: Save configuration",
+    "zh": "按 Enter 儲存設定"
+  },
+  {
+    "en": "Enterprise MCPs",
+    "zh": "企業 MCP"
+  },
+  {
+    "en": "Environment Variables",
+    "zh": "環境變數"
+  },
+  {
+    "en": "Error editing file",
+    "zh": "編輯檔案錯誤"
+  },
+  {
+    "en": "Error editing notebook",
+    "zh": "編輯 notebook 時發生錯誤"
+  },
+  {
+    "en": "Error loading Claude Code sessions",
+    "zh": "載入 Claude Code 工作階段時出錯"
+  },
+  {
+    "en": "Error reading file",
+    "zh": "讀取檔案錯誤"
+  },
+  {
+    "en": "Error searching files",
+    "zh": "搜尋檔案錯誤"
+  },
+  {
+    "en": "Error writing file",
+    "zh": "寫入檔案錯誤"
+  },
+  {
+    "en": "Error: Unable to create remote session",
+    "zh": "錯誤：無法建立遠端工作階段"
+  },
+  {
+    "en": "Esc again to clear",
+    "zh": "再次按 Esc 清除"
+  },
+  {
+    "en": "Esc to cancel",
+    "zh": "Esc 取消"
+  },
+  {
+    "en": "Esc to close",
+    "zh": "Esc 關閉"
+  },
+  {
+    "en": "Esc to exit",
+    "zh": "Esc 離開"
+  },
+  {
+    "en": "Esc to go back",
+    "zh": "Esc 返回"
+  },
+  {
+    "en": "Establishing connection to MCP server",
+    "zh": "正在建立與 MCP 伺服器的連線"
+  },
+  {
+    "en": "Authenticate with an MCP server (HTTP, SSE, or claude.ai connector)",
+    "zh": "向 MCP 伺服器進行身份驗證（HTTP、SSE 或 claude.ai connector）"
+  },
+  {
+    "en": "Clear stored OAuth credentials for an MCP server",
+    "zh": "清除 MCP 伺服器已儲存的 OAuth 憑據"
+  },
+  {
+    "en": "Estimated usage by category",
+    "zh": "依類別估算的用量"
+  },
+  {
+    "en": "Evening (18-24)",
+    "zh": "晚上 (18-24)"
+  },
+  {
+    "en": "Evidence of sandbox-caused failures includes:",
+    "zh": "沙盒導致失敗的跡象包括："
+  },
+  {
+    "en": "Excluded Commands:",
+    "zh": "已排除的命令："
+  },
+  {
+    "en": "Existing Workflow Found",
+    "zh": "找到既有工作流程"
+  },
+  {
+    "en": "Exit and fix manually",
+    "zh": "離開並手動修復"
+  },
+  {
+    "en": "Exit plan mode?",
+    "zh": "離開規劃模式？"
+  },
+  {
+    "en": "Exit the REPL",
+    "zh": "離開互動模式"
+  },
+  {
+    "en": "Explanation unavailable",
+    "zh": "解釋不可用"
+  },
+  {
+    "en": "Export Conversation",
+    "zh": "匯出對話"
+  },
+  {
+    "en": "Export the current conversation to a file or clipboard",
+    "zh": "匯出目前對話至檔案或剪貼簿"
+  },
+  {
+    "en": "External CLAUDE.md includes",
+    "zh": "外部 CLAUDE.md 引入"
+  },
+  {
+    "en": "External imports:",
+    "zh": "外部匯入："
+  },
+  {
+    "en": "Extra usage",
+    "zh": "額外用量"
+  },
+  {
+    "en": "Extra usage not enabled · /extra-usage to enable",
+    "zh": "額外用量未啟用 · /extra-usage 啟用"
+  },
+  {
+    "en": "Failed to discover OAuth metadata",
+    "zh": "發現 OAuth 後設資料失敗"
+  },
+  {
+    "en": "Failed to generate conversation summary - response did not contain valid text content",
+    "zh": "對話摘要生成失敗——回覆中不含有效文字內容"
+  },
+  {
+    "en": "Failed to install ",
+    "zh": "安裝失敗 "
+  },
+  {
+    "en": "Failed to load marketplace data.",
+    "zh": "載入市集資料失敗。"
+  },
+  {
+    "en": "Failed to resume agent: ",
+    "zh": "恢復 Agent 失敗："
+  },
+  {
+    "en": "Failed to resume session",
+    "zh": "無法繼續對話"
+  },
+  {
+    "en": "Failed to save marketplace retry info · Check ~/.claude.json permissions",
+    "zh": "儲存市集重試資訊失敗 · 請檢查 ~/.claude.json 權限"
+  },
+  {
+    "en": "Failed to send idle notification to team leader",
+    "zh": "傳送空閒通知給團隊負責人失敗"
+  },
+  {
+    "en": "Failed to spawn process - check command and permissions",
+    "zh": "程序啟動失敗 - 檢查命令和權限"
+  },
+  {
+    "en": "Failed: ",
+    "zh": "失敗："
+  },
+  {
+    "en": "Fast and efficient for simple tasks",
+    "zh": "快速且高效，適合簡單任務"
+  },
+  {
+    "en": "Fast mode",
+    "zh": "快速模式"
+  },
+  {
+    "en": "Fast mode OFF",
+    "zh": "快速模式 關"
+  },
+  {
+    "en": "Favorite model:",
+    "zh": "最愛模型："
+  },
+  {
+    "en": "Feedback: ",
+    "zh": "反饋："
+  },
+  {
+    "en": "Fetching AWS caller identity for AWS auth refresh command",
+    "zh": "獲取 AWS 呼叫者身份用於 AWS 認證重新整理命令"
+  },
+  {
+    "en": "Fetching AWS caller identity for credential export command",
+    "zh": "獲取 AWS 呼叫者身份用於憑證匯出命令"
+  },
+  {
+    "en": "Fetching session logs",
+    "zh": "取得對話記錄"
+  },
+  {
+    "en": "Fetching web page",
+    "zh": "獲取網頁中"
+  },
+  {
+    "en": "Fetching your Claude Code sessions…",
+    "zh": "擷取你的 Claude Code 會話…"
+  },
+  {
+    "en": "Fetching…",
+    "zh": "取得中…"
+  },
+  {
+    "en": "File Changed",
+    "zh": "檔案已更改"
+  },
+  {
+    "en": "File must be read first",
+    "zh": "必須先讀取檔案"
+  },
+  {
+    "en": "File not found",
+    "zh": "找不到檔案"
+  },
+  {
+    "en": "File rewinding is not enabled.",
+    "zh": "檔案回退功能未啟用。"
+  },
+  {
+    "en": "Files with errors are skipped entirely, not just the invalid settings.",
+    "zh": "有錯誤的檔案會被整體跳過，不僅僅是無效的設定項。"
+  },
+  {
+    "en": "Filesystem Read Restrictions:",
+    "zh": "檔案系統讀取限制："
+  },
+  {
+    "en": "Filesystem Write Restrictions:",
+    "zh": "檔案系統寫入限制："
+  },
+  {
+    "en": "Fix errors",
+    "zh": "修正錯誤"
+  },
+  {
+    "en": "Fixed port for OAuth callback (for servers requiring pre-registered redirect URIs)",
+    "zh": "OAuth 回撥的固定埠（用於需要預註冊重定向 URI 的伺服器）"
+  },
+  {
+    "en": "Flagged on",
+    "zh": "標記於"
+  },
+  {
+    "en": "Floating point arithmetic error",
+    "zh": "浮點運算錯誤"
+  },
+  {
+    "en": "Follow the prompts to authenticate with GitHub",
+    "zh": "按提示進行 GitHub 認證"
+  },
+  {
+    "en": "For manual setup instructions, see:",
+    "zh": "手動設定說明請見："
+  },
+  {
+    "en": "For more details see:",
+    "zh": "更多資訊請見："
+  },
+  {
+    "en": "For more help:",
+    "zh": "更多幫助："
+  },
+  {
+    "en": "For more info, use",
+    "zh": "更多資訊，使用"
+  },
+  {
+    "en": "For more information on Claude Code on the web:",
+    "zh": "關於 Claude Code 網頁版的更多資訊："
+  },
+  {
+    "en": "For the optimal coding experience, enable the recommended settings",
+    "zh": "為獲得最佳編碼體驗，請啟用推薦設定"
+  },
+  {
+    "en": "For times without dates, use today's date.",
+    "zh": "對於沒有日期的時間，使用今天的日期。"
+  },
+  {
+    "en": "Force installation even if already installed",
+    "zh": "強制安裝，即使已安裝"
+  },
+  {
+    "en": "Free space:",
+    "zh": "可用空間："
+  },
+  {
+    "en": "From your shell:",
+    "zh": "從你的 Shell："
+  },
+  {
+    "en": "Full name: ",
+    "zh": "全名："
+  },
+  {
+    "en": "Full response",
+    "zh": "完整回覆"
+  },
+  {
+    "en": "GCP project",
+    "zh": "GCP 專案"
+  },
+  {
+    "en": "Generate a report analyzing your Claude Code sessions",
+    "zh": "產生使用分析報告"
+  },
+  {
+    "en": "Generate a one-line session recap now",
+    "zh": "立即生成一行工作階段總結"
+  },
+  {
+    "en": "Generate with Claude (recommended)",
+    "zh": "用 Claude 生成（推薦）"
+  },
+  {
+    "en": "Generate your personalized animation",
+    "zh": "生成你的個性化動畫"
+  },
+  {
+    "en": "Generating QR code…",
+    "zh": "產生 QR 碼…"
+  },
+  {
+    "en": "Get the current weather for a location",
+    "zh": "獲取某地的目前天氣"
+  },
+  {
+    "en": "Getting branch info",
+    "zh": "取得分支資訊"
+  },
+  {
+    "en": "Git is required to install marketplaces.",
+    "zh": "安裝市集需要 Git。"
+  },
+  {
+    "en": "Go back",
+    "zh": "返回"
+  },
+  {
+    "en": "Go back and fix",
+    "zh": "返回修復"
+  },
+  {
+    "en": "Got it, thanks!",
+    "zh": "了解"
+  },
+  {
+    "en": "Graceful shutdown requested by team lead",
+    "zh": "團隊負責人請求優雅關閉"
+  },
+  {
+    "en": "Guest passes are not currently available.",
+    "zh": "訪客通行證目前不可使用。"
+  },
+  {
+    "en": "Have an administrator set channelsEnabled: true in managed settings to enable",
+    "zh": "請管理員在託管設定中設定 channelsEnabled: true 以啟用"
+  },
+  {
+    "en": "Having trouble? See manual setup instructions at:",
+    "zh": "遇到問題？請見手動設定說明："
+  },
+  {
+    "en": "Help improve Claude",
+    "zh": "幫助改善 Claude"
+  },
+  {
+    "en": "Help teammates ramp on Claude Code with a guide from your usage",
+    "zh": "用你的使用經驗幫助隊友上手 Claude Code"
+  },
+  {
+    "en": "Here is Claude's plan:",
+    "zh": "以下是 Claude 的計畫:"
+  },
+  {
+    "en": "Hide stdout from transcript",
+    "zh": "在對話記錄中隱藏標準輸出"
+  },
+  {
+    "en": "Hit Enter to queue up additional messages while Claude is working.",
+    "zh": "Claude 工作時，按 Enter 可繼續排隊輸入訊息。"
+  },
+  {
+    "en": "Hook Configuration - Disabled",
+    "zh": "Hook 設定 - 已停用"
+  },
+  {
+    "en": "Hook Structure",
+    "zh": "Hook 結構"
+  },
+  {
+    "en": "Hook details",
+    "zh": "Hook 詳情"
+  },
+  {
+    "en": "Hooks Restricted by Policy",
+    "zh": "Hook 受策略限制"
+  },
+  {
+    "en": "Hooks only",
+    "zh": "僅 Hook"
+  },
+  {
+    "en": "Hooks: ",
+    "zh": "Hook："
+  },
+  {
+    "en": "Host unreachable - network connectivity issue",
+    "zh": "主機不可達 - 網路連線問題"
+  },
+  {
+    "en": "Hover info",
+    "zh": "懸停資訊"
+  },
+  {
+    "en": "How do I...",
+    "zh": "如何..."
+  },
+  {
+    "en": "How do you authenticate to AWS?",
+    "zh": "你如何進行 AWS 認證？"
+  },
+  {
+    "en": "How should the plan be implemented?",
+    "zh": "方案應如何實施？"
+  },
+  {
+    "en": "How thinking content appears in the response",
+    "zh": "思考內容在回覆中的顯示方式"
+  },
+  {
+    "en": "How this affects data retention",
+    "zh": "此變更對資料保留的影響"
+  },
+  {
+    "en": "How to fix:",
+    "zh": "修復方式："
+  },
+  {
+    "en": "How would you like to handle this?",
+    "zh": "您想如何處理？"
+  },
+  {
+    "en": "I am using this for local development",
+    "zh": "我正在用於本地開發"
+  },
+  {
+    "en": "If the redirect page shows a connection error, paste the URL from your browser's address bar:",
+    "zh": "如果重定向頁面顯示連線錯誤，請從瀏覽器位址列貼上 URL："
+  },
+  {
+    "en": "If this is a new task, clearing context will save usage and be faster.",
+    "zh": "如果是新任務，清除上下文可以節省用量並加快速度。"
+  },
+  {
+    "en": "If this is an SSO profile, run `aws sso login --profile NAME` first.",
+    "zh": "如果是 SSO profile，請先執行 `aws sso login --profile 名稱`。"
+  },
+  {
+    "en": "If your browser didn't open automatically, copy this URL manually",
+    "zh": "如果瀏覽器沒有自動開啟，請手動複製此 URL"
+  },
+  {
+    "en": "If your browser doesn't open automatically, copy this URL manually",
+    "zh": "如果瀏覽器沒有自動開啟，請手動複製此 URL"
+  },
+  {
+    "en": "If your browser doesn't open automatically, copy this URL manually:",
+    "zh": "如果瀏覽器未自動開啟，請手動複製此 URL："
+  },
+  {
+    "en": "If your browser doesn't open automatically, visit:",
+    "zh": "如果瀏覽器沒有自動開啟，請前往："
+  },
+  {
+    "en": "Image was too large. Double press esc to go back and try again with a smaller image.",
+    "zh": "圖片過大。按兩下 Esc 返回，使用較小的圖片重試。"
+  },
+  {
+    "en": "Implement here",
+    "zh": "在此實現"
+  },
+  {
+    "en": "Import MCP Servers from Claude Desktop",
+    "zh": "從 Claude Desktop 匯入 MCP 伺服器"
+  },
+  {
+    "en": "Important: Make sure to grant access to this specific repository",
+    "zh": "重要：請確認已授權存取此特定儲存庫"
+  },
+  {
+    "en": "In plan mode, Claude will:",
+    "zh": "在規劃模式中，Claude 將："
+  },
+  {
+    "en": "In progress… · ",
+    "zh": "進行中… · "
+  },
+  {
+    "en": "Inbound messages will be silently dropped",
+    "zh": "入站訊息將被靜默丟棄"
+  },
+  {
+    "en": "Include available plugins from marketplaces (requires --json)",
+    "zh": "包含外掛市場中的可用外掛（需要 --json）"
+  },
+  {
+    "en": "Individual Tools:",
+    "zh": "個別工具:"
+  },
+  {
+    "en": "Inherit from parent",
+    "zh": "繼承上層"
+  },
+  {
+    "en": "Initialize a new CLAUDE.md file with codebase documentation",
+    "zh": "用程式碼庫檔案初始化新的 CLAUDE.md 檔案"
+  },
+  {
+    "en": "Initialize new CLAUDE.md file(s) and optional skills/hooks with codebase documentation",
+    "zh": "用程式碼庫檔案初始化新的 CLAUDE.md 檔案，並可選建立技能/Hook"
+  },
+  {
+    "en": "Inject bridge failure states for manual recovery testing",
+    "zh": "注入橋接故障狀態以進行手動恢復測試"
+  },
+  {
+    "en": "Inject plan into the current conversation",
+    "zh": "將方案注入目前對話"
+  },
+  {
+    "en": "Install Chrome extension",
+    "zh": "安裝 Chrome 擴充功能"
+  },
+  {
+    "en": "Install Claude Code native build",
+    "zh": "安裝 Claude Code 原生版本"
+  },
+  {
+    "en": "Install GitHub App",
+    "zh": "安裝 GitHub App"
+  },
+  {
+    "en": "Install Plugins",
+    "zh": "安裝外掛"
+  },
+  {
+    "en": "Install Shift+Enter key binding for newlines",
+    "zh": "安裝 Shift+Enter 快捷鍵用於換行"
+  },
+  {
+    "en": "Install for all collaborators on this repository (project scope)",
+    "zh": "為所有協作者安裝（專案範圍）"
+  },
+  {
+    "en": "Install for you (user scope)",
+    "zh": "為你安裝（使用者範圍）"
+  },
+  {
+    "en": "Install for you, in this repo only (local scope)",
+    "zh": "僅在此 repo 安裝（本地範圍）"
+  },
+  {
+    "en": "Install it2 now",
+    "zh": "立即安裝 it2"
+  },
+  {
+    "en": "Install plugins",
+    "zh": "安裝外掛"
+  },
+  {
+    "en": "Install the Claude GitHub App",
+    "zh": "安裝 Claude GitHub App"
+  },
+  {
+    "en": "Installation failed",
+    "zh": "安裝失敗"
+  },
+  {
+    "en": "Installed components:",
+    "zh": "已安裝的元件："
+  },
+  {
+    "en": "Installing Claude Code native build ",
+    "zh": "正在安裝 Claude Code 原生構建 "
+  },
+  {
+    "en": "Interrupted ",
+    "zh": "已中斷 "
+  },
+  {
+    "en": "Interrupted by user",
+    "zh": "使用者中斷"
+  },
+  {
+    "en": "Interrupts the currently running conversation turn.",
+    "zh": "中斷目前正在執行的對話回合。"
+  },
+  {
+    "en": "Invalid Key.",
+    "zh": "金鑰無效。"
+  },
+  {
+    "en": "Invalid Settings",
+    "zh": "無效設定"
+  },
+  {
+    "en": "Invalid npm package name format",
+    "zh": "無效的 npm 包名格式"
+  },
+  {
+    "en": "Invalid response body, expected a web ReadableStream",
+    "zh": "無效的響應體，期望 Web ReadableStream"
+  },
+  {
+    "en": "Keep worktree",
+    "zh": "保留工作樹"
+  },
+  {
+    "en": "Keep worktree and tmux session",
+    "zh": "保留工作樹和 tmux 會話"
+  },
+  {
+    "en": "Keep worktree, kill tmux session",
+    "zh": "保留工作樹，結束 tmux 會話"
+  },
+  {
+    "en": "Keeping worktree…",
+    "zh": "保留 worktree…"
+  },
+  {
+    "en": "Key binding mode",
+    "zh": "快捷鍵模式"
+  },
+  {
+    "en": "Key pressed.",
+    "zh": "按鍵已按下。"
+  },
+  {
+    "en": "Keybinding Configuration Issues",
+    "zh": "快捷鍵設定問題"
+  },
+  {
+    "en": "Kick off a long task, close your laptop, check progress from your phone.",
+    "zh": "啟動一個長任務，合上筆記本，用手機檢視進度。"
+  },
+  {
+    "en": "LSP Plugin Recommendation",
+    "zh": "LSP 外掛建議"
+  },
+  {
+    "en": "LSP operation failed",
+    "zh": "LSP 操作失敗"
+  },
+  {
+    "en": "LSP provides code intelligence like go-to-definition and error checking",
+    "zh": "LSP 提供程式碼智慧功能，如轉到定義和錯誤檢查"
+  },
+  {
+    "en": "Large file - diff exceeds 1 MB limit",
+    "zh": "檔案過大 — diff 超過 1 MB 限制"
+  },
+  {
+    "en": "Large file modified",
+    "zh": "大型檔案已修改"
+  },
+  {
+    "en": "Latest available:",
+    "zh": "最新可用："
+  },
+  {
+    "en": "Learn more",
+    "zh": "瞭解更多"
+  },
+  {
+    "en": "Leave empty for default (English)",
+    "zh": "留空使用預設（English）"
+  },
+  {
+    "en": "Let me try...",
+    "zh": "讓我試試..."
+  },
+  {
+    "en": "Let's get started.",
+    "zh": "開始吧。"
+  },
+  {
+    "en": "Let's go!",
+    "zh": "開始"
+  },
+  {
+    "en": "Light mode",
+    "zh": "淺色模式"
+  },
+  {
+    "en": "Light mode (ANSI colors only)",
+    "zh": "淺色模式（僅 ANSI 色）"
+  },
+  {
+    "en": "Light mode (colorblind-friendly)",
+    "zh": "淺色模式（色弱友善）"
+  },
+  {
+    "en": "List all files currently in context",
+    "zh": "列出目前上下文中的所有檔案"
+  },
+  {
+    "en": "List and manage background tasks",
+    "zh": "列出並管理背景任務"
+  },
+  {
+    "en": "List available skills",
+    "zh": "列出可用技能"
+  },
+  {
+    "en": "Listed directory",
+    "zh": "已列出目錄"
+  },
+  {
+    "en": "Listening for channel messages from: ",
+    "zh": "正在監聽來自以下的頻道訊息："
+  },
+  {
+    "en": "Load failed",
+    "zh": "載入失敗"
+  },
+  {
+    "en": "Loading Claude Code sessions…",
+    "zh": "載入 Claude Code 會話…"
+  },
+  {
+    "en": "Loading conversations…",
+    "zh": "載入對話…"
+  },
+  {
+    "en": "Loading environments…",
+    "zh": "載入環境中…"
+  },
+  {
+    "en": "Loading guest pass information…",
+    "zh": "載入訪客通行資訊…"
+  },
+  {
+    "en": "Loading installed plugins…",
+    "zh": "載入已安裝外掛中…"
+  },
+  {
+    "en": "Loading marketplaces...",
+    "zh": "載入市集..."
+  },
+  {
+    "en": "Loading marketplaces…",
+    "zh": "載入市集…"
+  },
+  {
+    "en": "Loading output styles…",
+    "zh": "載入輸出樣式…"
+  },
+  {
+    "en": "Loading output…",
+    "zh": "載入輸出中…"
+  },
+  {
+    "en": "Loading session…",
+    "zh": "載入會話中…"
+  },
+  {
+    "en": "Loading stats…",
+    "zh": "正在載入統計…"
+  },
+  {
+    "en": "Loading thinkback skill…",
+    "zh": "載入 thinkback 技能…"
+  },
+  {
+    "en": "Loading usage data…",
+    "zh": "載入用量資料中…"
+  },
+  {
+    "en": "Loading your Claude Code stats…",
+    "zh": "正在載入 Claude Code 統計…"
+  },
+  {
+    "en": "Local MCPs",
+    "zh": "本地 MCP"
+  },
+  {
+    "en": "Local agents",
+    "zh": "本地代理"
+  },
+  {
+    "en": "Location: ",
+    "zh": "位置："
+  },
+  {
+    "en": "Log in to Claude",
+    "zh": "登入 Claude"
+  },
+  {
+    "en": "Logged in as",
+    "zh": "已登入為"
+  },
+  {
+    "en": "Logging to: ",
+    "zh": "日誌寫入："
+  },
+  {
+    "en": "Login interrupted",
+    "zh": "登入已中斷"
+  },
+  {
+    "en": "Login method",
+    "zh": "登入方式"
+  },
+  {
+    "en": "Login successful. Press ",
+    "zh": "登入成功。按 "
+  },
+  {
+    "en": "Login with Claude account",
+    "zh": "用 Claude 帳號登入"
+  },
+  {
+    "en": "Long builds and test suites do not have to block you. Add",
+    "zh": "長時間的構建和測試不會阻塞你。新增"
+  },
+  {
+    "en": "Long context that holds up",
+    "zh": "長效上下文"
+  },
+  {
+    "en": "Longest session:",
+    "zh": "最長工作階段："
+  },
+  {
+    "en": "Longest streak:",
+    "zh": "最長連續："
+  },
+  {
+    "en": "Looking at...",
+    "zh": "檢視中..."
+  },
+  {
+    "en": "Looks good",
+    "zh": "看起來不錯"
+  },
+  {
+    "en": "MCP Config Diagnostics",
+    "zh": "MCP 設定診斷"
+  },
+  {
+    "en": "MCP Servers:",
+    "zh": "MCP 伺服器:"
+  },
+  {
+    "en": "MCP documentation",
+    "zh": "MCP 檔案"
+  },
+  {
+    "en": "MCP servers",
+    "zh": "MCP 伺服器"
+  },
+  {
+    "en": "Import MCP servers from Claude Desktop (Mac and WSL only)",
+    "zh": "從 Claude Desktop 匯入 MCP 伺服器（僅限 Mac 與 WSL）"
+  },
+  {
+    "en": "List configured MCP servers. Note: The workspace trust dialog is skipped and stdio servers from .mcp.json are spawned for health checks. Only use this command in directories you trust.",
+    "zh": "列出已設定的 MCP 伺服器。注意：此指令會跳過工作區信任對話框，並啟動 .mcp.json 中的 stdio 伺服器進行健康檢查。請只在信任的目錄中使用。"
+  },
+  {
+    "en": "List configured MCP servers. Unapproved .mcp.json servers are shown as \\u23F8 Pending approval and not connected to; approved servers are health-checked.",
+    "zh": "列出已設定的 MCP 伺服器。未批准的 .mcp.json 伺服器會顯示為 ⏸ 待批准且不會連線；已批准的伺服器會做健康檢查。"
+  },
+  {
+    "en": "MCP tools",
+    "zh": "MCP 工具"
+  },
+  {
+    "en": "Manage Claude Code plugins",
+    "zh": "管理 Claude Code 外掛"
+  },
+  {
+    "en": "Manage IDE integrations and show status",
+    "zh": "管理 IDE 整合並顯示狀態"
+  },
+  {
+    "en": "Manage MCP servers",
+    "zh": "管理 MCP 伺服器"
+  },
+  {
+    "en": "Manage agent configurations",
+    "zh": "管理 Agent 設定"
+  },
+  {
+    "en": "Manage allow & deny tool permission rules",
+    "zh": "管理工具的允許與拒絕權限規則"
+  },
+  {
+    "en": "Manage marketplaces",
+    "zh": "管理市集"
+  },
+  {
+    "en": "Manage permissions",
+    "zh": "管理權限"
+  },
+  {
+    "en": "Manage plugins",
+    "zh": "管理外掛"
+  },
+  {
+    "en": "Managed agents",
+    "zh": "受管理代理"
+  },
+  {
+    "en": "Managed by your organization — contact your admin",
+    "zh": "由組織管理 — 請聯繫管理員"
+  },
+  {
+    "en": "Manual configuration",
+    "zh": "手動設定"
+  },
+  {
+    "en": "Map comment with trailing content",
+    "zh": "帶尾部內容的對映註釋"
+  },
+  {
+    "en": "Maximum dollar amount to spend on API calls (only works with --print)",
+    "zh": "API 呼叫最大花費（僅 --print 模式有效）"
+  },
+  {
+    "en": "Maximum number of redirects exceeded",
+    "zh": "超出最大重定向次數"
+  },
+  {
+    "en": "Memory files",
+    "zh": "記憶檔案"
+  },
+  {
+    "en": "Message ",
+    "zh": "訊息 "
+  },
+  {
+    "en": "Messages after this point will be summarized.",
+    "zh": "此處之後的訊息將被摘要。"
+  },
+  {
+    "en": "Microcompact",
+    "zh": "微壓縮"
+  },
+  {
+    "en": "Microsoft Foundry base URL",
+    "zh": "Microsoft Foundry 基礎 URL"
+  },
+  {
+    "en": "Microsoft Foundry resource",
+    "zh": "Microsoft Foundry 資源"
+  },
+  {
+    "en": "Missing dependencies",
+    "zh": "缺少依賴"
+  },
+  {
+    "en": "Model determines the agent's reasoning capabilities and speed.",
+    "zh": "模型決定代理的推理能力與速度。"
+  },
+  {
+    "en": "More workflow examples (issue triage, CI fixes, etc.) at:",
+    "zh": "更多工作流示例（問題分流、CI 修復等）見："
+  },
+  {
+    "en": "Morning (6-12)",
+    "zh": "早上 (6-12)"
+  },
+  {
+    "en": "Most active day:",
+    "zh": "最活躍的一天："
+  },
+  {
+    "en": "Most capable for complex reasoning tasks",
+    "zh": "最強大，適合複雜推理任務"
+  },
+  {
+    "en": "Network Access",
+    "zh": "網路存取"
+  },
+  {
+    "en": "Network Restrictions",
+    "zh": "網路限制"
+  },
+  {
+    "en": "Network connection failures to non-whitelisted hosts",
+    "zh": "到非白名單主機的網路連線失敗"
+  },
+  {
+    "en": "Network request outside of sandbox",
+    "zh": "沙盒外的網路請求"
+  },
+  {
+    "en": "NetworkError when attempting to fetch resource",
+    "zh": "嘗試獲取資源時發生網路錯誤"
+  },
+  {
+    "en": "Never for",
+    "zh": "永不過期"
+  },
+  {
+    "en": "Never mind",
+    "zh": "算了"
+  },
+  {
+    "en": "New file not yet staged.",
+    "zh": "新檔案尚未加入暫存。"
+  },
+  {
+    "en": "New here? Run",
+    "zh": "新使用者？執行"
+  },
+  {
+    "en": "Next steps:",
+    "zh": "下一步："
+  },
+  {
+    "en": "Next: Run ",
+    "zh": "下一步：執行 "
+  },
+  {
+    "en": "Night (0-6)",
+    "zh": "深夜 (0-6)"
+  },
+  {
+    "en": "No Claude Code sessions found",
+    "zh": "未找到 Claude Code 工作階段"
+  },
+  {
+    "en": "No Sandbox",
+    "zh": "無沙盒"
+  },
+  {
+    "en": "No advisor",
+    "zh": "無顧問"
+  },
+  {
+    "en": "No agents found",
+    "zh": "找不到代理"
+  },
+  {
+    "en": "No agents found. Create specialized subagents that Claude can delegate to.",
+    "zh": "未找到代理。建立專門的子代理供 Claude 委派任務。"
+  },
+  {
+    "en": "No cells found in notebook",
+    "zh": "筆記本中找不到儲存格"
+  },
+  {
+    "en": "No changed files",
+    "zh": "無已變更的檔案"
+  },
+  {
+    "en": "No changes detected",
+    "zh": "未偵測到變更"
+  },
+  {
+    "en": "No code changes",
+    "zh": "沒有程式碼變更"
+  },
+  {
+    "en": "No code restore",
+    "zh": "無程式碼恢復"
+  },
+  {
+    "en": "No conversations found to resume.",
+    "zh": "找不到可恢復的對話。"
+  },
+  {
+    "en": "No custom commands found",
+    "zh": "未找到自訂指令"
+  },
+  {
+    "en": "No diff content",
+    "zh": "沒有差異內容"
+  },
+  {
+    "en": "No extended thinking",
+    "zh": "不使用擴充套件思考"
+  },
+  {
+    "en": "No hooks configured for this event.",
+    "zh": "此事件未設定 Hook。"
+  },
+  {
+    "en": "No info yet",
+    "zh": "暫無資訊"
+  },
+  {
+    "en": "No marketplaces configured.",
+    "zh": "尚未設定任何市集。"
+  },
+  {
+    "en": "No matching sessions found.",
+    "zh": "找不到符合的會話。"
+  },
+  {
+    "en": "No messages to compact",
+    "zh": "沒有訊息可壓縮"
+  },
+  {
+    "en": "No model usage data available",
+    "zh": "沒有可用的模型使用數據"
+  },
+  {
+    "en": "No new plugins available to install.",
+    "zh": "沒有新外掛可供安裝。"
+  },
+  {
+    "en": "No other browsers available to switch to. Open Chrome with the Claude extension in another browser to switch.",
+    "zh": "沒有其他瀏覽器可切換。在其他瀏覽器中開啟帶 Claude 擴充套件的 Chrome 來切換。"
+  },
+  {
+    "en": "No output available",
+    "zh": "沒有可用的輸出"
+  },
+  {
+    "en": "No plan found",
+    "zh": "找不到計畫"
+  },
+  {
+    "en": "No plugin errors",
+    "zh": "無外掛錯誤"
+  },
+  {
+    "en": "No plugins available.",
+    "zh": "沒有可用的外掛。"
+  },
+  {
+    "en": "No preview available",
+    "zh": "無法預覽"
+  },
+  {
+    "en": "No recent denials. Commands denied by the auto mode classifier will appear here.",
+    "zh": "最近沒有被拒絕的命令。被自動模式分類器拒絕的命令將顯示在此。"
+  },
+  {
+    "en": "No remote environments available.",
+    "zh": "無可用的遠端環境。"
+  },
+  {
+    "en": "No response",
+    "zh": "無響應"
+  },
+  {
+    "en": "No response.",
+    "zh": "無響應。"
+  },
+  {
+    "en": "No scheduled jobs",
+    "zh": "沒有排程工作"
+  },
+  {
+    "en": "No skills found",
+    "zh": "找不到技能"
+  },
+  {
+    "en": "No stats available yet. Start using Claude Code!",
+    "zh": "還沒有統計資料。開始使用 Claude Code 吧！"
+  },
+  {
+    "en": "No task output available",
+    "zh": "沒有可用的任務輸出"
+  },
+  {
+    "en": "No tasks currently running",
+    "zh": "目前沒有正在執行的任務"
+  },
+  {
+    "en": "No teammates",
+    "zh": "暫無隊友"
+  },
+  {
+    "en": "No tools available",
+    "zh": "無可用的工具"
+  },
+  {
+    "en": "No, and don't show plugin installation hints again",
+    "zh": "否，不再顯示外掛安裝提示"
+  },
+  {
+    "en": "No, cancel",
+    "zh": "否，取消"
+  },
+  {
+    "en": "No, disable external imports",
+    "zh": "否，停用外部匯入"
+  },
+  {
+    "en": "No, exit",
+    "zh": "否，離開"
+  },
+  {
+    "en": "No, keep planning",
+    "zh": "否，繼續規劃"
+  },
+  {
+    "en": "No, maybe later with /terminal-setup",
+    "zh": "否，之後用 /terminal-setup"
+  },
+  {
+    "en": "No, not now",
+    "zh": "不，先不要"
+  },
+  {
+    "en": "No, refine with Ultraplan on Claude Code on the web",
+    "zh": "否，在網頁版 Claude Code 用 Ultraplan 調整"
+  },
+  {
+    "en": "No, start implementing now",
+    "zh": "否，現在開始實作"
+  },
+  {
+    "en": "Not connected",
+    "zh": "未連線"
+  },
+  {
+    "en": "Not detected",
+    "zh": "未檢測到"
+  },
+  {
+    "en": "Not enough messages to compact.",
+    "zh": "訊息不足，無法壓縮。"
+  },
+  {
+    "en": "Not in remote mode. Start with `claude --remote` to use this command.",
+    "zh": "未處於遠端模式。請以 `claude --remote` 啟動以使用此指令。"
+  },
+  {
+    "en": "Not now",
+    "zh": "現在不要"
+  },
+  {
+    "en": "Not working",
+    "zh": "不工作"
+  },
+  {
+    "en": "Note: Only one Claude Code instance can be connected to VS Code at a time.",
+    "zh": "注意：同一時間只能有一個 Claude Code 例項連線到 VS Code。"
+  },
+  {
+    "en": "Note: Some servers already exist with the same name. If selected, they will be imported with a numbered suffix.",
+    "zh": "注意：部分伺服器已存在同名項。如選中，將以數字字尾匯入。"
+  },
+  {
+    "en": "Nothing to rewind to yet.",
+    "zh": "目前沒有可回溯的內容。"
+  },
+  {
+    "en": "Nothing to summarize after the selected message.",
+    "zh": "所選訊息之後沒有可摘要的內容。"
+  },
+  {
+    "en": "Nothing to summarize before the selected message.",
+    "zh": "所選訊息之前沒有可摘要的內容。"
+  },
+  {
+    "en": "Notifications",
+    "zh": "通知"
+  },
+  {
+    "en": "Now using extra usage",
+    "zh": "已啟用額外用量"
+  },
+  {
+    "en": "Number of git commits created",
+    "zh": "建立的 git commit 數"
+  },
+  {
+    "en": "Number of pull requests created",
+    "zh": "建立的 Pull Request 數"
+  },
+  {
+    "en": "Number of tokens used",
+    "zh": "使用的 token 數"
+  },
+  {
+    "en": "OAuth error:",
+    "zh": "OAuth 錯誤："
+  },
+  {
+    "en": "OAuth token",
+    "zh": "OAuth 令牌"
+  },
+  {
+    "en": "October 8, 2025",
+    "zh": "2025年10月8日"
+  },
+  {
+    "en": "On a team?",
+    "zh": "在團隊中？"
+  },
+  {
+    "en": "Only hooks from managed settings can run. User-defined hooks from ~/.claude/settings.json, .claude/settings.json, and .claude/settings.local.json are blocked.",
+    "zh": "只有託管設定中的 Hook 可以執行。使用者自定義 Hook（~/.claude/settings.json、.claude/settings.json 和 .claude/settings.local.json）已被阻止。"
+  },
+  {
+    "en": "Only needed for temporary credentials from STS. Leave empty for long-lived keys.",
+    "zh": "僅用於 STS 臨時憑證。長期金鑰請留空。"
+  },
+  {
+    "en": "Open System Settings → Accessibility",
+    "zh": "開啟系統設定 → 輔助功能"
+  },
+  {
+    "en": "Open auto-memory folder",
+    "zh": "開啟自動記憶資料夾"
+  },
+  {
+    "en": "Open config panel",
+    "zh": "開啟設定面板"
+  },
+  {
+    "en": "Open homepage",
+    "zh": "開啟首頁"
+  },
+  {
+    "en": "Open in browser: ",
+    "zh": "在瀏覽器中開啟："
+  },
+  {
+    "en": "Open in editor",
+    "zh": "在編輯器中開啟"
+  },
+  {
+    "en": "Open or create your keybindings configuration file",
+    "zh": "開啟或建立快捷鍵設定檔"
+  },
+  {
+    "en": "Open team memory folder",
+    "zh": "開啟團隊記憶資料夾"
+  },
+  {
+    "en": "Opened changes in",
+    "zh": "在以下位置開啟更改"
+  },
+  {
+    "en": "Opening Claude Desktop…",
+    "zh": "開啟 Claude Desktop…"
+  },
+  {
+    "en": "Opening Slack app installation page in browser…",
+    "zh": "正在瀏覽器中開啟 Slack 應用安裝頁面…"
+  },
+  {
+    "en": "Opening browser to IdP authorization endpoint",
+    "zh": "正在瀏覽器中開啟 IdP 授權端點"
+  },
+  {
+    "en": "Opening browser to install the Claude GitHub App…",
+    "zh": "正在開啟瀏覽器以安裝 Claude GitHub App…"
+  },
+  {
+    "en": "Opening browser to sign in with your Claude account…",
+    "zh": "正在開啟瀏覽器以使用 Claude 帳號登入…"
+  },
+  {
+    "en": "Opening browser to sign in…",
+    "zh": "正在開啟瀏覽器以登入…"
+  },
+  {
+    "en": "Opening handshake has timed out",
+    "zh": "握手超時"
+  },
+  {
+    "en": "Opening in Claude Desktop…",
+    "zh": "在 Claude Desktop 中開啟…"
+  },
+  {
+    "en": "Opening pull request page",
+    "zh": "開啟 PR 頁面"
+  },
+  {
+    "en": "Opening sticker page in browser…",
+    "zh": "正在瀏覽器中開啟貼紙頁面…"
+  },
+  {
+    "en": "Opening your options…",
+    "zh": "開啟選項…"
+  },
+  {
+    "en": "Opens a secure connection to claude.ai.",
+    "zh": "開啟至 claude.ai 的安全連線。"
+  },
+  {
+    "en": "Opens teammates in a separate tmux session",
+    "zh": "在單獨的 tmux 工作階段中開啟隊友"
+  },
+  {
+    "en": "Option as Meta",
+    "zh": "Option 作為 Meta 鍵"
+  },
+  {
+    "en": "Opus (1M context)",
+    "zh": "Opus（1M 上下文）"
+  },
+  {
+    "en": "Opus Plan Mode",
+    "zh": "Opus 規劃模式"
+  },
+  {
+    "en": "Order Claude Code stickers",
+    "zh": "訂購 Claude Code 貼紙"
+  },
+  {
+    "en": "Output Style",
+    "zh": "輸出風格"
+  },
+  {
+    "en": "Output style",
+    "zh": "輸出風格"
+  },
+  {
+    "en": "Override settings are managed by a higher-priority configuration and cannot be changed locally.",
+    "zh": "覆寫設定由更高優先順序的設定管理，無法在本地變更。"
+  },
+  {
+    "en": "Override verbose mode setting from config",
+    "zh": "覆蓋設定中的詳細模式設定"
+  },
+  {
+    "en": "PDF is password protected. Please double press esc to edit your message and try again.",
+    "zh": "PDF 有密碼保護。請按兩下 Esc 編輯訊息後重試。"
+  },
+  {
+    "en": "PDF too large",
+    "zh": "PDF 過大"
+  },
+  {
+    "en": "PR #",
+    "zh": "PR #"
+  },
+  {
+    "en": "Package name cannot contain path traversal patterns",
+    "zh": "包名不能包含路徑遍歷模式"
+  },
+  {
+    "en": "Parent session ID for analytics correlation",
+    "zh": "用於分析關聯的父工作階段 ID"
+  },
+  {
+    "en": "Pasting text…",
+    "zh": "貼上文字中…"
+  },
+  {
+    "en": "Pending changes:",
+    "zh": "待處理的變更:"
+  },
+  {
+    "en": "Pending response rejected since connection got disposed",
+    "zh": "待處理響應被拒絕，因為連線已被釋放"
+  },
+  {
+    "en": "Permission mode",
+    "zh": "權限模式"
+  },
+  {
+    "en": "Permission request sent to team ",
+    "zh": "權限請求已傳送給團隊 "
+  },
+  {
+    "en": "Permissions:",
+    "zh": "權限:"
+  },
+  {
+    "en": "Personal (~/.claude/agents/)",
+    "zh": "個人（~/.claude/agents/）"
+  },
+  {
+    "en": "Pin the working models",
+    "zh": "固定目前模型"
+  },
+  {
+    "en": "Plan Approval Request from",
+    "zh": "計劃審批請求來自"
+  },
+  {
+    "en": "Plan Mode",
+    "zh": "規劃模式"
+  },
+  {
+    "en": "Plan file: ",
+    "zh": "方案檔案："
+  },
+  {
+    "en": "Plan files for current session are allowed for reading",
+    "zh": "目前工作階段的方案檔案允許讀取"
+  },
+  {
+    "en": "Plan files for current session are allowed for writing",
+    "zh": "目前工作階段的方案檔案允許寫入"
+  },
+  {
+    "en": "Plan flow interrupted. Return to your terminal and retry.",
+    "zh": "計劃流程被中斷。返回終端重試。"
+  },
+  {
+    "en": "Plan needs revision",
+    "zh": "計畫需要修訂"
+  },
+  {
+    "en": "Plan saved!",
+    "zh": "計畫已儲存！"
+  },
+  {
+    "en": "Plan submitted for team lead approval",
+    "zh": "計劃已提交給團隊負責人審批"
+  },
+  {
+    "en": "Plan teleported. Return to your terminal to continue.",
+    "zh": "計劃已傳送。返回終端繼續。"
+  },
+  {
+    "en": "Plan to implement",
+    "zh": "計畫實作"
+  },
+  {
+    "en": "Plan updated",
+    "zh": "計畫已更新"
+  },
+  {
+    "en": "Plan → Edit → Execute",
+    "zh": "計劃 → 編輯 → 執行"
+  },
+  {
+    "en": "Planning: ",
+    "zh": "規劃中："
+  },
+  {
+    "en": "Play animation",
+    "zh": "播放動畫"
+  },
+  {
+    "en": "Please check your internet connection and network settings.",
+    "zh": "請檢查您的網路連線與網路設定。"
+  },
+  {
+    "en": "Please double press esc to edit your last message or start a new session for Claude Code to assist with a different task.",
+    "zh": "請按兩下 Esc 編輯上一條訊息，或開始新工作階段以處理其他任務。"
+  },
+  {
+    "en": "Please enter a repository name to continue",
+    "zh": "請輸入儲存庫名稱以繼續"
+  },
+  {
+    "en": "Please install git and restart Claude Code.",
+    "zh": "請安裝 git 並重新啟動 Claude Code。"
+  },
+  {
+    "en": "Please install the app for repository: ",
+    "zh": "請為此儲存庫安裝應用："
+  },
+  {
+    "en": "Please restart your IDE and try again.",
+    "zh": "請重啟 IDE 後重試。"
+  },
+  {
+    "en": "Please revise your plan based on the feedback and call ExitPlanMode again.",
+    "zh": "請根據回饋修訂計畫，然後再次呼叫 ExitPlanMode。"
+  },
+  {
+    "en": "Please select how you'd like to continue",
+    "zh": "請選擇您要如何繼續"
+  },
+  {
+    "en": "Please select the servers you want to import:",
+    "zh": "請選擇要匯入的伺服器："
+  },
+  {
+    "en": "Please use --channels to run a list of approved channels.",
+    "zh": "請使用 --channels 執行已批准的頻道列表。"
+  },
+  {
+    "en": "Please wait…",
+    "zh": "請稍候…"
+  },
+  {
+    "en": "Plugin Command Usage:",
+    "zh": "外掛指令用法："
+  },
+  {
+    "en": "Plugin Details",
+    "zh": "外掛詳情"
+  },
+  {
+    "en": "Plugin Errors",
+    "zh": "外掛錯誤"
+  },
+  {
+    "en": "Plugin Hooks",
+    "zh": "外掛 Hook"
+  },
+  {
+    "en": "Plugin Recommendation",
+    "zh": "外掛推薦"
+  },
+  {
+    "en": "Plugin agents",
+    "zh": "外掛代理"
+  },
+  {
+    "en": "Plugin details",
+    "zh": "外掛詳情"
+  },
+  {
+    "en": "Plugin options",
+    "zh": "外掛選項"
+  },
+  {
+    "en": "Plugin skill",
+    "zh": "外掛 Skill"
+  },
+  {
+    "en": "Pre-fill the prompt input with text without submitting it",
+    "zh": "預填提示輸入但不提交"
+  },
+  {
+    "en": "Pre-populate email address on the login page",
+    "zh": "在登入頁面預填郵箱地址"
+  },
+  {
+    "en": "Preceding messages will be summarized. This and subsequent messages will remain unchanged — you will stay at the end of the conversation.",
+    "zh": "前面的訊息將被摘要。此訊息及後續訊息保持不變——你將停留在對話末尾。"
+  },
+  {
+    "en": "Preferred output style",
+    "zh": "偏好的輸出風格"
+  },
+  {
+    "en": "Prefix for auto-generated Remote Control session names (default: hostname)",
+    "zh": "自動生成的遠端控制工作階段名字首（預設：主機名）"
+  },
+  {
+    "en": "Preserved step-up auth state across revocation",
+    "zh": "在復原過程中保留了升級認證狀態"
+  },
+  {
+    "en": "Press Ctrl+C to exit and start a new conversation.",
+    "zh": "按 Ctrl+C 離開並開始新對話。"
+  },
+  {
+    "en": "Press Enter once you've installed the app",
+    "zh": "安裝完應用程式後請按 Enter"
+  },
+  {
+    "en": "Press Enter or Esc to go back",
+    "zh": "按 Enter 或 Esc 返回"
+  },
+  {
+    "en": "Press Enter to continue",
+    "zh": "按 Enter 繼續"
+  },
+  {
+    "en": "Press Enter to continue anyway, or Ctrl+C to exit and fix issues",
+    "zh": "按 Enter 繼續，或 Ctrl+C 離開並修正問題"
+  },
+  {
+    "en": "Press Enter to try again, or any other key to cancel",
+    "zh": "按 Enter 重試，或按其他鍵取消"
+  },
+  {
+    "en": "Press Enter when ready to verify…",
+    "zh": "準備好後按 Enter 驗證…"
+  },
+  {
+    "en": "Press Esc again to go back",
+    "zh": "再次按 Esc 返回"
+  },
+  {
+    "en": "Press Option+Enter to send a multi-line message",
+    "zh": "按 Option+Enter 發送多行訊息"
+  },
+  {
+    "en": "Press Shift+Enter to send a multi-line message",
+    "zh": "按 Shift+Enter 發送多行訊息"
+  },
+  {
+    "en": "Press any key to continue…",
+    "zh": "按任意鍵繼續…"
+  },
+  {
+    "en": "Press any key to exit",
+    "zh": "按任意鍵離開"
+  },
+  {
+    "en": "Press any key to return to API key selection",
+    "zh": "按任意鍵返回 API 金鑰選擇"
+  },
+  {
+    "en": "Press up to edit queued messages",
+    "zh": "按 ↑ 編輯佇列中的訊息"
+  },
+  {
+    "en": "Press ↑↓ to navigate · Enter to select · Esc to go back",
+    "zh": "↑↓ 瀏覽 · Enter 選擇 · Esc 返回"
+  },
+  {
+    "en": "Press ↑↓ to navigate, Enter to select, Esc to cancel",
+    "zh": "↑↓ 瀏覽，Enter 選擇，Esc 取消"
+  },
+  {
+    "en": "Print detailed performance stats",
+    "zh": "顯示詳細效能統計"
+  },
+  {
+    "en": "Print live sessions as a JSON array and exit (for scripting; does not require a TTY)",
+    "zh": "以 JSON 陣列列印實時工作階段並離開（用於指令碼；不需要 TTY）"
+  },
+  {
+    "en": "Print active sessions as a JSON array and exit (for scripting; does not require a TTY)",
+    "zh": "以 JSON 陣列列印活躍工作階段並離開（用於指令碼；不需要 TTY）"
+  },
+  {
+    "en": "With --json: include completed sessions (the full agent view list)",
+    "zh": "配合 --json：包含已完成工作階段（完整 Agent 檢視列表）"
+  },
+  {
+    "en": "Print the version this session is running (not what autoupdate downloaded)",
+    "zh": "顯示目前執行的版本號（不是自動更新下載的版本）"
+  },
+  {
+    "en": "Pro, Max, Team, or Enterprise",
+    "zh": "Pro、Max、Team 或 Enterprise"
+  },
+  {
+    "en": "Proceed with Extra Usage billing",
+    "zh": "同意額外用量計費"
+  },
+  {
+    "en": "Processing authentication…",
+    "zh": "處理驗證中…"
+  },
+  {
+    "en": "Processing changes…",
+    "zh": "處理變更中…"
+  },
+  {
+    "en": "Project (.claude/agents/)",
+    "zh": "專案（.claude/agents/）"
+  },
+  {
+    "en": "Project MCPs",
+    "zh": "專案 MCP"
+  },
+  {
+    "en": "Project agents",
+    "zh": "專案代理"
+  },
+  {
+    "en": "Project settings",
+    "zh": "專案設定"
+  },
+  {
+    "en": "Project settings (local)",
+    "zh": "專案設定（本地）"
+  },
+  {
+    "en": "Prompt suggestions",
+    "zh": "提示建議"
+  },
+  {
+    "en": "Enable prompt suggestions. In print/SDK mode, emits a prompt_suggestion message after each turn with a predicted next user prompt",
+    "zh": "啟用提示建議。在非互動模式下，每輪結束後輸出一條預測的下一步提示。"
+  },
+  {
+    "en": "Provide an explanation of a shell command",
+    "zh": "解釋一個 shell 指令"
+  },
+  {
+    "en": "Re-authenticate",
+    "zh": "重新驗證"
+  },
+  {
+    "en": "Read aborted",
+    "zh": "讀取已中止"
+  },
+  {
+    "en": "Read output (",
+    "zh": "閱讀輸出 ("
+  },
+  {
+    "en": "Read system prompt from a file and append to the default system prompt",
+    "zh": "從檔案讀取系統提示並追加到預設系統提示"
+  },
+  {
+    "en": "Reading ~/.aws/config…",
+    "zh": "正在讀取 ~/.aws/config…"
+  },
+  {
+    "en": "Ready to code?",
+    "zh": "準備好寫程式了嗎？"
+  },
+  {
+    "en": "Ready to submit your answers?",
+    "zh": "準備好提交你的回答了嗎？"
+  },
+  {
+    "en": "Reason ",
+    "zh": "原因 "
+  },
+  {
+    "en": "Reason, if the condition was not met",
+    "zh": "條件未滿足時的原因"
+  },
+  {
+    "en": "Received ListRoots request from server",
+    "zh": "收到伺服器的 ListRoots 請求"
+  },
+  {
+    "en": "Received auth code via manual callback URL",
+    "zh": "透過手動回撥 URL 收到授權碼"
+  },
+  {
+    "en": "Recent messages",
+    "zh": "最近訊息"
+  },
+  {
+    "en": "Reconnect extension",
+    "zh": "重新連線擴充功能"
+  },
+  {
+    "en": "Reconnecting to",
+    "zh": "重新連線到"
+  },
+  {
+    "en": "Reconnection failed after authentication",
+    "zh": "認證後重連失敗"
+  },
+  {
+    "en": "Redirecting to authorization URL",
+    "zh": "正在重定向到授權 URL"
+  },
+  {
+    "en": "Redirection handling is disabled, skipping redirect",
+    "zh": "重定向處理已禁用，跳過重定向"
+  },
+  {
+    "en": "Reduce motion",
+    "zh": "減少動態效果"
+  },
+  {
+    "en": "Referenced PDF",
+    "zh": "引用 PDF"
+  },
+  {
+    "en": "Referenced file",
+    "zh": "引用檔案"
+  },
+  {
+    "en": "Regenerate",
+    "zh": "重新生成"
+  },
+  {
+    "en": "Release notes",
+    "zh": "更新說明"
+  },
+  {
+    "en": "Released computer-use lock",
+    "zh": "已釋放電腦操作鎖"
+  },
+  {
+    "en": "Relive your year of coding with Claude.",
+    "zh": "重溫你與 Claude 一起程式設計的一年。"
+  },
+  {
+    "en": "Remote Control",
+    "zh": "遠端控制"
+  },
+  {
+    "en": "Remote Control active",
+    "zh": "遠端控制已啟用"
+  },
+  {
+    "en": "Remote Control connecting…",
+    "zh": "遠端控制連線中…"
+  },
+  {
+    "en": "Remote Control failed",
+    "zh": "遠端控制失敗"
+  },
+  {
+    "en": "Remote Control reconnecting",
+    "zh": "遠端控制重新連線"
+  },
+  {
+    "en": "Remote agent launched",
+    "zh": "遠端 Agent 已啟動"
+  },
+  {
+    "en": "Remote agents",
+    "zh": "遠端 Agent"
+  },
+  {
+    "en": "Remote session",
+    "zh": "遠端工作階段"
+  },
+  {
+    "en": "Remote task",
+    "zh": "遠端任務"
+  },
+  {
+    "en": "Remove directory from workspace?",
+    "zh": "從工作區移除目錄？"
+  },
+  {
+    "en": "Remove marketplace",
+    "zh": "移除市集"
+  },
+  {
+    "en": "Remove worktree",
+    "zh": "移除工作樹"
+  },
+  {
+    "en": "Remove worktree and tmux session",
+    "zh": "移除工作樹和 tmux 會話"
+  },
+  {
+    "en": "Removed empty socket directory",
+    "zh": "已刪除空的 socket 目錄"
+  },
+  {
+    "en": "Removed from marketplace",
+    "zh": "已從外掛市場移除"
+  },
+  {
+    "en": "Removed from marketplace · reason:",
+    "zh": "已從外掛市場移除 · 原因："
+  },
+  {
+    "en": "Removed worktree",
+    "zh": "已移除 worktree"
+  },
+  {
+    "en": "Removing worktree…",
+    "zh": "正在移除 worktree…"
+  },
+  {
+    "en": "Rename session:",
+    "zh": "重新命名工作階段："
+  },
+  {
+    "en": "Rename the current conversation",
+    "zh": "重新命名目前的對話"
+  },
+  {
+    "en": "Report the security classification result for the agent action",
+    "zh": "報告 Agent 操作的安全分類結果"
+  },
+  {
+    "en": "Request body larger than maxBodyLength limit",
+    "zh": "請求體超過 maxBodyLength 限制"
+  },
+  {
+    "en": "Request for process information",
+    "zh": "請求程序資訊"
+  },
+  {
+    "en": "Request timed out.",
+    "zh": "請求超時。"
+  },
+  {
+    "en": "Request was aborted.",
+    "zh": "請求已中止。"
+  },
+  {
+    "en": "Requested permissions:",
+    "zh": "請求的權限："
+  },
+  {
+    "en": "Require plan mode before implementation",
+    "zh": "要求在實施前先進入規劃模式"
+  },
+  {
+    "en": "Requires the Chrome extension. Get started at",
+    "zh": "需要 Chrome 擴充套件。開始使用"
+  },
+  {
+    "en": "Research and plan a large-scale change, then execute it in parallel across 5–30 isolated worktree agents that each open a PR.",
+    "zh": "研究並規劃大規模變更，然後透過 5–30 個獨立的 worktree agent 平行執行，各自建立 PR。"
+  },
+  {
+    "en": "Reset with default configuration",
+    "zh": "重置為預設設定"
+  },
+  {
+    "en": "Respect .gitignore in file picker",
+    "zh": "檔案選擇器遵守 .gitignore"
+  },
+  {
+    "en": "Restarting Claude Code to apply the new model…",
+    "zh": "正在重啟 Claude Code 以應用新模型…"
+  },
+  {
+    "en": "Restarting caffeinate to maintain sleep prevention",
+    "zh": "重啟 caffeinate 以保持防止休眠"
+  },
+  {
+    "en": "Restore and fork the conversation to the point before…",
+    "zh": "恢復並分支對話到之前的狀態…"
+  },
+  {
+    "en": "Restore code",
+    "zh": "還原程式碼"
+  },
+  {
+    "en": "Restore code and conversation",
+    "zh": "還原程式碼與對話"
+  },
+  {
+    "en": "Restore conversation",
+    "zh": "還原對話"
+  },
+  {
+    "en": "Restore files to state at the specified user message and exit (requires --resume)",
+    "zh": "將檔案恢復到指定使用者訊息時的狀態並離開（需要 --resume）"
+  },
+  {
+    "en": "Restore the code and/or conversation to a previous point",
+    "zh": "還原程式碼及/或對話至先前時間點"
+  },
+  {
+    "en": "Restore the code and/or conversation to the point before…",
+    "zh": "恢復程式碼和/或對話到之前的狀態…"
+  },
+  {
+    "en": "Result of a rewindFiles operation.",
+    "zh": "rewindFiles 操作的結果。"
+  },
+  {
+    "en": "Resume a Claude Code session from claude.ai",
+    "zh": "從 claude.ai 恢復 Claude Code 工作階段"
+  },
+  {
+    "en": "Resume a previous conversation",
+    "zh": "繼續先前的對話"
+  },
+  {
+    "en": "Resume a teleport session, optionally specify session ID",
+    "zh": "恢復 teleport 工作階段，可選指定工作階段 ID"
+  },
+  {
+    "en": "Resume from summary (recommended)",
+    "zh": "從摘要恢復（推薦）"
+  },
+  {
+    "en": "Resume full session as-is",
+    "zh": "完整恢復工作階段"
+  },
+  {
+    "en": "Resuming conversation…",
+    "zh": "恢復對話…"
+  },
+  {
+    "en": "Resuming session…",
+    "zh": "恢復會話中…"
+  },
+  {
+    "en": "Resuming the full session will consume a substantial portion of your usage limits. We recommend resuming from a summary.",
+    "zh": "恢復完整工作階段將消耗大量使用配額。建議從摘要恢復。"
+  },
+  {
+    "en": "Retrying in ",
+    "zh": "重試中 "
+  },
+  {
+    "en": "Retrying…",
+    "zh": "重試中…"
+  },
+  {
+    "en": "Return here after authenticating in your browser.",
+    "zh": "在瀏覽器中認證後返回這裡。"
+  },
+  {
+    "en": "Return here after authenticating in your browser. Press Esc to go back.",
+    "zh": "在瀏覽器中完成驗證後回到此處。按 Esc 返回。"
+  },
+  {
+    "en": "Returned to",
+    "zh": "返回到"
+  },
+  {
+    "en": "Review a pull request",
+    "zh": "審查 Pull Request"
+  },
+  {
+    "en": "Review and manage your privacy settings at",
+    "zh": "審查和管理隱私設定："
+  },
+  {
+    "en": "Review changed code for reuse, quality, and efficiency, then fix any issues found.",
+    "zh": "檢視變更的程式碼（複用性、品質、效率），並修正問題"
+  },
+  {
+    "en": "Review your answers",
+    "zh": "檢查你的答案"
+  },
+  {
+    "en": "Rewind code (checkpoints)",
+    "zh": "回溯程式碼（檢查點）"
+  },
+  {
+    "en": "Rewinds file changes made since a specific user message.",
+    "zh": "回退自特定使用者訊息以來的檔案更改。"
+  },
+  {
+    "en": "Rule details",
+    "zh": "規則詳情"
+  },
+  {
+    "en": "Run /reload-plugins to apply changes",
+    "zh": "請執行 /reload-plugins 以套用變更"
+  },
+  {
+    "en": "Run Setup and SessionStart:startup hooks, then exit",
+    "zh": "執行 Setup 和 SessionStart:startup Hook，然後離開"
+  },
+  {
+    "en": "Run Setup hooks with init trigger, then continue",
+    "zh": "以 init 觸發器執行 Setup Hook，然後繼續"
+  },
+  {
+    "en": "Run Setup hooks with maintenance trigger, then continue",
+    "zh": "以 maintenance 觸發器執行 Setup Hook，然後繼續"
+  },
+  {
+    "en": "Run a command on SLURM cluster nodes",
+    "zh": "在 SLURM 叢集節點上執行指令"
+  },
+  {
+    "en": "Run a prompt or slash command on a recurring interval (e.g. /loop 5m /foo). Omit the interval to let the model self-pace.",
+    "zh": "在固定間隔內執行提示詞或斜槓命令（例如 /loop 5m /foo）。省略間隔則讓模型自行調整節奏。"
+  },
+  {
+    "en": "Run a prompt or slash command on a recurring interval (e.g. /loop 5m /foo, defaults to 10m)",
+    "zh": "依固定間隔重複執行提示或斜線指令（如 /loop 5m /foo，預設 10 分鐘）"
+  },
+  {
+    "en": "Run claude --teleport from a checkout of ",
+    "zh": "從檢出目錄執行 claude --teleport "
+  },
+  {
+    "en": "Run ultraplan",
+    "zh": "執行 ultraplan"
+  },
+  {
+    "en": "Running ",
+    "zh": "執行中 "
+  },
+  {
+    "en": "Running PostCompact hooks…",
+    "zh": "執行 PostCompact hooks…"
+  },
+  {
+    "en": "Running PreCompact hooks…",
+    "zh": "執行 PreCompact hooks…"
+  },
+  {
+    "en": "Running feedback capture...",
+    "zh": "收集回饋中..."
+  },
+  {
+    "en": "Running…",
+    "zh": "執行中…"
+  },
+  {
+    "en": "Runs in Claude Code on the web. When the plan is ready,",
+    "zh": "在 Claude Code 網頁版中執行。方案就緒後，"
+  },
+  {
+    "en": "Same Claude Code with visual diffs, live app preview, parallel sessions, and more.",
+    "zh": "與 Claude Code 相同，另有視覺化差異、即時應用預覽、平行對話等功能。"
+  },
+  {
+    "en": "Same key defined twice in one context",
+    "zh": "同一上下文中定義了相同的鍵兩次"
+  },
+  {
+    "en": "Sandbox",
+    "zh": "沙盒"
+  },
+  {
+    "en": "Sandbox is not enabled",
+    "zh": "沙盒未啟用"
+  },
+  {
+    "en": "Sandbox is not enabled. Enable sandbox to configure override settings.",
+    "zh": "沙盒未啟用。請啟用沙盒以設定覆寫規則。"
+  },
+  {
+    "en": "Save and close editor to continue...",
+    "zh": "儲存並關閉編輯器以繼續..."
+  },
+  {
+    "en": "Save anyway (skip verification)",
+    "zh": "仍然儲存（跳過驗證）"
+  },
+  {
+    "en": "Save file to continue…",
+    "zh": "儲存檔案以繼續…"
+  },
+  {
+    "en": "Save the conversation to a file in the current directory",
+    "zh": "儲存對話到目前目錄的檔案"
+  },
+  {
+    "en": "Save to file",
+    "zh": "儲存到檔案"
+  },
+  {
+    "en": "Saving a memory is a two-step process:",
+    "zh": "儲存記憶分兩步："
+  },
+  {
+    "en": "Scope: ",
+    "zh": "範圍: "
+  },
+  {
+    "en": "Screen Recording:",
+    "zh": "螢幕錄製："
+  },
+  {
+    "en": "Screenshot via chrome extension",
+    "zh": "透過 Chrome 擴充套件截圖"
+  },
+  {
+    "en": "Search settings…",
+    "zh": "搜尋設定…"
+  },
+  {
+    "en": "Searched for",
+    "zh": "已搜尋"
+  },
+  {
+    "en": "Searching for",
+    "zh": "搜尋中"
+  },
+  {
+    "en": "Searching with Claude…",
+    "zh": "用 Claude 搜尋中…"
+  },
+  {
+    "en": "Searching: ",
+    "zh": "搜尋: "
+  },
+  {
+    "en": "Searching…",
+    "zh": "搜尋中…"
+  },
+  {
+    "en": "Security guide",
+    "zh": "安全指南"
+  },
+  {
+    "en": "Security notes:",
+    "zh": "安全說明："
+  },
+  {
+    "en": "See https://code.claude.com/docs/en/network-config",
+    "zh": "參見 https://code.claude.com/docs/en/network-config"
+  },
+  {
+    "en": "Select GitHub repository",
+    "zh": "選擇 GitHub 儲存庫"
+  },
+  {
+    "en": "Select GitHub workflows to install",
+    "zh": "選擇要安裝的 GitHub 工作流"
+  },
+  {
+    "en": "Select IDE",
+    "zh": "選擇 IDE"
+  },
+  {
+    "en": "Select a session to resume",
+    "zh": "選擇要恢復的工作階段"
+  },
+  {
+    "en": "Select a version to view its notes.",
+    "zh": "選擇一個版本檢視其說明。"
+  },
+  {
+    "en": "Select an IDE to open the project",
+    "zh": "選擇 IDE 開啟專案"
+  },
+  {
+    "en": "Select any you wish to enable.",
+    "zh": "選擇您要啟用的項目。"
+  },
+  {
+    "en": "Select auto-compact window: ",
+    "zh": "選擇自動壓縮視窗："
+  },
+  {
+    "en": "Select content to copy:",
+    "zh": "選擇要複製的內容："
+  },
+  {
+    "en": "Select export method:",
+    "zh": "選擇匯出方式:"
+  },
+  {
+    "en": "Select login method:",
+    "zh": "選擇登入方式："
+  },
+  {
+    "en": "Select marketplace",
+    "zh": "選擇市集"
+  },
+  {
+    "en": "Select model",
+    "zh": "選擇模型"
+  },
+  {
+    "en": "Select tools",
+    "zh": "選擇工具"
+  },
+  {
+    "en": "Send message as a new conversation",
+    "zh": "以新對話發送訊息"
+  },
+  {
+    "en": "Sending SIGINT to MCP server process",
+    "zh": "向 MCP 伺服器程序傳送 SIGINT"
+  },
+  {
+    "en": "Sending a test request to Bedrock…",
+    "zh": "正在向 Bedrock 傳送測試請求…"
+  },
+  {
+    "en": "Sending ping with timeout",
+    "zh": "傳送 ping 超時"
+  },
+  {
+    "en": "Sending token request to endpoint:",
+    "zh": "正在向端點傳送令牌請求："
+  },
+  {
+    "en": "Sent a message to",
+    "zh": "已傳送訊息到"
+  },
+  {
+    "en": "Server command must have at least one element (the command)",
+    "zh": "伺服器命令必須至少有一個元素（命令本身）"
+  },
+  {
+    "en": "Server created",
+    "zh": "伺服器已建立"
+  },
+  {
+    "en": "Server disabled during reconnection, stopping retry",
+    "zh": "重連期間伺服器被禁用，停止重試"
+  },
+  {
+    "en": "Server does not support token revocation",
+    "zh": "伺服器不支援 token 復原"
+  },
+  {
+    "en": "Server is disabled, skipping automatic reconnection",
+    "zh": "伺服器已禁用，跳過自動重連"
+  },
+  {
+    "en": "Server name can only contain letters, numbers, hyphens, and underscores",
+    "zh": "伺服器名稱只能包含字母、數字、連字元和下劃線"
+  },
+  {
+    "en": "Session Hooks",
+    "zh": "工作階段 Hook"
+  },
+  {
+    "en": "Session ID",
+    "zh": "對話 ID"
+  },
+  {
+    "en": "Session URL",
+    "zh": "工作階段 URL"
+  },
+  {
+    "en": "Session name",
+    "zh": "對話名稱"
+  },
+  {
+    "en": "Session: ",
+    "zh": "會話: "
+  },
+  {
+    "en": "Set Stop hook (this session only)",
+    "zh": "設定 Stop Hook（僅本次工作階段）"
+  },
+  {
+    "en": "Set a session-only Stop hook with a quick prompt",
+    "zh": "用快速提示設定僅限本次工作階段的 Stop Hook"
+  },
+  {
+    "en": "Set effort level for model usage",
+    "zh": "設定模型使用的運算強度"
+  },
+  {
+    "en": "Set the AI model for Claude Code (currently ${lH(W5())})",
+    "zh": "設定 Claude Code 使用的 AI 模型（目前為 ${lH(W5())}）"
+  },
+  {
+    "en": "Set the AI model for Claude Code (currently gpt-5.4-medium)",
+    "zh": "設定 Claude Code 使用的 AI 模型（目前為 gpt-5.4-medium）"
+  },
+  {
+    "en": "Set the prompt bar color for this session",
+    "zh": "設定本次對話的提示列顏色"
+  },
+  {
+    "en": "Set up Claude Code's status line UI",
+    "zh": "設定狀態列 UI"
+  },
+  {
+    "en": "Set up Claude GitHub Actions for a repository",
+    "zh": "為儲存庫設定 Claude GitHub Actions"
+  },
+  {
+    "en": "Setting sources",
+    "zh": "設定來源"
+  },
+  {
+    "en": "Setting up launcher and shell integration...",
+    "zh": "正在設定啟動器與 shell 整合..."
+  },
+  {
+    "en": "Settings Error",
+    "zh": "設定錯誤"
+  },
+  {
+    "en": "Settings requiring approval:",
+    "zh": "需要核准的設定："
+  },
+  {
+    "en": "Setup Claude Code on the web (requires connecting your GitHub account)",
+    "zh": "在網頁上設定 Claude Code（需要連結 GitHub 帳號）"
+  },
+  {
+    "en": "Setup Warnings",
+    "zh": "設定警告"
+  },
+  {
+    "en": "Sharing transcript",
+    "zh": "分享對話記錄"
+  },
+  {
+    "en": "Shell command failed",
+    "zh": "Shell 命令失敗"
+  },
+  {
+    "en": "Shot distribution",
+    "zh": "分佈情況"
+  },
+  {
+    "en": "Show Claude Code status including version, model, account, API connectivity, and tool statuses",
+    "zh": "顯示狀態（版本、模型、帳號、API 連線、工具狀態）"
+  },
+  {
+    "en": "Show Claude logo watermark (default: true)",
+    "zh": "顯示 Claude 標誌水印（預設：true）"
+  },
+  {
+    "en": "Show PR status footer",
+    "zh": "顯示 PR 狀態頁尾"
+  },
+  {
+    "en": "Show QR code to download the Claude mobile app",
+    "zh": "顯示 QR 碼下載 Claude 行動應用程式"
+  },
+  {
+    "en": "Show all",
+    "zh": "顯示全部"
+  },
+  {
+    "en": "Show black labels describing actions (default: true)",
+    "zh": "顯示描述操作的黑色標籤（預設：true）"
+  },
+  {
+    "en": "Show detailed debug output",
+    "zh": "顯示詳細除錯輸出"
+  },
+  {
+    "en": "Show help and available commands",
+    "zh": "顯示說明與可用指令"
+  },
+  {
+    "en": "Show options when rate limit is reached",
+    "zh": "達到速率限制時顯示選項"
+  },
+  {
+    "en": "Show orange circles at click locations (default: true)",
+    "zh": "在點選位置顯示橙色圓圈（預設：true）"
+  },
+  {
+    "en": "Show orange progress bar at bottom (default: true)",
+    "zh": "在底部顯示橙色進度條（預設：true）"
+  },
+  {
+    "en": "Show red arrows for drag actions (default: true)",
+    "zh": "為拖拽操作顯示紅色箭頭（預設：true）"
+  },
+  {
+    "en": "Show remote session URL and QR code",
+    "zh": "顯示遠端工作階段 URL 和二維碼"
+  },
+  {
+    "en": "Show status in terminal tab",
+    "zh": "在終端標籤顯示狀態"
+  },
+  {
+    "en": "Show the total cost and duration of the current session",
+    "zh": "顯示本次對話的總費用與時長"
+  },
+  {
+    "en": "Show thinking summaries in the transcript view (ctrl+o). Default: false.",
+    "zh": "在記錄檢視中顯示思考摘要（Ctrl+O）。預設：否。"
+  },
+  {
+    "en": "Show tips",
+    "zh": "顯示提示"
+  },
+  {
+    "en": "Show turn duration",
+    "zh": "顯示回合時間"
+  },
+  {
+    "en": "Show your Claude Code usage statistics and activity",
+    "zh": "顯示使用統計與活動紀錄"
+  },
+  {
+    "en": "Showing detailed transcript · ",
+    "zh": "顯示詳細記錄 · "
+  },
+  {
+    "en": "Showing last ",
+    "zh": "顯示最近 "
+  },
+  {
+    "en": "Shutting down",
+    "zh": "關閉中"
+  },
+  {
+    "en": "Sign in with your Anthropic account",
+    "zh": "使用你的 Anthropic 賬號登入"
+  },
+  {
+    "en": "Sign out from your Anthropic account",
+    "zh": "登出 Anthropic 帳號"
+  },
+  {
+    "en": "Signal that this session was launched from a deep link",
+    "zh": "標記此工作階段是從深度連結啟動的"
+  },
+  {
+    "en": "Skills only",
+    "zh": "僅 Skill"
+  },
+  {
+    "en": "Skills: ",
+    "zh": "Skill："
+  },
+  {
+    "en": "Skip interview and plan immediately",
+    "zh": "跳過訪談，直接進行規劃"
+  },
+  {
+    "en": "Skip workflow update (configure secrets only)",
+    "zh": "跳過工作流更新（僅設定密鑰）"
+  },
+  {
+    "en": "Skip — use Claude Code defaults (auto-updates)",
+    "zh": "跳過 — 使用預設值（自動更新）"
+  },
+  {
+    "en": "Sonnet (1M context)",
+    "zh": "Sonnet（1M 上下文）"
+  },
+  {
+    "en": "Sorry, Claude Code encountered an error",
+    "zh": "抱歉，Claude Code 遇到錯誤"
+  },
+  {
+    "en": "Sorry, Claude encountered an error",
+    "zh": "抱歉，Claude 遇到錯誤"
+  },
+  {
+    "en": "Source contains multiple documents; please use YAML.parseAllDocuments()",
+    "zh": "源包含多個檔案；請使用 YAML.parseAllDocuments()"
+  },
+  {
+    "en": "Spawn a remote Claude Code session that monitors and autofixes the current PR",
+    "zh": "啟動一個遠端 Claude Code 工作階段來監視和自動修復目前 PR"
+  },
+  {
+    "en": "Start an interactive session with Remote Control enabled (optionally named)",
+    "zh": "啟動啟用遠端控制的互動式工作階段（可指定名稱）"
+  },
+  {
+    "en": "Start with all customizations (CLAUDE.md, skills, plugins, hooks, MCP servers, custom commands and agents, output styles, workflows, custom themes, keybindings, and more) disabled \\u2014 useful for troubleshooting a broken configuration. Admin-managed (policy) settings still apply. Auth, model selection, built-in tools, and permissions work normally. Sets CLAUDE_CODE_SAFE_MODE=1.",
+    "zh": "啟動時禁用所有自定義內容（CLAUDE.md、skills、plugins、Hooks、MCP servers、自定義命令和 Agent、output styles、workflows、自定義主題、keybindings 等）——用於排查損壞設定。管理員託管（policy）設定仍會生效。認證、模型選擇、內建工具和權限正常工作。設定 CLAUDE_CODE_SAFE_MODE=1。"
+  },
+  {
+    "en": "Start fresh: discard the current conversation and context",
+    "zh": "重新開始：丟棄目前對話和上下文"
+  },
+  {
+    "en": "Start new session",
+    "zh": "開始新工作階段"
+  },
+  {
+    "en": "Started a session on the web and want to move it here? Run",
+    "zh": "在網上開始了工作階段，想移到這裡？執行"
+  },
+  {
+    "en": "Starting authentication…",
+    "zh": "正在開始驗證…"
+  },
+  {
+    "en": "Starting new login following /upgrade. Exit with Ctrl-C to use existing account.",
+    "zh": "/upgrade 後重新登入。按 Ctrl-C 使用現有賬號。"
+  },
+  {
+    "en": "Stash changes and continue",
+    "zh": "暫存變更繼續"
+  },
+  {
+    "en": "Stashing changes...",
+    "zh": "暫存變更中..."
+  },
+  {
+    "en": "Status message:",
+    "zh": "狀態訊息："
+  },
+  {
+    "en": "Status: ",
+    "zh": "狀態："
+  },
+  {
+    "en": "Stop and wait for limit to reset",
+    "zh": "停止等待額度重置"
+  },
+  {
+    "en": "Stop ultraplan",
+    "zh": "停止深度規劃"
+  },
+  {
+    "en": "Stop ultrareview",
+    "zh": "停止深度審查"
+  },
+  {
+    "en": "Store this token securely. You won't be able to see it again.",
+    "zh": "請妥善保存此權杖，之後將不再顯示。"
+  },
+  {
+    "en": "Strict sandbox mode",
+    "zh": "嚴格沙盒模式"
+  },
+  {
+    "en": "Strict sandbox mode:",
+    "zh": "嚴格沙盒模式："
+  },
+  {
+    "en": "Subagents and workflows also run as tasks — it is all one queue.",
+    "zh": "子 Agent 和工作流也作為任務執行 — 共享同一個佇列。"
+  },
+  {
+    "en": "Submit Feedback / Bug Report",
+    "zh": "提交回饋 / 回報錯誤"
+  },
+  {
+    "en": "Submit answers",
+    "zh": "送出答案"
+  },
+  {
+    "en": "Submit feedback about Claude Code",
+    "zh": "提交使用回饋"
+  },
+  {
+    "en": "Submitting report…",
+    "zh": "正在提交報告…"
+  },
+  {
+    "en": "Successfully logged out from your Anthropic account.",
+    "zh": "已成功登出 Anthropic 帳號。"
+  },
+  {
+    "en": "Suggestion ",
+    "zh": "建議 "
+  },
+  {
+    "en": "Suggestions ",
+    "zh": "建議 "
+  },
+  {
+    "en": "Summarize from here",
+    "zh": "從此處開始摘要"
+  },
+  {
+    "en": "Summarized conversation",
+    "zh": "已摘要對話"
+  },
+  {
+    "en": "Summarizing...",
+    "zh": "摘要中..."
+  },
+  {
+    "en": "Summarizing…",
+    "zh": "摘要中…"
+  },
+  {
+    "en": "Switch Anthropic accounts",
+    "zh": "切換 Anthropic 賬號"
+  },
+  {
+    "en": "Switch to the Marketplaces tab to view allowed sources.",
+    "zh": "請切換至市集分頁以檢視允許的來源。"
+  },
+  {
+    "en": "Switched to worktree on branch ",
+    "zh": "已切換到 worktree 分支 "
+  },
+  {
+    "en": "System Diagnostics",
+    "zh": "系統診斷"
+  },
+  {
+    "en": "System prompt",
+    "zh": "系統提示"
+  },
+  {
+    "en": "System prompt to use for the session",
+    "zh": "目前工作階段使用的系統提示詞"
+  },
+  {
+    "en": "Tab ID to identify which tab group this operation applies to",
+    "zh": "標識此操作應用於哪個標籤組的標籤 ID"
+  },
+  {
+    "en": "Tab created",
+    "zh": "標籤頁已建立"
+  },
+  {
+    "en": "Tab to switch focus",
+    "zh": "Tab 切換焦點"
+  },
+  {
+    "en": "Tab: Next field · Enter: Save and continue",
+    "zh": "Tab：下一欄位 · Enter：儲存並繼續"
+  },
+  {
+    "en": "Task #",
+    "zh": "任務 #"
+  },
+  {
+    "en": "Task is still running…",
+    "zh": "任務仍在執行中…"
+  },
+  {
+    "en": "Task not ready",
+    "zh": "任務尚未就緒"
+  },
+  {
+    "en": "Team name for swarm coordination",
+    "zh": "用於群組協調的團隊名稱"
+  },
+  {
+    "en": "Teammate is continuing to work. You may request shutdown again later.",
+    "zh": "隊友仍在執行中。稍後可再次請求停止。"
+  },
+  {
+    "en": "Teammates will now appear as split panes.",
+    "zh": "協作者現在將以分屏面板顯示。"
+  },
+  {
+    "en": "Teleport failed:",
+    "zh": "傳送失敗："
+  },
+  {
+    "en": "Teleport requires a Claude account",
+    "zh": "Teleport 需要 Claude 帳號"
+  },
+  {
+    "en": "Teleport requires a Claude.ai account.",
+    "zh": "Teleport 需要 Claude.ai 帳號。"
+  },
+  {
+    "en": "Teleport to Repo",
+    "zh": "傳送到 Repo"
+  },
+  {
+    "en": "Teleport will switch git branches. The following changes were found:",
+    "zh": "傳送將切換 Git 分支。發現以下變更："
+  },
+  {
+    "en": "Teleporting session…",
+    "zh": "傳送工作階段中…"
+  },
+  {
+    "en": "Teleporting to session…",
+    "zh": "正在 Teleport 至對話…"
+  },
+  {
+    "en": "Terminal progress bar",
+    "zh": "終端進度條"
+  },
+  {
+    "en": "Terrible customer service, never again.",
+    "zh": "糟糕的客服，再也不會來了。"
+  },
+  {
+    "en": "Thank you for your report!",
+    "zh": "感謝您的回報！"
+  },
+  {
+    "en": "Thanks for sharing your transcript!",
+    "zh": "感謝分享你的對話記錄！"
+  },
+  {
+    "en": "Thanks for the feedback!",
+    "zh": "感謝反饋！"
+  },
+  {
+    "en": "The ID of the shortcut to execute",
+    "zh": "要執行的快捷方式 ID"
+  },
+  {
+    "en": "The Internet connection appears to be offline",
+    "zh": "網路連線似乎已斷開"
+  },
+  {
+    "en": "The PDF file was not valid. Double press esc to go back and try again with a different file.",
+    "zh": "PDF 檔案無效。按兩下 Esc 返回，使用其他檔案重試。"
+  },
+  {
+    "en": "The body has already been consumed.",
+    "zh": "響應體已被消費。"
+  },
+  {
+    "en": "The code has not changed (nothing will be restored).",
+    "zh": "程式碼未變更（不會還原任何內容）。"
+  },
+  {
+    "en": "The code will be unchanged.",
+    "zh": "程式碼將維持不變。"
+  },
+  {
+    "en": "The following patterns will be ignored:",
+    "zh": "以下模式將被忽略："
+  },
+  {
+    "en": "The sandbox has the following restrictions:",
+    "zh": "沙盒存在以下限制："
+  },
+  {
+    "en": "The stable channel may have an older version than what you're currently running (",
+    "zh": "穩定頻道可能比目前執行的版本更舊（"
+  },
+  {
+    "en": "These will be written to ~/.claude/settings.json under env:",
+    "zh": "這些將寫入 ~/.claude/settings.json 的 env："
+  },
+  {
+    "en": "Think",
+    "zh": "思考"
+  },
+  {
+    "en": "Think Back on 2025 with Claude Code",
+    "zh": "用 Claude Code 回顧 2025"
+  },
+  {
+    "en": "Thinking",
+    "zh": "思索中…"
+  },
+  {
+    "en": "Thinking ",
+    "zh": "思考中 "
+  },
+  {
+    "en": "Thinking mode",
+    "zh": "思考模式"
+  },
+  {
+    "en": "Thinking:",
+    "zh": "思考："
+  },
+  {
+    "en": "This archives the remote session and stops local tracking. The review will not complete and any findings so far are discarded.",
+    "zh": "這將歸檔遠端工作階段並停止本地追蹤。審查將不會完成，已收集的發現也會被丟棄。"
+  },
+  {
+    "en": "This changes how Claude Code communicates with you",
+    "zh": "此變更將影響 Claude Code 與您的溝通方式"
+  },
+  {
+    "en": "This command requires approval",
+    "zh": "此命令需要批准"
+  },
+  {
+    "en": "This conversation is from a different directory.",
+    "zh": "此對話來自不同的目錄。"
+  },
+  {
+    "en": "This enables teammates to appear as split panes within your current window.",
+    "zh": "此功能可讓隊友以分割面板的形式顯示在您目前的視窗中。"
+  },
+  {
+    "en": "This has the same effect as uninstalling, without affecting other contributors.",
+    "zh": "效果等同於解除安裝，不影響其他協作者。"
+  },
+  {
+    "en": "This may take a few moments.",
+    "zh": "這可能需要一點時間。"
+  },
+  {
+    "en": "This may take a few seconds.",
+    "zh": "這可能需要幾秒。"
+  },
+  {
+    "en": "This may take a moment.",
+    "zh": "這可能需要一點時間。"
+  },
+  {
+    "en": "This prompt will launch an ultraplan session in Claude Code on the web",
+    "zh": "此提示將在 Claude Code 網頁版中啟動 ultraplan 工作階段"
+  },
+  {
+    "en": "This rule is configured by managed settings and cannot be modified.",
+    "zh": "此規則由託管設定設定，無法修改。"
+  },
+  {
+    "en": "This server connects only when running the agent.",
+    "zh": "此伺服器僅在執行 Agent 時建立連線。"
+  },
+  {
+    "en": "This session is available via Remote Control",
+    "zh": "此工作階段可透過遠端控制存取"
+  },
+  {
+    "en": "This tool is consuming a significant portion of context.",
+    "zh": "此工具正在消耗大量上下文。"
+  },
+  {
+    "en": "This will disable Remote Control for this session.",
+    "zh": "這將為本次工作階段禁用遠端控制。"
+  },
+  {
+    "en": "This will terminate the Claude Code on the web session.",
+    "zh": "這將終止 Claude Code 網頁版工作階段。"
+  },
+  {
+    "en": "Tip: You can enable auto-connect to IDE in /config or with the --ide flag",
+    "zh": "提示：可在 /config 或使用 --ide 啟用自動連接 IDE"
+  },
+  {
+    "en": "To add hooks, edit settings.json directly or ask Claude.",
+    "zh": "如需新增 Hook，請直接編輯 settings.json 或詢問 Claude。"
+  },
+  {
+    "en": "To change this later, run /theme",
+    "zh": "之後要更改，執行 /theme"
+  },
+  {
+    "en": "To continue immediately, use /model to switch to",
+    "zh": "要立即繼續，使用 /model 切換到"
+  },
+  {
+    "en": "To modify or remove this hook, edit settings.json directly or ask Claude to help.",
+    "zh": "要修改或移除此 Hook，請直接編輯 settings.json 或讓 Claude 幫你。"
+  },
+  {
+    "en": "To use native iTerm2 split panes for teammates, you need the",
+    "zh": "要使用原生 iTerm2 分屏顯示協作者，你需要"
+  },
+  {
+    "en": "Toggle fast mode (${im} only)",
+    "zh": "切換快速模式（僅 ${im}）"
+  },
+  {
+    "en": "Toggle fast mode (Opus 4.6 only)",
+    "zh": "切換快速模式（僅 Opus 4.6）"
+  },
+  {
+    "en": "Toggle thinking mode",
+    "zh": "切換思考模式"
+  },
+  {
+    "en": "Token refresh already in progress, reusing existing promise",
+    "zh": "Token 重新整理已在進行中，複用現有 promise"
+  },
+  {
+    "en": "Tokens per Day",
+    "zh": "每日 Token 用量"
+  },
+  {
+    "en": "Tool Failed",
+    "zh": "工具失敗"
+  },
+  {
+    "en": "Tool loaded.",
+    "zh": "工具已載入。"
+  },
+  {
+    "en": "Tool name: ",
+    "zh": "工具名稱："
+  },
+  {
+    "en": "Tool use is not allowed during compaction",
+    "zh": "壓縮過程中不允許使用工具"
+  },
+  {
+    "en": "Tool use rejected",
+    "zh": "工具使用被拒絕"
+  },
+  {
+    "en": "Tool: ",
+    "zh": "工具："
+  },
+  {
+    "en": "Tools: ",
+    "zh": "工具："
+  },
+  {
+    "en": "Tooltip body text. Explain what the user is looking at and why it matters. ",
+    "zh": "工具提示正文。解釋使用者正在看什麼以及為什麼重要。"
+  },
+  {
+    "en": "Total active time in seconds",
+    "zh": "總活躍時間（秒）"
+  },
+  {
+    "en": "Total tokens:",
+    "zh": "總 Token："
+  },
+  {
+    "en": "Transcript shared successfully",
+    "zh": "對話記錄分享成功"
+  },
+  {
+    "en": "Transport type (stdio, sse, http). Defaults to stdio if not specified.",
+    "zh": "傳輸型別（stdio、sse、http）。未指定時預設 stdio。"
+  },
+  {
+    "en": "Triggered by:",
+    "zh": "觸發條件："
+  },
+  {
+    "en": "Try again",
+    "zh": "再試一次"
+  },
+  {
+    "en": "Try creating: Code Reviewer, Code Simplifier, Security Reviewer, Tech Lead, or UX Reviewer.",
+    "zh": "建議嘗試建立：Code Reviewer、Code Simplifier、Security Reviewer、Tech Lead 或 UX Reviewer。"
+  },
+  {
+    "en": "Try rephrasing the request or attempting a different approach.",
+    "zh": "請嘗試重新表述請求或採用不同方式。"
+  },
+  {
+    "en": "Try running /plugin to manually install the think-back plugin.",
+    "zh": "請嘗試執行 /plugin 手動安裝 think-back 外掛。"
+  },
+  {
+    "en": "Try running with --force to override checks",
+    "zh": "嘗試使用 --force 跳過檢查"
+  },
+  {
+    "en": "Type a different name…",
+    "zh": "輸入不同的名稱…"
+  },
+  {
+    "en": "Type something…",
+    "zh": "輸入訊息…"
+  },
+  {
+    "en": "Type to Search",
+    "zh": "輸入搜尋"
+  },
+  {
+    "en": "Type to enter text",
+    "zh": "輸入文字"
+  },
+  {
+    "en": "Type to filter",
+    "zh": "輸入以篩選"
+  },
+  {
+    "en": "Type to filter · Enter/↓ select · ↑ tabs · Esc clear",
+    "zh": "輸入過濾 · Enter/↓ 選擇 · ↑ 標籤 · Esc 清除"
+  },
+  {
+    "en": "Type to search",
+    "zh": "輸入以搜尋"
+  },
+  {
+    "en": "Type: ",
+    "zh": "類型: "
+  },
+  {
+    "en": "URL",
+    "zh": "URL"
+  },
+  {
+    "en": "URL: ",
+    "zh": "網址："
+  },
+  {
+    "en": "Ultraplan approved",
+    "zh": "Ultraplan 已批准"
+  },
+  {
+    "en": "Ultrareview billing",
+    "zh": "深度審查計費"
+  },
+  {
+    "en": "This review bills as Extra Usage (${cost}).",
+    "zh": "本次 review 會按 Extra Usage 計費（${cost}）。"
+  },
+  {
+    "en": "${billingNote}Ultrareview launched for ${target} (${duration}, runs in the cloud). Track: ${url}${scope}",
+    "zh": "${billingNote}Ultrareview 已為 ${target} 啟動（${duration}，雲端執行）。追蹤：${url}${scope}"
+  },
+  {
+    "en": "Run ultrareview in the cloud?",
+    "zh": "在雲端執行 ultrareview？"
+  },
+  {
+    "en": "Unable to connect to Anthropic services",
+    "zh": "無法連線至 Anthropic 服務"
+  },
+  {
+    "en": "Unchanged since last read",
+    "zh": "自上次讀取後未變更"
+  },
+  {
+    "en": "Unknown Error",
+    "zh": "未知錯誤"
+  },
+  {
+    "en": "Unknown error",
+    "zh": "未知錯誤"
+  },
+  {
+    "en": "Unknown error occurred",
+    "zh": "發生未知錯誤"
+  },
+  {
+    "en": "Unreachable Permission Rules",
+    "zh": "無法觸及的權限規則"
+  },
+  {
+    "en": "Unrecognized:",
+    "zh": "無法識別："
+  },
+  {
+    "en": "Update available! Run:",
+    "zh": "有更新！執行："
+  },
+  {
+    "en": "Update marketplace",
+    "zh": "更新市集"
+  },
+  {
+    "en": "Update now",
+    "zh": "立即更新"
+  },
+  {
+    "en": "Update workflow file with latest version",
+    "zh": "更新工作流檔案至最新版"
+  },
+  {
+    "en": "Updated cell",
+    "zh": "已更新單元格"
+  },
+  {
+    "en": "Updated plan",
+    "zh": "方案已更新"
+  },
+  {
+    "en": "Updates to Consumer Terms and Policies",
+    "zh": "消費者條款和政策更新"
+  },
+  {
+    "en": "Updates to data retention ",
+    "zh": "資料保留更新 "
+  },
+  {
+    "en": "Updating marketplace…",
+    "zh": "更新市集…"
+  },
+  {
+    "en": "Updating…",
+    "zh": "更新中…"
+  },
+  {
+    "en": "Upgrade to Max for higher rate limits and more Opus",
+    "zh": "升級至 Max 以獲得更高的速率限制與更多 Opus 用量"
+  },
+  {
+    "en": "Upgrade to Team plan",
+    "zh": "升級到團隊計劃"
+  },
+  {
+    "en": "Upgrade your plan",
+    "zh": "升級方案"
+  },
+  {
+    "en": "Usage: ",
+    "zh": "用量："
+  },
+  {
+    "en": "Use /btw to ask a quick side question without interrupting Claude's current work",
+    "zh": "用 /btw 提一個題外問題，不打斷 Claude 目前工作"
+  },
+  {
+    "en": "Use /clear to start fresh when switching topics and free up context",
+    "zh": "切換話題時可用 /clear 重新開始，並釋放上下文"
+  },
+  {
+    "en": "Use /issue to report model behavior issues.",
+    "zh": "使用 /issue 報告模型行為問題。"
+  },
+  {
+    "en": "Use Claude Code's terminal setup?",
+    "zh": "使用 Claude Code 的終端設定？"
+  },
+  {
+    "en": "Use Claude subscription (default)",
+    "zh": "使用 Claude 訂閱（預設）"
+  },
+  {
+    "en": "Use a specific session ID for the conversation (must be a valid UUID)",
+    "zh": "使用指定的工作階段 ID（必須是有效 UUID）"
+  },
+  {
+    "en": "Use auto mode during plan",
+    "zh": "計畫期間使用自動模式"
+  },
+  {
+    "en": "Use credentials already in my environment",
+    "zh": "使用環境已有的憑證"
+  },
+  {
+    "en": "Use the configuration file at this location",
+    "zh": "使用此位置的設定檔"
+  },
+  {
+    "en": "Use the same model as the main conversation",
+    "zh": "使用與主對話相同的模型"
+  },
+  {
+    "en": "Use this MCP server",
+    "zh": "使用此 MCP 伺服器"
+  },
+  {
+    "en": "Settings files that fail validation are silently ignored in this mode (no error dialog is shown).",
+    "zh": "在此模式下，校驗失敗的 settings 檔案會被靜默忽略（不會顯示錯誤對話方塊）。"
+  },
+  {
+    "en": "Use this skill to configure the Claude Code harness via settings.json.",
+    "zh": "使用此技能透過 settings.json 設定 Claude Code harness。"
+  },
+  {
+    "en": "Use this skill to configure the Claude Code harness via settings.json. Automated behaviors (\"from now on when X\", \"each time X\", \"whenever X\", \"before/after X\") require hooks configured in settings.json - the harness executes these, not Claude, so memory/preferences cannot fulfill them. Also use for: permissions (\"allow X\", \"add permission\", \"move permission to\"), env vars (\"set X=Y\"), hook troubleshooting, or any changes to settings.json/settings.local.json files. Examples: \"allow npm commands\", \"add bq permission to global settings\", \"move permission to user settings\", \"set DEBUG=true\", \"when claude stops show X\". For simple settings like theme/model, use Config tool.",
+    "zh": "使用此技能透過 settings.json 設定 Claude Code harness。自動化行為（“從現在起當 X”“每次 X”“每當 X”“在 X 之前/之後”）需要在 settings.json 中設定 Hook - 這些由 harness 執行，不是 Claude，因此記憶/偏好無法滿足它們。也用於：權限（“允許 X”“新增權限”“移動權限到”）、環境變數（“設定 X=Y”）、Hook 故障排查，或對 settings.json/settings.local.json 的任何修改。示例：“允許 npm 命令”“向全域性設定新增 bq 權限”“將權限移到使用者設定”“設定 DEBUG=true”“當 claude 停止時顯示 X”。對於主題/模型這類簡單設定，請使用 Config 工具。"
+  },
+  {
+    "en": "Use this token by setting: export CLAUDE_CODE_OAUTH_TOKEN=<token>",
+    "zh": "使用此令牌：export CLAUDE_CODE_OAUTH_TOKEN=<令牌>"
+  },
+  {
+    "en": "Use tmux instead",
+    "zh": "改用 tmux"
+  },
+  {
+    "en": "Used by: ",
+    "zh": "使用者："
+  },
+  {
+    "en": "User Data",
+    "zh": "使用者資料"
+  },
+  {
+    "en": "User MCPs",
+    "zh": "使用者 MCP"
+  },
+  {
+    "en": "User Rejected",
+    "zh": "使用者拒絕"
+  },
+  {
+    "en": "User Rejected Action",
+    "zh": "使用者拒絕操作"
+  },
+  {
+    "en": "User Settings",
+    "zh": "使用者設定"
+  },
+  {
+    "en": "User Stopped Early",
+    "zh": "使用者提前停止"
+  },
+  {
+    "en": "User Unclear",
+    "zh": "使用者不明確"
+  },
+  {
+    "en": "User aborted",
+    "zh": "使用者已中止"
+  },
+  {
+    "en": "User agents",
+    "zh": "使用者代理"
+  },
+  {
+    "en": "User answered Claude's questions:",
+    "zh": "使用者回答了 Claude 的問題："
+  },
+  {
+    "en": "User answers collected by the permission component",
+    "zh": "權限元件收集的使用者回答"
+  },
+  {
+    "en": "User approved Claude's plan",
+    "zh": "使用者批准了 Claude 的計劃"
+  },
+  {
+    "en": "User canceled.",
+    "zh": "使用者已取消。"
+  },
+  {
+    "en": "User cancelled the flow.",
+    "zh": "使用者取消了流程。"
+  },
+  {
+    "en": "User declined to answer questions",
+    "zh": "使用者拒絕回答問題"
+  },
+  {
+    "en": "User declined to enter plan mode",
+    "zh": "使用者拒絕進入計劃模式"
+  },
+  {
+    "en": "User defined timeout for device code polling reached",
+    "zh": "裝置程式碼輪詢超時"
+  },
+  {
+    "en": "User denied permission",
+    "zh": "使用者拒絕授權"
+  },
+  {
+    "en": "User force closed",
+    "zh": "使用者強制關閉"
+  },
+  {
+    "en": "User has approved exiting plan mode. You can now proceed.",
+    "zh": "使用者已批准離開計劃模式。可以繼續執行。"
+  },
+  {
+    "en": "User interruption with CTRL-BREAK",
+    "zh": "使用者按 CTRL-BREAK 中斷"
+  },
+  {
+    "en": "User interruption with CTRL-C",
+    "zh": "使用者按 CTRL-C 中斷"
+  },
+  {
+    "en": "User memory",
+    "zh": "使用者記憶"
+  },
+  {
+    "en": "User rejected Claude's plan:",
+    "zh": "使用者已否決 Claude 的計畫："
+  },
+  {
+    "en": "User rejected tool use",
+    "zh": "使用者拒絕工具呼叫"
+  },
+  {
+    "en": "User settings",
+    "zh": "使用者設定"
+  },
+  {
+    "en": "Using 3rd-party platforms",
+    "zh": "使用第三方平台"
+  },
+  {
+    "en": "Using persisted auth server metadata for refresh",
+    "zh": "使用持久化的認證伺服器後設資料進行重新整理"
+  },
+  {
+    "en": "Using token for GitHub Actions setup…",
+    "zh": "正在使用權杖設定 GitHub Actions…"
+  },
+  {
+    "en": "Validating repository…",
+    "zh": "驗證儲存庫中…"
+  },
+  {
+    "en": "Validating session",
+    "zh": "驗證會話中"
+  },
+  {
+    "en": "Verbose output",
+    "zh": "詳細輸出"
+  },
+  {
+    "en": "Verification failed",
+    "zh": "驗證失敗"
+  },
+  {
+    "en": "Verify a code change does what it should by running the app.",
+    "zh": "透過執行應用驗證程式碼變更是否達到預期。"
+  },
+  {
+    "en": "Verifying credentials",
+    "zh": "驗證憑證中"
+  },
+  {
+    "en": "Verifying it2 can communicate with iTerm2…",
+    "zh": "驗證 it2 與 iTerm2 的通訊…"
+  },
+  {
+    "en": "Version Locks",
+    "zh": "版本鎖定"
+  },
+  {
+    "en": "Version: ",
+    "zh": "版本："
+  },
+  {
+    "en": "Vertex base URL",
+    "zh": "Vertex 基礎 URL"
+  },
+  {
+    "en": "View agent",
+    "zh": "查看代理"
+  },
+  {
+    "en": "View and update your privacy settings",
+    "zh": "檢視與更新隱私設定"
+  },
+  {
+    "en": "View hook configurations for tool events",
+    "zh": "檢視工具事件的 hook 設定"
+  },
+  {
+    "en": "View on GitHub",
+    "zh": "在 GitHub 查看"
+  },
+  {
+    "en": "View release notes",
+    "zh": "查看更新日誌"
+  },
+  {
+    "en": "View repository",
+    "zh": "查看儲存庫"
+  },
+  {
+    "en": "View the latest workflow template at:",
+    "zh": "查看最新工作流程範本："
+  },
+  {
+    "en": "View tools",
+    "zh": "檢視工具"
+  },
+  {
+    "en": "View uncommitted changes and per-turn diffs",
+    "zh": "檢視未提交的變更與每輪差異"
+  },
+  {
+    "en": "Visualize current context usage as a colored grid",
+    "zh": "以彩色格狀圖呈現目前的上下文用量"
+  },
+  {
+    "en": "Voice: processing…",
+    "zh": "語音：處理中…"
+  },
+  {
+    "en": "WARNING:",
+    "zh": "警告："
+  },
+  {
+    "en": "WARNING: Claude Code running in Bypass Permissions mode",
+    "zh": "警告：Claude Code 正在以跳過權限模式運行"
+  },
+  {
+    "en": "WARNING: Claude Code running in 跳过权限检查 mode",
+    "zh": "警告：Claude Code 正在以跳過權限檢查模式執行"
+  },
+  {
+    "en": "In Bypass Permissions mode, Claude Code will not ask for your approval before running potentially dangerous commands.",
+    "zh": "在跳過權限檢查模式下，Claude Code 不會在執行可能危險的命令前請求你的批准。"
+  },
+  {
+    "en": "In 跳过权限检查 mode, Claude Code will not ask for your approval before running potentially dangerous commands.",
+    "zh": "在跳過權限檢查模式下，Claude Code 不會在執行可能危險的命令前請求你的批准。"
+  },
+  {
+    "en": "This mode should only be used in a sandboxed container/VM that has restricted internet access and can easily be restored if damaged.",
+    "zh": "此模式只應在有受限網路存取、且損壞後易於恢復的沙盒容器或虛擬機器中使用。"
+  },
+  {
+    "en": "By proceeding, you accept all responsibility for actions taken while running in Bypass Permissions mode.",
+    "zh": "繼續即表示您接受在跳過權限模式下所有操作的全部責任。"
+  },
+  {
+    "en": "By proceeding, you accept all responsibility for actions taken while running in 跳过权限检查 mode.",
+    "zh": "繼續操作即表示你接受在跳過權限檢查模式下執行的所有操作責任。"
+  },
+  {
+    "en": "WARNING: Failed to turn on autofix for this PR",
+    "zh": "警告：未能為此 PR 啟用自動修復"
+  },
+  {
+    "en": "WARNING: Loading development channels",
+    "zh": "警告：正在載入開發頻道"
+  },
+  {
+    "en": "Waiting for permission…",
+    "zh": "等待授權…"
+  },
+  {
+    "en": "Waiting for task",
+    "zh": "等待任務"
+  },
+  {
+    "en": "Waiting for team lead approval",
+    "zh": "等待團隊主管批准"
+  },
+  {
+    "en": "Waiting for team lead to review and approve...",
+    "zh": "等待 team lead 審核與核准..."
+  },
+  {
+    "en": "Waiting for the server to confirm completion…",
+    "zh": "等待伺服器確認完成…"
+  },
+  {
+    "en": "Warning: Multiple installations found",
+    "zh": "警告：找到多個安裝"
+  },
+  {
+    "en": "We are experiencing high demand for Opus 4.",
+    "zh": "Opus 4 目前需求量很大。"
+  },
+  {
+    "en": "We found some potential issues, but you can continue anyway",
+    "zh": "我們發現一些潛在問題，但你可以繼續"
+  },
+  {
+    "en": "We'll create a personalized ASCII animation celebrating your journey.",
+    "zh": "我們將建立一個個性化 ASCII 動畫來慶祝你的旅程。"
+  },
+  {
+    "en": "We'll create a workflow file in your repository for each one you select.",
+    "zh": "將為您選擇的每個項目建立工作流檔案。"
+  },
+  {
+    "en": "We've updated our Consumer Terms and Privacy Policy.",
+    "zh": "我們已更新消費者條款與隱私政策。"
+  },
+  {
+    "en": "Web Search",
+    "zh": "網頁搜尋"
+  },
+  {
+    "en": "Web search",
+    "zh": "網頁搜尋"
+  },
+  {
+    "en": "Welcome back!",
+    "zh": "歡迎回來！"
+  },
+  {
+    "en": "Welcome to Claude Code",
+    "zh": "歡迎使用 Claude Code"
+  },
+  {
+    "en": "Welcome to Opus 4.7 xhigh!",
+    "zh": "歡迎使用 Opus 4.7 xhigh！"
+  },
+  {
+    "en": "Welcome to Opus 4.7 xhigh! · /effort to tune speed vs. intelligence",
+    "zh": "歡迎使用 Opus 4.7 xhigh！· /effort 調節速度與智慧平衡"
+  },
+  {
+    "en": "Went down the wrong path? Rewind to before the detour and try a different prompt. Your git history stays clean.",
+    "zh": "走錯方向了？回退到岔路口之前，換個提示詞試試。你的 git 歷史不會受影響。"
+  },
+  {
+    "en": "What do you want to do?",
+    "zh": "您想做什麼？"
+  },
+  {
+    "en": "What is the name of the service I should give sensitive permissions to?",
+    "zh": "我應該給哪個服務授予敏感權限？"
+  },
+  {
+    "en": "What is the termination clause?",
+    "zh": "終止條款是什麼？"
+  },
+  {
+    "en": "What would you like to do?",
+    "zh": "您想做什麼？"
+  },
+  {
+    "en": "What you see by default",
+    "zh": "預設顯示"
+  },
+  {
+    "en": "What's new",
+    "zh": "最新消息"
+  },
+  {
+    "en": "When hooks are disabled:",
+    "zh": "當 hook 被禁用時："
+  },
+  {
+    "en": "When issuing multiple commands:",
+    "zh": "發出多個命令時："
+  },
+  {
+    "en": "When should Claude use this agent?",
+    "zh": "Claude 應在何時使用此 Agent？"
+  },
+  {
+    "en": "When the message selector (rewind) is open",
+    "zh": "當訊息選擇器（回退）開啟時"
+  },
+  {
+    "en": "When viewing the transcript",
+    "zh": "檢視對話記錄時"
+  },
+  {
+    "en": "When you see evidence of sandbox-caused failure:",
+    "zh": "當你看到沙盒導致失敗的跡象時："
+  },
+  {
+    "en": "Where your Bedrock models are enabled.",
+    "zh": "你的 Bedrock 模型啟用的位置。"
+  },
+  {
+    "en": "Will install:",
+    "zh": "將安裝："
+  },
+  {
+    "en": "Windows: winget install --id GitHub.cli",
+    "zh": "Windows：winget install --id GitHub.cli"
+  },
+  {
+    "en": "Work item lease expired, fetching fresh token",
+    "zh": "工作項租約過期，獲取新 token"
+  },
+  {
+    "en": "Working Directory Has Changes",
+    "zh": "工作目錄有改動"
+  },
+  {
+    "en": "Works at three levels: repo, your home directory (all projects), and per-directory overrides.",
+    "zh": "三個層級生效：儲存庫、使用者主目錄（所有專案）和單目錄覆蓋。"
+  },
+  {
+    "en": "Workspace ID",
+    "zh": "工作區 ID"
+  },
+  {
+    "en": "Would you like to install it?",
+    "zh": "要安裝嗎？"
+  },
+  {
+    "en": "Would you like to install this LSP plugin?",
+    "zh": "要安裝此 LSP 外掛嗎？"
+  },
+  {
+    "en": "Would you like to proceed?",
+    "zh": "你要繼續嗎？"
+  },
+  {
+    "en": "Would you like to stash these changes and continue with teleport?",
+    "zh": "是否暫存這些變更並繼續傳送？"
+  },
+  {
+    "en": "Would you like to:",
+    "zh": "您想要："
+  },
+  {
+    "en": "Write debug logs to a specific file path (implicitly enables debug mode)",
+    "zh": "將除錯日誌寫入指定檔案路徑（隱式啟用除錯模式）"
+  },
+  {
+    "en": "Write unit tests for all new utilities",
+    "zh": "為所有新工具編寫單元測試"
+  },
+  {
+    "en": "Yes, I accept",
+    "zh": "是，我接受"
+  },
+  {
+    "en": "Yes, I trust these settings",
+    "zh": "是，我信任這些設定"
+  },
+  {
+    "en": "Yes, I trust this folder",
+    "zh": "是，我信任此資料夾"
+  },
+  {
+    "en": "Yes, allow all edits during this session",
+    "zh": "是，本次會話允許所有編輯"
+  },
+  {
+    "en": "Yes, allow all edits in ",
+    "zh": "是，允許修改此目錄中所有檔案"
+  },
+  {
+    "en": "Yes, allow external imports",
+    "zh": "是，允許外部匯入"
+  },
+  {
+    "en": "Yes, and allow Claude to edit its own settings for this session",
+    "zh": "是，允許 Claude 在本次對話中編輯設定"
+  },
+  {
+    "en": "Yes, and always allow access to ",
+    "zh": "是，且永遠允許存取"
+  },
+  {
+    "en": "Yes, and bypass permissions",
+    "zh": "是，跳過權限檢查"
+  },
+  {
+    "en": "Yes, and don't ask again for",
+    "zh": "是，且不再詢問"
+  },
+  {
+    "en": "Yes, and make it my default mode",
+    "zh": "是，設為我的預設模式"
+  },
+  {
+    "en": "Yes, and remember this directory",
+    "zh": "是，並記住此目錄"
+  },
+  {
+    "en": "Yes, and use auto mode",
+    "zh": "是，使用自動模式"
+  },
+  {
+    "en": "Yes, auto-accept edits",
+    "zh": "是，自動接受編輯"
+  },
+  {
+    "en": "Yes, delete",
+    "zh": "是，刪除"
+  },
+  {
+    "en": "Yes, enable auto mode",
+    "zh": "是，啟用自動模式"
+  },
+  {
+    "en": "Yes, enter plan mode",
+    "zh": "是，進入規劃模式"
+  },
+  {
+    "en": "Yes, for this session",
+    "zh": "是，本次會話允許"
+  },
+  {
+    "en": "Yes, install ",
+    "zh": "是，安裝 "
+  },
+  {
+    "en": "Yes, manually approve edits",
+    "zh": "是，手動審核編輯"
+  },
+  {
+    "en": "Yes, use recommended settings",
+    "zh": "是，使用建議設定"
+  },
+  {
+    "en": "You are a helpful code reviewer who...",
+    "zh": "你是一位有幫助的 code reviewer，會…"
+  },
+  {
+    "en": "You can also configure this in /config or with the --ide flag",
+    "zh": "也可以在 /config 或使用 --ide 標誌設定"
+  },
+  {
+    "en": "You can also try the manual setup steps if needed:",
+    "zh": "如需要，你也可以嘗試手動設定步驟："
+  },
+  {
+    "en": "You can always enable it later with /remote-control.",
+    "zh": "隨時可以用 /remote-control 啟用。"
+  },
+  {
+    "en": "You can disconnect remote access anytime by running /remote-control again.",
+    "zh": "可隨時再次執行 /remote-control 以中斷遠端連線。"
+  },
+  {
+    "en": "You can either:",
+    "zh": "你可以："
+  },
+  {
+    "en": "You can help improve Claude ",
+    "zh": "您可以協助改善 Claude "
+  },
+  {
+    "en": "You can try installing manually:",
+    "zh": "你可以嘗試手動安裝："
+  },
+  {
+    "en": "You have been invoked in the following environment: ",
+    "zh": "你已在以下環境中被呼叫："
+  },
+  {
+    "en": "You have not answered all questions",
+    "zh": "你還沒有回答所有問題"
+  },
+  {
+    "en": "You must select at least one workflow to continue",
+    "zh": "你必須至少選擇一個工作流程才能繼續"
+  },
+  {
+    "en": "You should always review Claude's responses, especially when",
+    "zh": "你應該始終審查 Claude 的回覆，特別是當"
+  },
+  {
+    "en": "You've hit your fast limit",
+    "zh": "你已達到快速模式限額"
+  },
+  {
+    "en": "You've spent $5 on the Anthropic API this session.",
+    "zh": "本次對話已花費 $5 在 Anthropic API。"
+  },
+  {
+    "en": "You've used",
+    "zh": "你已使用"
+  },
+  {
+    "en": "Your Claude Pro/Max subscription will be used by Claude Code.",
+    "zh": "Claude Code 將使用你的 Claude Pro/Max 訂閱。"
+  },
+  {
+    "en": "Your bash commands will be sandboxed. Disable with /sandbox.",
+    "zh": "您的 bash 指令將在沙盒中執行。可使用 /sandbox 停用。"
+  },
+  {
+    "en": "Your choice takes effect immediately upon confirmation.",
+    "zh": "你的選擇在確認後立即生效。"
+  },
+  {
+    "en": "Your local credentials are used to authenticate with GitHub",
+    "zh": "你的本地憑證用於向 GitHub 認證"
+  },
+  {
+    "en": "Your organization policy does not allow any external marketplaces.",
+    "zh": "您的組織政策不允許使用任何外部市集。"
+  },
+  {
+    "en": "Your organization restricts which marketplaces can be added.",
+    "zh": "您的組織限制了可新增的市集。"
+  },
+  {
+    "en": "Your responses should be short and concise.",
+    "zh": "你的回覆應該簡短精煉。"
+  },
+  {
+    "en": "[Image data detected and sent to Claude]",
+    "zh": "[偵測到圖片並已傳送給 Claude]"
+  },
+  {
+    "en": "[Image]",
+    "zh": "[圖片]"
+  },
+  {
+    "en": "[Thinking...]",
+    "zh": "[思考中...]"
+  },
+  {
+    "en": "[View Tab]",
+    "zh": "[查看分頁]"
+  },
+  {
+    "en": "[Warning]",
+    "zh": "[警告]"
+  },
+  {
+    "en": "[awaiting approval]",
+    "zh": "[等待批准]"
+  },
+  {
+    "en": "[hidden] ",
+    "zh": "[已隱藏] "
+  },
+  {
+    "en": "[idle] ",
+    "zh": "[空閒] "
+  },
+  {
+    "en": "[stopping]",
+    "zh": "[停止中]"
+  },
+  {
+    "en": "[thinking]",
+    "zh": "[思考]"
+  },
+  {
+    "en": "accept edits",
+    "zh": "接受編輯"
+  },
+  {
+    "en": "accept edits on",
+    "zh": "自動接受編輯"
+  },
+  {
+    "en": "active agent",
+    "zh": "活動 Agent"
+  },
+  {
+    "en": "active shell",
+    "zh": "活動 Shell"
+  },
+  {
+    "en": "add hook",
+    "zh": "新增 Hook"
+  },
+  {
+    "en": "again to exit",
+    "zh": "再次離開"
+  },
+  {
+    "en": "all projects",
+    "zh": "所有專案"
+  },
+  {
+    "en": "all worktrees",
+    "zh": "所有 worktree"
+  },
+  {
+    "en": "and tell Claude what to do differently",
+    "zh": "告訴 Claude 換個做法"
+  },
+  {
+    "en": "and tell Claude what to do next",
+    "zh": "告訴 Claude 接下來做什麼"
+  },
+  {
+    "en": "apply changes",
+    "zh": "應用更改"
+  },
+  {
+    "en": "auto mode on",
+    "zh": "自動模式"
+  },
+  {
+    "en": "built-in (macOS)",
+    "zh": "內建 (macOS)"
+  },
+  {
+    "en": "claude --help",
+    "zh": "claude --help"
+  },
+  {
+    "en": "claude doctor",
+    "zh": "claude doctor"
+  },
+  {
+    "en": "confirm and save",
+    "zh": "確認並儲存"
+  },
+  {
+    "en": "ctrl + z to suspend",
+    "zh": "ctrl + z 暫停"
+  },
+  {
+    "en": "ctrl-g to edit in ",
+    "zh": "ctrl-g 在此編輯 "
+  },
+  {
+    "en": "d to disconnect · space for QR code · Enter/Esc to close",
+    "zh": "d 斷開 · 空格 顯示二維碼 · Enter/Esc 關閉"
+  },
+  {
+    "en": "double tap esc to clear input",
+    "zh": "按兩下 esc 清除輸入"
+  },
+  {
+    "en": "e.g. Has Claude completed all requested tasks?",
+    "zh": "例如：Claude 是否完成了所有請求的任務？"
+  },
+  {
+    "en": "e.g., Help me write unit tests for my code...",
+    "zh": "例如：協助我為程式碼撰寫單元測試…"
+  },
+  {
+    "en": "e.g., test-runner, tech-lead, etc",
+    "zh": "例如：test-runner、tech-lead 等"
+  },
+  {
+    "en": "e.g., use this agent after you're done writing code...",
+    "zh": "例如：寫完程式碼後使用此 Agent..."
+  },
+  {
+    "en": "expand history",
+    "zh": "展開歷史"
+  },
+  {
+    "en": "false (for emails with your domain)",
+    "zh": "否（適用於你的域名郵箱）"
+  },
+  {
+    "en": "files changed",
+    "zh": "檔案已變更"
+  },
+  {
+    "en": "for history)",
+    "zh": "檢視歷史記錄）"
+  },
+  {
+    "en": "hatching a coding buddy…",
+    "zh": "正在孵化程式設計夥伴…"
+  },
+  {
+    "en": "hook error",
+    "zh": "Hook 錯誤"
+  },
+  {
+    "en": "hook returned blocking error",
+    "zh": "Hook 返回阻斷錯誤"
+  },
+  {
+    "en": "hook stopped continuation:",
+    "zh": "Hook 停止了繼續執行："
+  },
+  {
+    "en": "hook warning",
+    "zh": "Hook 警告"
+  },
+  {
+    "en": "iTerm2 Split Pane Setup",
+    "zh": "iTerm2 分割面板設定"
+  },
+  {
+    "en": "indexing… ",
+    "zh": "索引中… "
+  },
+  {
+    "en": "instead of Anthropic Console key. Either unset",
+    "zh": "而非 Anthropic Console 金鑰。請取消設定"
+  },
+  {
+    "en": "interactive setup",
+    "zh": "互動式設定"
+  },
+  {
+    "en": "is here · it'll chime in as you code",
+    "zh": "來了 · 你編碼時它會插話"
+  },
+  {
+    "en": "it'll watch you work and occasionally have opinions",
+    "zh": "它會看著你工作，偶爾發表意見"
+  },
+  {
+    "en": "keep holding…",
+    "zh": "請繼續按住…"
+  },
+  {
+    "en": "last said",
+    "zh": "上次發言"
+  },
+  {
+    "en": "mTLS client cert",
+    "zh": "mTLS 用戶端憑證"
+  },
+  {
+    "en": "mTLS client key",
+    "zh": "mTLS 用戶端金鑰"
+  },
+  {
+    "en": "mark done",
+    "zh": "標記完成"
+  },
+  {
+    "en": "more below",
+    "zh": "更多在下方"
+  },
+  {
+    "en": "more…",
+    "zh": "更多…"
+  },
+  {
+    "en": "new task? ",
+    "zh": "新任務？"
+  },
+  {
+    "en": "new task? /clear to save ",
+    "zh": "新任務？/clear 儲存 "
+  },
+  {
+    "en": "no matches ",
+    "zh": "無匹配項 "
+  },
+  {
+    "en": "not found",
+    "zh": "未找到"
+  },
+  {
+    "en": "not installed",
+    "zh": "未安裝"
+  },
+  {
+    "en": "not set",
+    "zh": "未設定"
+  },
+  {
+    "en": "open in editor",
+    "zh": "在編輯器中開啟"
+  },
+  {
+    "en": "opens docs",
+    "zh": "開啟檔案"
+  },
+  {
+    "en": "plan mode on",
+    "zh": "計劃模式"
+  },
+  {
+    "en": "plugin - Manage installed plugins",
+    "zh": "外掛 - 管理已安裝外掛"
+  },
+  {
+    "en": "press any key",
+    "zh": "按任意鍵"
+  },
+  {
+    "en": "reject all",
+    "zh": "全部拒絕"
+  },
+  {
+    "en": "run /terminal-setup",
+    "zh": "執行 /terminal-setup"
+  },
+  {
+    "en": "sandbox disabled",
+    "zh": "沙盒已禁用"
+  },
+  {
+    "en": "say its name to get its take · /buddy pet · /buddy off",
+    "zh": "喊它的名字聽聽它的看法 · /buddy pet · /buddy off"
+  },
+  {
+    "en": "search history",
+    "zh": "搜尋歷史"
+  },
+  {
+    "en": "stop agents",
+    "zh": "停止 Agent"
+  },
+  {
+    "en": "stop all agents",
+    "zh": "停止所有 Agent"
+  },
+  {
+    "en": "sync cycle modes for all · Esc close",
+    "zh": "同步所有模式 · Esc 關閉"
+  },
+  {
+    "en": "to connect.",
+    "zh": "連線。"
+  },
+  {
+    "en": "to save,",
+    "zh": "儲存，"
+  },
+  {
+    "en": "to see all)",
+    "zh": "查看全部）"
+  },
+  {
+    "en": "to see full summary)",
+    "zh": "檢視完整摘要）"
+  },
+  {
+    "en": "to share detailed feedback anytime.",
+    "zh": "隨時分享詳細反饋。"
+  },
+  {
+    "en": "to speak",
+    "zh": "說話"
+  },
+  {
+    "en": "to switch model",
+    "zh": "切換模型"
+  },
+  {
+    "en": "to toggle",
+    "zh": "切換"
+  },
+  {
+    "en": "to toggle fast mode",
+    "zh": "切換快速模式"
+  },
+  {
+    "en": "to toggle tasks",
+    "zh": "切換任務"
+  },
+  {
+    "en": "to toggle thinking",
+    "zh": "切換思考模式"
+  },
+  {
+    "en": "to undo",
+    "zh": "復原"
+  },
+  {
+    "en": "to view",
+    "zh": "檢視"
+  },
+  {
+    "en": "toggle branch",
+    "zh": "切換分支"
+  },
+  {
+    "en": "toggle selection",
+    "zh": "切換選擇"
+  },
+  {
+    "en": "toggle transcript",
+    "zh": "切換對話記錄"
+  },
+  {
+    "en": "type to search",
+    "zh": "輸入搜尋"
+  },
+  {
+    "en": "unrecognized:",
+    "zh": "無法識別："
+  },
+  {
+    "en": "update hook",
+    "zh": "更新 Hook"
+  },
+  {
+    "en": "view tasks",
+    "zh": "檢視任務"
+  },
+  {
+    "en": "your buddy won't count toward your usage",
+    "zh": "你的夥伴不會計入用量"
+  },
+  {
+    "en": "· Component summary not available for remote plugin",
+    "zh": "· 遠端外掛的元件摘要不可用"
+  },
+  {
+    "en": "· Components will be discovered at installation",
+    "zh": "· 元件將在安裝時被發現"
+  },
+  {
+    "en": "· No hook commands will execute",
+    "zh": "· 不會執行任何 hook 命令"
+  },
+  {
+    "en": "· Run in another terminal: security unlock-keychain",
+    "zh": "· 在另一個終端執行：security unlock-keychain"
+  },
+  {
+    "en": "· StatusLine will not be displayed",
+    "zh": "· 狀態列將不會顯示"
+  },
+  {
+    "en": "· Tool operations will proceed without hook validation",
+    "zh": "· 工具操作將在不驗證 Hook 的情況下執行"
+  },
+  {
+    "en": "· What should Claude do instead?",
+    "zh": "· Claude 應該採取什麼替代方案？"
+  },
+  {
+    "en": "· You may need to restart iTerm2 after enabling",
+    "zh": "· 啟用後可能需要重啟 iTerm2"
+  },
+  {
+    "en": "• Agents:",
+    "zh": "• Agent："
+  },
+  {
+    "en": "• Cmd+Esc",
+    "zh": "• Cmd+Esc"
+  },
+  {
+    "en": "• Commands:",
+    "zh": "• 命令："
+  },
+  {
+    "en": "• Hooks:",
+    "zh": "• Hook："
+  },
+  {
+    "en": "• Remove",
+    "zh": "• 移除"
+  },
+  {
+    "en": "• Skills:",
+    "zh": "• Skill："
+  },
+  {
+    "en": "• Update",
+    "zh": "• 更新"
+  },
+  {
+    "en": "• Updated",
+    "zh": "• 已更新"
+  },
+  {
+    "en": "… diff truncated (exceeded 400 line limit)",
+    "zh": "… diff 已截斷（超過 400 行限制）"
+  },
+  {
+    "en": "← → to adjust",
+    "zh": "← → 調整"
+  },
+  {
+    "en": "←/→ source",
+    "zh": "←/→ 來源"
+  },
+  {
+    "en": "↑/↓ select",
+    "zh": "↑/↓ 選擇"
+  },
+  {
+    "en": "↑/↓ to change · Enter to apply · Esc to cancel",
+    "zh": "按 ↑/↓ 切換 · 按 Enter 應用 · 按 Esc 取消"
+  },
+  {
+    "en": "↑/↓ to select · Enter to continue",
+    "zh": "↑/↓ 選擇 · Enter 繼續"
+  },
+  {
+    "en": "∴ Thinking",
+    "zh": "∴ 思考中"
+  },
+  {
+    "en": "└ Failed to fetch versions",
+    "zh": "└ 獲取版本失敗"
+  },
+  {
+    "en": "└ No active version locks",
+    "zh": "└ 沒有活躍的版本鎖定"
+  },
+  {
+    "en": "└ Run /sandbox for install instructions",
+    "zh": "└ 執行 /sandbox 檢視安裝說明"
+  },
+  {
+    "en": "⚠ Warning: Glob patterns not fully supported on Linux",
+    "zh": "⚠ 警告：Linux 上不完全支援 Glob 模式"
+  },
+  {
+    "en": "✓ Anthropic marketplace installed · /plugin to see available plugins",
+    "zh": "✓ Anthropic 市集已安裝 · 請使用 /plugin 查看可用外掛"
+  },
+  {
+    "en": "✓ Authentication token created successfully!",
+    "zh": "✓ 驗證權杖已成功建立！"
+  },
+  {
+    "en": "✓ GitHub Actions workflow created!",
+    "zh": "✓ GitHub Actions 工作流程已建立！"
+  },
+  {
+    "en": "✓ Long-lived authentication token created successfully!",
+    "zh": "✓ 長期驗證權杖已成功建立！"
+  },
+  {
+    "en": "✓ Update installed · Restart to apply",
+    "zh": "✓ 更新已安裝 · 重啟以生效"
+  },
+  {
+    "en": "✓ Update installed · Restart to update",
+    "zh": "✓ 更新已安裝 · 重啟以更新"
+  },
+  {
+    "en": "✓ Using existing ANTHROPIC_API_KEY secret",
+    "zh": "✓ 使用現有的 ANTHROPIC_API_KEY secret"
+  },
+  {
+    "en": "✓ iTerm2 split pane support is ready",
+    "zh": "✓ iTerm2 分割面板支援已就緒"
+  },
+  {
+    "en": "✓ it2 installed successfully",
+    "zh": "✓ it2 已成功安裝"
+  },
+  {
+    "en": "✨ SHINY ✨",
+    "zh": "✨ 閃亮 ✨"
+  },
+  {
+    "en": "✻ Conversation compacted (",
+    "zh": "✻ 對話已壓縮（"
+  },
+  {
+    "en": "✻ Thinking…",
+    "zh": "✻ 思考中…"
+  },
+  {
+    "en": "⧉ In",
+    "zh": "⧉ 在"
+  },
+  {
+    "en": "⧉ Selected",
+    "zh": "⧉ 已選"
+  },
+  {
+    "en": "⧉ open files",
+    "zh": "⧉ 開啟檔案"
+  },
+  {
+    "en": "⧉ selected lines",
+    "zh": "⧉ 已選取的行"
+  },
+  {
+    "en": "📝 Keep thinking...",
+    "zh": "📝 繼續思考中..."
+  },
+  {
+    "en": "Claude Code - starts an interactive session by default, use -p/--print for non-interactive output",
+    "zh": "Claude Code - 預設啟動互動式工作階段；使用 -p/--print 輸出非互動結果"
+  },
+  {
+    "en": "Arguments:",
+    "zh": "引數："
+  },
+  {
+    "en": "Options:",
+    "zh": "選項："
+  },
+  {
+    "en": "Commands:",
+    "zh": "命令："
+  },
+  {
+    "en": "Examples:",
+    "zh": "示例："
+  },
+  {
+    "en": "choices:",
+    "zh": "可選："
+  },
+  {
+    "en": "default:",
+    "zh": "預設："
+  },
+  {
+    "en": "Your prompt",
+    "zh": "你的提示詞"
+  },
+  {
+    "en": "Display help for command",
+    "zh": "顯示命令幫助"
+  },
+  {
+    "en": "display help for command",
+    "zh": "顯示命令幫助"
+  },
+  {
+    "en": "JSON object defining custom agents (e.g. '{\"reviewer\": {\"description\": \"Reviews code\", \"prompt\": \"You are a code reviewer\"}}')",
+    "zh": "定義自定義 Agent 的 JSON 物件（例如 '{\"reviewer\": {\"description\": \"審查程式碼\", \"prompt\": \"你是程式碼審查員\"}}'）"
+  },
+  {
+    "en": "Enable bypassing all permission checks as an option, without it being enabled by default. Recommended only for sandboxes with no internet access.",
+    "zh": "允許把跳過所有權限檢查作為可選項，但預設不啟用。僅建議在無網路存取的沙盒中使用。"
+  },
+  {
+    "en": "Comma or space-separated list of tool names to allow (e.g. \"Bash(git *) Edit\")",
+    "zh": "允許使用的工具名稱列表，可用逗號或空格分隔（例如 \"Bash(git *) Edit\"）"
+  },
+  {
+    "en": "Comma or space-separated list of tool names to allow (e.g. \"Bash(git:*) Edit\")",
+    "zh": "允許使用的工具名稱列表，可用逗號或空格分隔（例如 \"Bash(git:*) Edit\"）"
+  },
+  {
+    "en": "Comma or space-separated list of tool names to deny (e.g. \"Bash(git *) Edit\")",
+    "zh": "拒絕使用的工具名稱列表，可用逗號或空格分隔（例如 \"Bash(git *) Edit\"）"
+  },
+  {
+    "en": "Comma or space-separated list of tool names to deny (e.g. \"Bash(git:*) Edit\")",
+    "zh": "拒絕使用的工具名稱列表，可用逗號或空格分隔（例如 \"Bash(git:*) Edit\"）"
+  },
+  {
+    "en": "Minimal mode: skip hooks, LSP, plugin sync, attribution, auto-memory, background prefetches, keychain reads, and CLAUDE.md auto-discovery. Sets CLAUDE_CODE_SIMPLE=1. Anthropic auth is strictly ANTHROPIC_API_KEY or apiKeyHelper via --settings (OAuth and keychain are never read). 3P providers (Bedrock/Vertex/Foundry) use their own credentials. Skills still resolve via /skill-name. Explicitly provide context via: --system-prompt[-file], --append-system-prompt[-file], --add-dir (CLAUDE.md dirs), --mcp-config, --settings, --agents, --plugin-dir.",
+    "zh": "極簡模式：跳過 hooks、LSP、外掛同步、歸因、自動記憶、後臺預取、鑰匙串讀取和 CLAUDE.md 自動發現。設定 CLAUDE_CODE_SIMPLE=1。Anthropic 身份驗證嚴格使用 ANTHROPIC_API_KEY 或透過 --settings 設定的 apiKeyHelper（不會讀取 OAuth 和鑰匙串）。第三方 provider（Bedrock/Vertex/Foundry）使用各自憑據。Skills 仍可透過 /skill-name 解析。請顯式提供上下文：--system-prompt[-file]、--append-system-prompt[-file]、--add-dir（CLAUDE.md 目錄）、--mcp-config、--settings、--agents、--plugin-dir。"
+  },
+  {
+    "en": "Enable SendUserMessage tool for agent-to-user communication",
+    "zh": "啟用 SendUserMessage 工具，用於 Agent 向使用者通訊"
+  },
+  {
+    "en": "Bypass all permission checks. Recommended only for sandboxes with no internet access.",
+    "zh": "跳過所有權限檢查。僅建議在無網路存取的沙盒中使用。"
+  },
+  {
+    "en": "Disable all skills",
+    "zh": "禁用所有 skills"
+  },
+  {
+    "en": "Effort level for the current session (low, medium, high, xhigh, max)",
+    "zh": "目前工作階段的 effort 級別（low、medium、high、xhigh、max）"
+  },
+  {
+    "en": "Effort level for the current session (${...})",
+    "zh": "目前工作階段的 effort 級別（${...}）"
+  },
+  {
+    "en": "Move per-machine sections (cwd, env info, memory paths, git status) from the system prompt into the first user message. Improves cross-user prompt-cache reuse. Only applies with the default system prompt (ignored with --system-prompt). (default: false)",
+    "zh": "將每臺機器不同的資訊段（cwd、env 資訊、memory 路徑、git 狀態）從系統提示詞移到第一條使用者訊息中。這樣可提高跨使用者 prompt cache 複用。僅適用於預設系統提示詞（使用 --system-prompt 時忽略）。（預設：false）"
+  },
+  {
+    "en": "Move per-machine sections (cwd, env info, memory paths, git status) from the system prompt into the first user message. Improves cross-user prompt-cache reuse. Only applies with the default system prompt (ignored with --system-prompt).",
+    "zh": "將每臺機器不同的資訊段（cwd、env 資訊、memory 路徑、git 狀態）從系統提示詞移到第一條使用者訊息中。這樣可提高跨使用者 prompt cache 複用。僅適用於預設系統提示詞（使用 --system-prompt 時忽略）。"
+  },
+  {
+    "en": "Render screen-reader friendly output (flat text, no decorative borders or animations).",
+    "zh": "渲染適合螢幕閱讀器的輸出（純文字，沒有裝飾邊框或動畫）。"
+  },
+  {
+    "en": "Render screen-reader friendly output",
+    "zh": "渲染適合螢幕閱讀器的輸出"
+  },
+  {
+    "en": "(flat text, no decorative borders or animations).",
+    "zh": "（純文字，沒有裝飾邊框或動畫）。"
+  },
+  {
+    "en": "Enable automatic fallback to specified model when default model is overloaded (only works with --print)",
+    "zh": "預設模型過載時自動回退到指定模型（僅 --print 有效）"
+  },
+  {
+    "en": "Enable automatic fallback to specified model(s) when the default model is overloaded or not available. Accepts a comma-separated list to try each in order. Re-tries the primary at the start of each user turn. (only works with --print)",
+    "zh": "預設模型過載或不可用時，自動回退到指定模型。可用逗號分隔多個模型並按順序嘗試；每輪使用者輸入開始時會重新嘗試主模型（僅 --print 有效）"
+  },
+  {
+    "en": "Enable automatic fallback to specified model when the default model is overloaded or not available (only works with --print)",
+    "zh": "預設模型過載或不可用時自動回退到指定模型（僅 --print 有效）"
+  },
+  {
+    "en": "File resources to download at startup. Format: file_id:relative_path (e.g., --file file_abc:doc.txt file_def:img.png)",
+    "zh": "啟動時下載檔案資源。格式：file_id:relative_path（例如 --file file_abc:doc.txt file_def:img.png）"
+  },
+  {
+    "en": "When resuming, create a new session ID instead of reusing the original (use with --resume or --continue)",
+    "zh": "恢復工作階段時建立新的 session ID，而不是複用原 session ID（與 --resume 或 --continue 搭配使用）"
+  },
+  {
+    "en": "Resume a session linked to a PR by PR number/URL, or open interactive picker with optional search term",
+    "zh": "透過 PR 編號/URL 恢復關聯工作階段，或開啟互動式選擇器並可輸入搜尋詞"
+  },
+  {
+    "en": "Resume a conversation by session ID, or open interactive picker with optional search term",
+    "zh": "透過 session ID 恢復對話，或開啟互動式選擇器並可輸入搜尋詞"
+  },
+  {
+    "en": "Include all hook lifecycle events in the output stream (only works with --output-format=stream-json)",
+    "zh": "在輸出流中包含所有 Hook 生命週期事件（僅 --output-format=stream-json 有效）"
+  },
+  {
+    "en": "Include partial message chunks as they arrive (only works with --print and --output-format=stream-json)",
+    "zh": "訊息片段到達時立即包含在輸出中（僅 --print 且 --output-format=stream-json 有效）"
+  },
+  {
+    "en": "JSON Schema for structured output validation. Example: {\"type\":\"object\",\"properties\":{\"name\":{\"type\":\"string\"}},\"required\":[\"name\"]}",
+    "zh": "結構化輸出校驗用 JSON Schema。示例：{\"type\":\"object\",\"properties\":{\"name\":{\"type\":\"string\"}},\"required\":[\"name\"]}"
+  },
+  {
+    "en": "[DEPRECATED. Use --debug instead] Enable MCP debug mode (shows MCP server errors)",
+    "zh": "[已廢棄。請改用 --debug] 啟用 MCP debug 模式（顯示 MCP 伺服器錯誤）"
+  },
+  {
+    "en": "Set a display name for this session (shown in /resume and terminal title)",
+    "zh": "設定此工作階段的顯示名稱（顯示在 /resume 和終端標題中）"
+  },
+  {
+    "en": "Set a display name for this session (shown in the prompt box, /resume picker, and terminal title)",
+    "zh": "設定此工作階段的顯示名稱（顯示在提示框、/resume 選擇器和終端標題中）"
+  },
+  {
+    "en": "Enable debug mode with optional category filtering (e.g., \"api,hooks\" or \"!1p,!file\")",
+    "zh": "啟用 debug 模式，並可選按類別過濾（例如 \"api,hooks\" 或 \"!1p,!file\"）"
+  },
+  {
+    "en": "Disable session persistence - sessions will not be saved to disk and cannot be resumed (only works with --print)",
+    "zh": "禁用工作階段持久化 - 工作階段不會儲存到磁碟，也無法恢復（僅 --print 有效）"
+  },
+  {
+    "en": "Input format (only works with --print): \"text\" (default), or \"stream-json\" (realtime streaming input) (choices: \"text\", \"stream-json\")",
+    "zh": "輸入格式（僅 --print 有效）：\"text\"（預設）或 \"stream-json\"（實時流式輸入）（可選：\"text\"、\"stream-json\"）"
+  },
+  {
+    "en": "Input format (only works with --print): \"text\" (default), or \"stream-json\" (realtime streaming input)",
+    "zh": "輸入格式（僅 --print 有效）：\"text\"（預設）或 \"stream-json\"（實時流式輸入）"
+  },
+  {
+    "en": "Load a plugin from a directory or .zip for this session only (repeatable: --plugin-dir A --plugin-dir B.zip)",
+    "zh": "僅為目前工作階段從目錄或 .zip 載入外掛（可重複：--plugin-dir A --plugin-dir B.zip）"
+  },
+  {
+    "en": "Load a plugin from a directory or .zip for this session only (repeatable: --plugin-dir A --plugin-dir B.zip) (default: [])",
+    "zh": "僅為目前工作階段從目錄或 .zip 載入外掛（可重複：--plugin-dir A --plugin-dir B.zip）（預設：[]）"
+  },
+  {
+    "en": "Fetch a plugin .zip from a URL for this session only (repeatable: --plugin-url A --plugin-url B)",
+    "zh": "僅為目前工作階段從 URL 獲取外掛 .zip（可重複：--plugin-url A --plugin-url B）"
+  },
+  {
+    "en": "Fetch a plugin .zip from a URL for this session only (repeatable: --plugin-url A --plugin-url B) (default: [])",
+    "zh": "僅為目前工作階段從 URL 獲取外掛 .zip（可重複：--plugin-url A --plugin-url B）（預設：[]）"
+  },
+  {
+    "en": "Load plugins from a directory for this session only (repeatable: --plugin-dir A --plugin-dir B) (default: [])",
+    "zh": "僅為目前工作階段從目錄載入外掛（可重複：--plugin-dir A --plugin-dir B）（預設：[]）"
+  },
+  {
+    "en": "Load plugins from a directory for this session only (repeatable: --plugin-dir A --plugin-dir B)",
+    "zh": "僅為目前工作階段從目錄載入外掛（可重複：--plugin-dir A --plugin-dir B）"
+  },
+  {
+    "en": "Additional directory to allow tool access to in dispatched sessions (repeatable)",
+    "zh": "允許分派工作階段存取的額外目錄（可重複）"
+  },
+  {
+    "en": "Load plugins from specified directory for the agent view and dispatched sessions (repeatable)",
+    "zh": "從指定目錄為 Agent 檢視和分派工作階段載入外掛（可重複）"
+  },
+  {
+    "en": "Settings file or JSON string to apply to the agent view and dispatched sessions",
+    "zh": "應用到 Agent 檢視和分派工作階段的 settings 檔案或 JSON 字串"
+  },
+  {
+    "en": "MCP server configuration to apply to dispatched sessions (repeatable)",
+    "zh": "應用到分派工作階段的 MCP 伺服器設定（可重複）"
+  },
+  {
+    "en": "Load MCP servers from JSON files or strings (space-separated)",
+    "zh": "從 JSON 檔案或字串載入 MCP 伺服器（空格分隔）"
+  },
+  {
+    "en": "Only use MCP servers from --mcp-config in dispatched sessions",
+    "zh": "分派工作階段僅使用 --mcp-config 中的 MCP 伺服器"
+  },
+  {
+    "en": "Only use MCP servers from --mcp-config, ignoring all other MCP configurations",
+    "zh": "僅使用 --mcp-config 中的 MCP 伺服器，忽略其他所有 MCP 設定"
+  },
+  {
+    "en": "Default permission mode for sessions dispatched from agent view",
+    "zh": "從 Agent 檢視分派工作階段時使用的預設權限模式"
+  },
+  {
+    "en": "Permission mode to use for the session",
+    "zh": "目前工作階段使用的權限模式"
+  },
+  {
+    "en": "Alias for --permission-mode bypassPermissions",
+    "zh": "--permission-mode bypassPermissions 的別名"
+  },
+  {
+    "en": "Make bypass-permissions mode available to dispatched sessions without defaulting to it",
+    "zh": "讓分派工作階段可使用 bypass-permissions 模式，但不預設啟用"
+  },
+  {
+    "en": "Default model for sessions dispatched from agent view",
+    "zh": "從 Agent 檢視分派工作階段時使用的預設模型"
+  },
+  {
+    "en": "Default effort level for sessions dispatched from agent view",
+    "zh": "從 Agent 檢視分派工作階段時使用的預設 effort 級別"
+  },
+  {
+    "en": "Default agent for sessions dispatched from agent view. Overrides the 'agent' setting.",
+    "zh": "從 Agent 檢視分派工作階段時使用的預設 Agent。會覆蓋 'agent' 設定。"
+  },
+  {
+    "en": "Model for the current session. Provide an alias for the latest model (e.g. 'sonnet' or 'opus') or a model's full name (e.g. 'claude-sonnet-4-6').",
+    "zh": "目前工作階段使用的模型。可提供最新模型別名（例如 'sonnet' 或 'opus'），也可提供模型完整名稱（例如 'claude-sonnet-4-6'）。"
+  },
+  {
+    "en": "Model for the current session. Provide an alias for the latest model (e.g. 'sonnet' or 'opus') or a model's full name (e.g. 'claude-opus-4-8').",
+    "zh": "目前工作階段使用的模型。可提供最新模型別名（例如 'sonnet' 或 'opus'），也可提供模型完整名稱（例如 'claude-opus-4-8'）。"
+  },
+  {
+    "en": "Model for the current session. Provide an alias for the latest model (e.g. 'fable', 'opus', or 'sonnet') or a model's full name (e.g. 'claude-fable-5').",
+    "zh": "目前工作階段使用的模型。可提供最新模型別名（例如 'fable'、'opus' 或 'sonnet'），也可提供模型完整名稱（例如 'claude-fable-5'）。"
+  },
+  {
+    "en": "Beta headers to include in API requests (API key users only)",
+    "zh": "要包含在 API 請求中的 Beta header（僅 API 金鑰使用者）"
+  },
+  {
+    "en": "Output format (only works with --print): \"text\" (default), \"json\" (single result), or \"stream-json\" (realtime streaming) (choices: \"text\", \"json\", \"stream-json\")",
+    "zh": "輸出格式（僅 --print 有效）：\"text\"（預設）、\"json\"（單次結果）或 \"stream-json\"（實時流式輸出）（可選：\"text\"、\"json\"、\"stream-json\"）"
+  },
+  {
+    "en": "Output format (only works with --print): \"text\" (default), \"json\" (single result), or \"stream-json\" (realtime streaming)",
+    "zh": "輸出格式（僅 --print 有效）：\"text\"（預設）、\"json\"（單次結果）或 \"stream-json\"（實時流式輸出）"
+  },
+  {
+    "en": "Print response and exit (useful for pipes). Note: The workspace trust dialog is skipped when Claude is run with the -p mode. Only use this flag in directories you trust.",
+    "zh": "列印響應並離開（適合管道）。注意：使用 -p 模式執行 Claude 時會跳過工作區信任對話方塊。只在你信任的目錄中使用此 flag。"
+  },
+  {
+    "en": "Print response and exit (useful for pipes). Note: The workspace trust dialog is skipped when Claude is run in non-interactive mode (via -p, or when stdout is not a TTY, e.g. piped or redirected output). Only use this in directories you trust.",
+    "zh": "列印響應並離開（適合管道）。注意：Claude 以非互動模式執行時會跳過工作區信任對話方塊（例如使用 -p，或 stdout 不是 TTY，如管道/重定向輸出）。只在你信任的目錄中使用。"
+  },
+  {
+    "en": "Re-emit user messages from stdin back on stdout for acknowledgment (only works with --input-format=stream-json and --output-format=stream-json)",
+    "zh": "將 stdin 中的使用者訊息重新輸出到 stdout 作為確認（僅 --input-format=stream-json 且 --output-format=stream-json 有效）"
+  },
+  {
+    "en": "Path to a settings JSON file or a JSON string to load additional settings from",
+    "zh": "用於載入額外設定的 settings JSON 檔案路徑或 JSON 字串"
+  },
+  {
+    "en": "Create a tmux session for the worktree (requires --worktree). Uses iTerm2 native panes when available; use --tmux=classic for traditional tmux.",
+    "zh": "為 worktree 建立 tmux 工作階段（需要 --worktree）。可用時使用 iTerm2 原生窗格；使用 --tmux=classic 可啟用傳統 tmux。"
+  },
+  {
+    "en": "Specify the list of available tools from the built-in set. Use \"\" to disable all tools, \"default\" to use all tools, or specify tool names (e.g. \"Bash,Edit,Read\").",
+    "zh": "從內建集合中指定可用工具列表。使用 \"\" 禁用所有工具，使用 \"default\" 啟用所有工具，或指定工具名（例如 \"Bash,Edit,Read\"）。"
+  },
+  {
+    "en": "Output the version number",
+    "zh": "輸出版本號"
+  },
+  {
+    "en": "List configured agents",
+    "zh": "列出已設定的 Agent"
+  },
+  {
+    "en": "Manage background and configured agents",
+    "zh": "管理後臺和已設定的 Agent"
+  },
+  {
+    "en": "Manage background agents",
+    "zh": "管理後臺 Agent"
+  },
+  {
+    "en": "Show only background sessions started under",
+    "zh": "僅顯示在此路徑下啟動的後臺工作階段"
+  },
+  {
+    "en": "Manage authentication",
+    "zh": "管理驗證"
+  },
+  {
+    "en": "Inspect auto mode classifier configuration",
+    "zh": "查看自動模式分類器設定"
+  },
+  {
+    "en": "Check the health of your Claude Code auto-updater. Note: The workspace trust dialog is skipped and stdio servers from .mcp.json are spawned for health checks. Only use this command in directories you trust.",
+    "zh": "檢查 Claude Code 自動更新器的健康狀態。注意：此指令會跳過工作區信任對話框，並啟動 .mcp.json 中的 stdio 伺服器進行健康檢查。請只在信任的目錄中使用。"
+  },
+  {
+    "en": "Set up a long-lived authentication token (requires Claude subscription)",
+    "zh": "設定長期驗證權杖（需要 Claude 訂閱）"
+  },
+  {
+    "en": "Check for updates and install if available",
+    "zh": "檢查更新並安裝"
+  },
+  {
+    "en": "Sign in to your Anthropic account",
+    "zh": "登入 Anthropic 帳號"
+  },
+  {
+    "en": "Log out from your Anthropic account",
+    "zh": "登出 Anthropic 帳號"
+  },
+  {
+    "en": "Show authentication status",
+    "zh": "顯示驗證狀態"
+  },
+  {
+    "en": "Print the effective auto mode config as JSON: your settings where set, defaults otherwise",
+    "zh": "以 JSON 格式顯示有效的自動模式設定：你設定的項目，其餘為預設值"
+  },
+  {
+    "en": "Get AI feedback on your custom auto mode rules",
+    "zh": "取得 AI 對自訂自動模式規則的回饋"
+  },
+  {
+    "en": "Print the default auto mode environment, allow, and deny rules as JSON",
+    "zh": "以 JSON 格式顯示預設的自動模式環境、允許和拒絕規則"
+  },
+  {
+    "en": "Print the default auto mode environment, allow, soft_deny, and hard_deny rules as JSON",
+    "zh": "以 JSON 列印預設 auto mode 環境、allow、soft_deny 和 hard_deny 規則"
+  },
+  {
+    "en": "Install Claude Code native build. Use [target] to specify version (stable, latest, or specific version)",
+    "zh": "安裝原生版本。以 [target] 指定版本（stable、latest 或特定版號）"
+  },
+  {
+    "en": "Configure and manage MCP servers",
+    "zh": "設定與管理 MCP 伺服器"
+  },
+  {
+    "en": "Add an MCP server to Claude Code.",
+    "zh": "向 Claude Code 新增 MCP 伺服器。"
+  },
+  {
+    "en": "# Add HTTP server:",
+    "zh": "# 新增 HTTP 伺服器："
+  },
+  {
+    "en": "# Add HTTP server with headers:",
+    "zh": "# 新增帶 headers 的 HTTP 伺服器："
+  },
+  {
+    "en": "# Add stdio server with environment variables:",
+    "zh": "# 新增帶環境變數的 stdio 伺服器："
+  },
+  {
+    "en": "# Add stdio server with subprocess flags:",
+    "zh": "# 新增帶子程序 flag 的 stdio 伺服器："
+  },
+  {
+    "en": "Add an MCP server (stdio or SSE) with a JSON string",
+    "zh": "以 JSON 字串新增 MCP 伺服器（stdio 或 SSE）"
+  },
+  {
+    "en": "Get details about an MCP server. Note: The workspace trust dialog is skipped and stdio servers from .mcp.json are spawned for health checks. Only use this command in directories you trust.",
+    "zh": "取得 MCP 伺服器的詳細資訊。注意：此指令會跳過工作區信任對話框，並啟動 .mcp.json 中的 stdio 伺服器進行健康檢查。請只在信任的目錄中使用。"
+  },
+  {
+    "en": "Get details about an MCP server. Unapproved .mcp.json servers are shown as \\u23F8 Pending approval and not connected to; approved servers are health-checked.",
+    "zh": "獲取 MCP 伺服器詳情。未批准的 .mcp.json 伺服器會顯示為 ⏸ 待批准且不會連線；已批准的伺服器會做健康檢查。"
+  },
+  {
+    "en": "Remove an MCP server",
+    "zh": "移除 MCP 伺服器"
+  },
+  {
+    "en": "Reset all approved and rejected project-scoped (.mcp.json) servers within this project",
+    "zh": "重設此專案中所有已批准與已拒絕的專案範圍（.mcp.json）伺服器"
+  },
+  {
+    "en": "Start the Claude Code MCP server",
+    "zh": "啟動 Claude Code MCP 伺服器"
+  },
+  {
+    "en": "Manage Claude Code plugins",
+    "zh": "管理 Claude Code 外掛"
+  },
+  {
+    "en": "Scaffold a new plugin at ~/.claude/skills/<name>/ (auto-loads next session as <name>@skills-dir)",
+    "zh": "在 ~/.claude/skills/<name>/ 初始化新外掛（下次工作階段自動按 <name>@skills-dir 載入）"
+  },
+  {
+    "en": "Manage Claude Code project state",
+    "zh": "管理 Claude Code 專案狀態"
+  },
+  {
+    "en": "Show a plugin's component inventory and projected token cost",
+    "zh": "顯示外掛元件清單和預計 token 成本"
+  },
+  {
+    "en": "Disable an enabled plugin",
+    "zh": "停用已啟用的外掛"
+  },
+  {
+    "en": "Enable a disabled plugin",
+    "zh": "啟用已停用的外掛"
+  },
+  {
+    "en": "Install a plugin from available marketplaces (use plugin@marketplace for specific marketplace)",
+    "zh": "從可用市集安裝外掛（以 plugin@marketplace 指定來源）"
+  },
+  {
+    "en": "List installed plugins",
+    "zh": "列出已安裝的外掛"
+  },
+  {
+    "en": "Manage Claude Code marketplaces",
+    "zh": "管理 Claude Code 市集"
+  },
+  {
+    "en": "Uninstall an installed plugin",
+    "zh": "解除安裝已安裝的外掛"
+  },
+  {
+    "en": "Update a plugin to the latest version (restart required to apply)",
+    "zh": "更新外掛至最新版本（需重新啟動才生效）"
+  },
+  {
+    "en": "Validate a plugin or marketplace",
+    "zh": "驗證外掛或外掛市場"
+  },
+  {
+    "en": "Remove auto-installed dependencies that are no longer needed",
+    "zh": "移除不再需要的自動安裝依賴"
+  },
+  {
+    "en": "Create a {name}--v{version} git tag for a plugin release, validating that plugin.json and any enclosing marketplace entry agree",
+    "zh": "為外掛釋出建立 {name}--v{version} git tag，並校驗 plugin.json 與所屬外掛市場條目一致"
+  },
+  {
+    "en": "Print the raw bugs.json payload instead of formatted findings",
+    "zh": "列印原始 bugs.json payload，而不是格式化後的 findings"
+  },
+  {
+    "en": "Maximum minutes to wait for the review to finish (default: 30)",
+    "zh": "等待 review 完成的最長分鐘數（預設：30）"
+  },
+  {
+    "en": "Run a cloud-hosted multi-agent code review of the current branch (or a PR number / base branch) and print the findings",
+    "zh": "在雲端執行多 Agent 程式碼審查，目標可為目前分支、PR 編號或基準分支，並列印結果"
+  },
+  {
+    "en": "Fast mode ON",
+    "zh": "快速模式 開"
+  },
+  {
+    "en": "Draws from usage credits",
+    "zh": "會消耗用量額度"
+  },
+  {
+    "en": " for this session only. Selecting a model will undo this.",
+    "zh": "（僅本次工作階段）。選擇模型將取消此設定。"
+  },
+  {
+    "en": "Review the current diff and apply the fixes \\u2014 equivalent to /code-review --fix.",
+    "zh": "審查目前 diff 並應用修復，相當於 /code-review --fix。"
+  },
+  {
+    "en": "Configure the Advisor Tool to consult a stronger model for guidance at key moments during a task",
+    "zh": "設定 Advisor Tool，在任務關鍵節點諮詢更強模型獲取建議"
+  },
+  {
+    "en": "Send this session to the background and free the terminal",
+    "zh": "將本工作階段放到後臺並釋放終端"
+  },
+  {
+    "en": "Start a new session with empty context; previous session stays on disk (resumable with /resume)",
+    "zh": "用空上下文開始新工作階段；之前的工作階段會保留在磁碟上（可用 /resume 恢復）"
+  },
+  {
+    "en": "Adjust mouse wheel scroll speed",
+    "zh": "調整滑鼠滾輪滾動速度"
+  },
+  {
+    "en": "Automates your Chrome browser to interact with web pages - clicking elements, filling forms, capturing screenshots, reading console logs, and navigating sites. Opens pages in new tabs within your existing Chrome session. Requires site-level permissions before executing (configured in the extension).",
+    "zh": "自動化你的 Chrome 瀏覽器與網頁互動 — 點選元素、填寫表單、擷取螢幕截圖等。"
+  },
+  {
+    "en": "Author or improve the run-<unit> skill for this project.",
+    "zh": "為這個專案編寫或改進 run-<unit> skill。"
+  },
+  {
+    "en": "Browse dynamic workflow history (running and completed)",
+    "zh": "瀏覽動態 workflow 歷史（執行中和已完成）"
+  },
+  {
+    "en": "Claude in Chrome (beta) settings",
+    "zh": "Claude in Chrome（beta）設定"
+  },
+  {
+    "en": "Configure optional break reminders and quiet-hours nudges",
+    "zh": "設定可選的休息提醒和安靜時段提示"
+  },
+  {
+    "en": "Configure usage credits to keep working when you hit a limit",
+    "zh": "設定用量額度，達到限制後繼續工作"
+  },
+  {
+    "en": "Create, update, list, or run scheduled remote agents (routines) that execute on a cron schedule.",
+    "zh": "建立、更新、列出或執行按 cron 定時執行的遠端 agent（routine）。"
+  },
+  {
+    "en": "Detach from this background session (it keeps running)",
+    "zh": "從這個後臺工作階段斷開（工作階段會繼續執行）"
+  },
+  {
+    "en": "Dump the JS heap to ~/Desktop",
+    "zh": "將 JS heap 傾印至 ~/Desktop"
+  },
+  {
+    "en": "Exit the CLI",
+    "zh": "離開 CLI"
+  },
+  {
+    "en": "Free up context by summarizing the conversation so far",
+    "zh": "透過總結目前對話釋放上下文空間"
+  },
+  {
+    "en": "Install the Claude Slack app",
+    "zh": "安裝 Claude Slack 應用程式"
+  },
+  {
+    "en": "Launch and drive this project's app to see a change working.",
+    "zh": "啟動並操作這個專案的應用，確認改動實際生效。"
+  },
+  {
+    "en": "List, create, and delete recurring loops and stop-hooks",
+    "zh": "列出、建立和刪除迴圈任務與 stop-hook"
+  },
+  {
+    "en": "Listen to Claude FM lo-fi radio",
+    "zh": "收聽 Claude FM lo-fi radio"
+  },
+  {
+    "en": "Manage background services: assistants, scheduled tasks, and remote control",
+    "zh": "管理後臺服務：助手、計劃任務和遠端控制"
+  },
+  {
+    "en": "Monitor and autofix any issues with the current PR",
+    "zh": "監控並自動修復目前 PR 的問題"
+  },
+  {
+    "en": "Options shown when the Pro plan Claude Code trial has ended",
+    "zh": "Pro 計劃 Claude Code 試用結束時顯示的選項"
+  },
+  {
+    "en": "Pick up skills added or changed on disk during this session",
+    "zh": "載入本工作階段期間磁碟上新增或修改的 skills"
+  },
+  {
+    "en": "Reconfigure Amazon Bedrock authentication, region, or model pins",
+    "zh": "重新設定 Amazon Bedrock 認證、區域或模型固定"
+  },
+  {
+    "en": "Reconfigure Google Vertex AI authentication, project, region, or model pins",
+    "zh": "重新設定 Google Vertex AI 認證、專案、區域或模型固定"
+  },
+  {
+    "en": "Research and plan a large-scale change, then execute it in parallel across 5\\u201330 isolated worktree agents that each open a PR.",
+    "zh": "調研並規劃大規模改動，然後並行交給 5–30 個隔離 worktree agent 執行，每個都會開 PR。"
+  },
+  {
+    "en": "Renamed to /usage-credits",
+    "zh": "已重新命名為 /usage-credits"
+  },
+  {
+    "en": "Review the changed code for reuse, simplification, efficiency, and altitude cleanups, then apply the fixes. Quality only \\u2014 it does not hunt for bugs; use /code-review for that.",
+    "zh": "審查已修改程式碼的複用、簡化、效率和層級清理，然後應用修復。只做質量清理，不查 bug；查 bug 用 /code-review。"
+  },
+  {
+    "en": "Scan your transcripts for common read-only Bash and MCP tool calls, then add a prioritized allowlist to project .claude/settings.json to reduce permission prompts.",
+    "zh": "掃描你的 transcripts 中常見的唯讀 Bash 和 MCP 工具呼叫，然後把優先 allowlist 寫入專案 .claude/settings.json，減少權限確認。"
+  },
+  {
+    "en": "Session keeps running. Use /stop to end it.",
+    "zh": "工作階段會繼續執行。用 /stop 結束它。"
+  },
+  {
+    "en": "Set a goal \\u2014 keep working until the condition is met",
+    "zh": "設定目標：持續工作直到條件滿足"
+  },
+  {
+    "en": "Set the AI model for Claude Code",
+    "zh": "設定 Claude Code 使用的 AI 模型"
+  },
+  {
+    "en": "Set the terminal UI renderer (default | fullscreen)",
+    "zh": "設定終端 UI 渲染器（default | fullscreen）"
+  },
+  {
+    "en": "Show current context usage",
+    "zh": "顯示目前的上下文用量"
+  },
+  {
+    "en": "Show session cost, plan usage, and activity stats",
+    "zh": "顯示工作階段成本、計劃用量和活動統計"
+  },
+  {
+    "en": "Spawn a background agent that inherits the full conversation",
+    "zh": "啟動繼承完整對話的後臺 Agent"
+  },
+  {
+    "en": "Stop this background session; transcript and worktree are kept",
+    "zh": "停止這個後臺工作階段；保留 transcript 和 worktree"
+  },
+  {
+    "en": "Submit feedback, report a bug, or share your conversation",
+    "zh": "提交反饋、報告問題或分享你的對話"
+  },
+  {
+    "en": "Switch to the latest version (conversation continues)",
+    "zh": "切換到最新版本（對話繼續）"
+  },
+  {
+    "en": "Toggle automemory off/on for this session",
+    "zh": "切換本工作階段的 automemory 開/關"
+  },
+  {
+    "en": "Toggle brief-only mode",
+    "zh": "切換精簡模式"
+  },
+  {
+    "en": "Toggle focus view (show only your prompt, a tool summary, and the final response)",
+    "zh": "切換專注檢視（只顯示你的提示詞、工具摘要和最終回覆）"
+  },
+  {
+    "en": "Toggle voice mode",
+    "zh": "切換語音模式"
+  },
+  {
+    "en": "Let Claude consult a stronger model at key moments",
+    "zh": "讓 Claude 在關鍵時刻諮詢更強模型"
+  },
+  {
+    "en": "Set how full the context gets before auto-summarizing",
+    "zh": "設定觸發自動總結的上下文佔用閾值"
+  },
+  {
+    "en": "Plan a large change; background agents each open a PR",
+    "zh": "規劃大型改動；後臺 Agent 分別開 PR"
+  },
+  {
+    "en": "Build and debug apps that use the Claude API",
+    "zh": "構建並除錯使用 Claude API 的應用"
+  },
+  {
+    "en": "Let Claude browse and interact with pages in your Chrome",
+    "zh": "讓 Claude 在你的 Chrome 中瀏覽並操作網頁"
+  },
+  {
+    "en": "Open settings",
+    "zh": "開啟設定"
+  },
+  {
+    "en": "Manage background services and routines",
+    "zh": "管理後臺服務和計劃任務"
+  },
+  {
+    "en": "Turn on debug logging and investigate problems",
+    "zh": "開啟除錯日誌並排查問題"
+  },
+  {
+    "en": "Push your design system components to claude.ai/design",
+    "zh": "將你的設計系統元件推送到 claude.ai/design"
+  },
+  {
+    "en": "Pre-approve safe read-only commands based on your usage",
+    "zh": "根據你的使用記錄預先批准安全的唯讀命令"
+  },
+  {
+    "en": "Toggle focus view: just your prompt, summary, and response",
+    "zh": "切換專注檢視：僅顯示你的提示詞、摘要和回覆"
+  },
+  {
+    "en": "Set a goal Claude checks before stopping",
+    "zh": "設定 Claude 停止前檢查的目標"
+  },
+  {
+    "en": "Open your keyboard shortcuts file",
+    "zh": "開啟你的鍵盤快捷鍵檔案"
+  },
+  {
+    "en": "List, create, and delete loops",
+    "zh": "列出、建立和刪除迴圈任務"
+  },
+  {
+    "en": "Open a memory file in your editor",
+    "zh": "在編輯器中開啟 memory 檔案"
+  },
+  {
+    "en": "Manage allow and deny tool permission rules",
+    "zh": "管理工具權限的 allow / deny 規則"
+  },
+  {
+    "en": "Control this session from your phone or claude.ai/code",
+    "zh": "透過手機或 claude.ai/code 控制本工作階段"
+  },
+  {
+    "en": "Choose the default environment for cloud agents",
+    "zh": "選擇雲端 Agent 的預設環境"
+  },
+  {
+    "en": "Create and manage scheduled remote Claude Code agents",
+    "zh": "建立和管理定時執行的遠端 Claude Code Agent"
+  },
+  {
+    "en": "Create and manage routines: cloud agents on a schedule",
+    "zh": "建立和管理 routine：按計劃執行的雲端 Agent"
+  },
+  {
+    "en": "Launch this project\\u2019s app to see your change working",
+    "zh": "啟動此專案的應用，確認改動生效"
+  },
+  {
+    "en": "Create a skill that knows how to run this project\\u2019s app",
+    "zh": "建立一個知道如何執行此專案應用的 skill"
+  },
+  {
+    "en": "Clean up the changed code without changing behavior",
+    "zh": "在不改變行為的前提下清理已修改程式碼"
+  },
+  {
+    "en": "View and manage everything running in the background",
+    "zh": "檢視並管理所有後臺執行項"
+  },
+  {
+    "en": "Claude Code on the web drafts a plan you can edit and approve",
+    "zh": "Claude Code on the web 會起草可編輯、可批准的方案"
+  },
+  {
+    "en": "Find and verify bugs in your branch using Claude Code on the web",
+    "zh": "使用 Claude Code on the web 查詢並驗證目前分支中的 bug"
+  },
+  {
+    "en": "Show this session's version (autoupdate may have a newer one)",
+    "zh": "顯示目前工作階段版本（自動更新可能已有更新版本）"
+  },
+  {
+    "en": "Set up Claude Code on the web with your GitHub account",
+    "zh": "用你的 GitHub 賬號設定 Claude Code on the web"
+  },
+  {
+    "en": "Browse running and completed workflows",
+    "zh": "瀏覽執行中和已完成的 workflow"
+  },
+  {
+    "en": "Commit, push, and open a PR",
+    "zh": "Commit、push 並開啟 PR"
+  },
+  {
+    "en": "Change settings: hooks, permissions, environment variables",
+    "zh": "更改設定：Hook、權限和環境變數"
+  },
+  {
+    "en": "Repeat a prompt or command on an interval (e.g. /loop 5m /foo)",
+    "zh": "按間隔重複執行提示詞或命令（例如 /loop 5m /foo）"
+  },
+  {
+    "en": "Create a new Cowork plugin from scratch, or customize an installed plugin for a specific organization. Use when: customize plugin, set up plugin, configure plugin, tailor plugin, adjust plugin settings, customize plugin connectors, customize plugin skill, tweak plugin, modify plugin configuration, create a plugin, build a plugin, make a new plugin, develop a plugin, scaffold a plugin.",
+    "zh": "從零建立 Cowork 外掛，或為特定組織定製已安裝外掛。適用於：定製外掛、設定外掛、設定外掛、調整外掛設定、定製外掛 connector、定製外掛 skill、修改外掛設定、建立外掛、構建外掛、開發外掛或生成外掛腳手架。"
+  },
+  {
+    "en": "Push a React design system to claude.ai/design. This runs a converter that bundles the real component code (from Storybook or a bare package) and uploads it. Use when the user runs /design-sync or says \\\"sync my design system to Claude Design\\\".",
+    "zh": "將 React 設計系統推送到 claude.ai/design。此命令會執行轉換器，打包真實元件程式碼（來自 Storybook 或裸 package）並上傳。適用於使用者執行 /design-sync，或表示要將設計系統同步到 Claude Design 時。"
+  },
+  {
+    "en": "Reference for the Claude API / Anthropic SDK \\u2014 model ids, pricing, params, streaming, tool use, MCP, agents, caching, token counting, model migration.",
+    "zh": "Claude API / Anthropic SDK 參考：模型 ID、價格、引數、流式輸出、工具使用、MCP、agents、快取、token 計數和模型遷移。"
+  },
+  {
+    "en": "Launch and drive this project's app to see a change working. Use when asked to run, start, or screenshot the app, or to confirm a change works in the real app (not just tests). First looks for a project skill that already covers launching the app; otherwise falls back to built-in patterns per project type (CLI, server, TUI, Electron, browser-driven, library).",
+    "zh": "啟動並操作此專案的應用，確認改動實際生效。適用於使用者要求執行、啟動、截圖應用，或確認改動在真實應用中生效（不只是測試透過）時。會先查詢已覆蓋應用啟動的專案 skill；否則按專案型別（CLI、server、TUI、Electron、browser-driven、library）使用內建模式。"
+  },
+  {
+    "en": "Author or improve the run-<unit> skill \\u2014 a per-project skill that tells agents how to build, launch, and drive this project's app. Use when the user asks to set up the project, get it running, write run instructions, or verify build/run steps work from a clean environment.",
+    "zh": "編寫或改進 run-<unit> skill：這是一個專案級 skill，用來告訴 Agent 如何構建、啟動並操作此專案的應用。適用於使用者要求設定專案、讓專案跑起來、編寫執行說明，或驗證構建/執行步驟能否在乾淨環境中生效時。"
+  },
+  {
+    "en": "Verify that a code change actually does what it's supposed to by running the app and observing behavior. Use when asked to verify a PR, confirm a fix works, test a change manually, check that a feature works, or validate local changes before pushing.",
+    "zh": "透過執行應用並觀察行為，驗證程式碼改動是否真正達到預期。適用於使用者要求驗證 PR、確認修復生效、手動測試改動、檢查功能可用，或在推送前驗證本地改動時。"
+  },
+  {
+    "en": "Effort",
+    "zh": "思考強度"
+  },
+  {
+    "en": "Faster",
+    "zh": "更快"
+  },
+  {
+    "en": "Smarter",
+    "zh": "更強"
+  },
+  {
+    "en": "xhigh + workflows",
+    "zh": "xhigh + 工作流"
+  },
+  {
+    "en": "to adjust",
+    "zh": "調整"
+  },
+  {
+    "en": "to confirm",
+    "zh": "確認"
+  },
+  {
+    "en": "Usage: /effort [low|medium|high|xhigh|max${...}|auto] Effort levels: - low: Quick, straightforward implementation - medium: Balanced approach with standard testing - high: Comprehensive implementation with extensive testing - xhigh: Extended reasoning with thorough analysis (${...}) - max: Maximum capability with deepest reasoning (${...})",
+    "zh": "用法：/effort [low|medium|high|xhigh|max${...}|auto] 思考強度： - low：快速、直接的實現 - medium：均衡處理，包含常規測試 - high：更完整的實現和充分測試 - xhigh：擴充套件推理，做更徹底的分析（${...}） - max：最大能力，進行最深度推理（${...}）"
+  },
+  {
+    "en": "Effort levels:",
+    "zh": "思考強度："
+  },
+  {
+    "en": "Quick, straightforward implementation",
+    "zh": "快速、直接的實現"
+  },
+  {
+    "en": "Balanced approach with standard testing",
+    "zh": "均衡處理，包含常規測試"
+  },
+  {
+    "en": "Comprehensive implementation with extensive testing",
+    "zh": "更完整的實現和充分測試"
+  },
+  {
+    "en": "Extended reasoning with thorough analysis (${...})",
+    "zh": "擴充套件推理，做更徹底的分析（${...}）"
+  },
+  {
+    "en": "Extended reasoning with thorough analysis",
+    "zh": "擴充套件推理，做更徹底的分析"
+  },
+  {
+    "en": "Maximum capability with deepest reasoning (${...})",
+    "zh": "最大能力，進行最深度推理（${...}）"
+  },
+  {
+    "en": "Maximum capability with deepest reasoning",
+    "zh": "最大能力，進行最深度推理"
+  },
+  {
+    "en": "- ultracode: xhigh + dynamic workflow orchestration (this session only)",
+    "zh": "- ultracode：xhigh + 動態工作流編排（僅本次工作階段）"
+  },
+  {
+    "en": "- auto: Use the default effort level for your model",
+    "zh": "- auto：使用目前模型的預設思考強度"
+  },
+  {
+    "en": "Change effort level?",
+    "zh": "更改思考強度？"
+  },
+  {
+    "en": "Set effort level to ${...}${...}: ${...}${...}",
+    "zh": "將思考強度設為 ${...}${...}：${...}${...}"
+  },
+  {
+    "en": "Set effort level to ultracode (this session only): xhigh + dynamic workflow orchestration${...}",
+    "zh": "將思考強度設為 ultracode（僅本次工作階段）：xhigh + 動態工作流編排${...}"
+  },
+  {
+    "en": "Current effort level: ultracode (xhigh + dynamic workflow orchestration; this session only)",
+    "zh": "目前思考強度：ultracode（xhigh + 動態工作流編排；僅本次工作階段）"
+  },
+  {
+    "en": "Current effort level: ${...} (${...})",
+    "zh": "目前思考強度：${...}（${...}）"
+  },
+  {
+    "en": "Effort level: auto (currently ${...})",
+    "zh": "思考強度：auto（目前為 ${...}）"
+  },
+  {
+    "en": "Effort level set to auto${...}",
+    "zh": "思考強度已設為 auto${...}"
+  },
+  {
+    "en": "Kept effort level as ${...}",
+    "zh": "思考強度保持為 ${...}"
+  },
+  {
+    "en": "Failed to set effort level: ${...}",
+    "zh": "設定思考強度失敗：${...}"
+  },
+  {
+    "en": "Effort not supported",
+    "zh": "不支援思考強度"
+  },
+  {
+    "en": "controls how long Claude thinks before answering.",
+    "zh": "控制 Claude 回答前思考多久。"
+  },
+  {
+    "en": "for tricky bugs,",
+    "zh": "處理棘手 bug 時用"
+  },
+  {
+    "en": "when you just need a quick edit.",
+    "zh": "只需要快速修改時用。"
+  },
+  {
+    "en": "Quick, straightforward implementation with minimal overhead",
+    "zh": "快速、直接的實現，額外開銷最小"
+  },
+  {
+    "en": "Balanced approach with standard implementation and testing",
+    "zh": "均衡處理，包含標準實現和測試"
+  },
+  {
+    "en": "Comprehensive implementation with extensive testing and documentation",
+    "zh": "更完整的實現，包含充分測試和檔案"
+  },
+  {
+    "en": "Deeper reasoning than high, just below maximum (${...})",
+    "zh": "比 high 更深入的推理，僅次於 max（${...}）"
+  },
+  {
+    "en": "Maximum capability with deepest reasoning. ${...}",
+    "zh": "最大能力，進行最深度推理。${...}"
+  },
+  {
+    "en": "Dynamic workflows",
+    "zh": "動態工作流"
+  },
+  {
+    "en": "Dynamic workflow",
+    "zh": "動態工作流"
+  },
+  {
+    "en": "Loading dynamic workflow history\\u2026",
+    "zh": "正在載入動態工作流歷史…"
+  },
+  {
+    "en": "No dynamic workflows in this session.",
+    "zh": "本次工作階段還沒有動態工作流。"
+  },
+  {
+    "en": "Dynamic workflows dialog dismissed",
+    "zh": "已關閉動態工作流面板"
+  },
+  {
+    "en": "Review dynamic workflow before running",
+    "zh": "執行前檢視動態工作流"
+  },
+  {
+    "en": "Run a dynamic workflow?",
+    "zh": "執行動態工作流？"
+  },
+  {
+    "en": "View workflow summary",
+    "zh": "檢視工作流摘要"
+  },
+  {
+    "en": "View raw script",
+    "zh": "檢視原始指令碼"
+  },
+  {
+    "en": "Dynamic workflows can use a lot of tokens quickly by running many",
+    "zh": "動態工作流會並行執行多個子 Agent，可能快速消耗大量 token"
+  },
+  {
+    "en": "subagents in parallel \\u2014 which counts against your usage limit. Stop a",
+    "zh": "這些用量會計入你的使用限制。可以隨時停止"
+  },
+  {
+    "en": "running workflow at any time with /workflows, or disable dynamic workflows in /config.",
+    "zh": "正在執行的工作流：用 /workflows；也可以在 /config 中禁用動態工作流。"
+  },
+  {
+    "en": "Save dynamic workflow",
+    "zh": "儲存動態工作流"
+  },
+  {
+    "en": "Workflow script has a syntax error and was not launched:\n${...}",
+    "zh": "工作流指令碼存在語法錯誤，未啟動：\n${...}"
+  },
+  {
+    "en": "Workflow launched in a remote CCR session. Task ID: ${...}\nSession: ${...}\n",
+    "zh": "遠端 CCR 工作階段中的工作流已啟動。任務 ID：${...}\n工作階段：${...}\n"
+  },
+  {
+    "en": "The workflow runs against a fresh clone of the pushed branch; phase progress is visible at the session URL, not in /workflows. You will be notified when it completes.",
+    "zh": "工作流會在已推送分支的新克隆上執行；階段進度可在工作階段 URL 檢視，不在 /workflows 中顯示。完成後會通知你。"
+  },
+  {
+    "en": "Workflow launched in background. Task ID: ${...}${...}${...}${...}${...} You will be notified when it completes. Use /workflows to watch live progress.",
+    "zh": "工作流已在後臺啟動。任務 ID：${...}${...}${...}${...}${...} 完成後會通知你。用 /workflows 檢視實時進度。"
+  },
+  {
+    "en": "Workflow launched in background. Task ID: ",
+    "zh": "工作流已在後臺啟動。任務 ID："
+  },
+  {
+    "en": "You will be notified when it completes.",
+    "zh": "完成後會通知你。"
+  },
+  {
+    "en": "Use /workflows to watch live progress.",
+    "zh": "用 /workflows 檢視實時進度。"
+  },
+  {
+    "en": "\nSummary: ${...}",
+    "zh": "\n摘要：${...}"
+  },
+  {
+    "en": "Summary: ${...}\n",
+    "zh": "摘要：${...}\n"
+  },
+  {
+    "en": "Warning: ${...}\n",
+    "zh": "警告：${...}\n"
+  },
+  {
+    "en": "\nTranscript dir: ${...}",
+    "zh": "\ntranscript 目錄：${...}"
+  },
+  {
+    "en": "\nScript file: ${...}\n(Edit this file with Write/Edit and re-invoke Workflow with {scriptPath: \"${...}\"} to iterate without resending the script.)",
+    "zh": "\n指令碼檔案：${...}\n（可用 Write/Edit 編輯此檔案，然後用 Workflow({scriptPath: \"${...}\"}) 重新呼叫，無需重發指令碼。）"
+  },
+  {
+    "en": "\nRun ID: ${...}\nTo resume after editing the script: Workflow({scriptPath: \"${...}\", resumeFromRunId: \"${...}\"}) \\u2014 completed agents return cached results.",
+    "zh": "\n執行 ID：${...}\n編輯指令碼後如需繼續：Workflow({scriptPath: \"${...}\", resumeFromRunId: \"${...}\"})，已完成的 Agent 會複用快取結果。"
+  },
+  {
+    "en": "Dynamic workflow \"${...}\" completed",
+    "zh": "動態工作流 \"${...}\" 已完成"
+  },
+  {
+    "en": "Dynamic workflow \"${...}\" failed: ${...}",
+    "zh": "動態工作流 \"${...}\" 失敗：${...}"
+  },
+  {
+    "en": "Dynamic workflow \"${...}\" was stopped",
+    "zh": "動態工作流 \"${...}\" 已停止"
+  },
+  {
+    "en": "To resume after editing the script, call: Workflow({scriptPath: '${...}', resumeFromRunId: '${...}'${...}})",
+    "zh": "編輯指令碼後如需繼續，請呼叫：Workflow({scriptPath: '${...}', resumeFromRunId: '${...}'${...}})"
+  },
+  {
+    "en": "Resume the paused workflow by calling: Workflow({scriptPath: '${...}', resumeFromRunId: '${...}'${...}}) \\u2014 completed agents return cached results.",
+    "zh": "如需繼續暫停的工作流，請呼叫：Workflow({scriptPath: '${...}', resumeFromRunId: '${...}'${...}})，已完成的 Agent 會複用快取結果。"
+  },
+  {
+    "en": "Agent transcripts: ${...}",
+    "zh": "Agent 記錄：${...}"
+  },
+  {
+    "en": "Dynamic workflow saved to ${...}. Invoke as /${...} or Workflow({name: \"${...}\"}) in future sessions.",
+    "zh": "動態工作流已儲存到 ${...}。以後可用 /${...} 或 Workflow({name: \"${...}\"}) 呼叫。"
+  },
+  {
+    "en": "Dynamic workflow \"${...}\" already exists at ${...}. Use a different name or overwrite.",
+    "zh": "動態工作流 \"${...}\" 已存在於 ${...}。請使用其他名稱或覆蓋。"
+  },
+  {
+    "en": "${...} in progress",
+    "zh": "${...} 進行中"
+  },
+  {
+    "en": "${...} pending",
+    "zh": "${...} 待處理"
+  },
+  {
+    "en": "${...} completed",
+    "zh": "${...} 已完成"
+  },
+  {
+    "en": " tasks (",
+    "zh": " 個任務（"
+  },
+  {
+    "en": " done, ",
+    "zh": " 已完成，"
+  },
+  {
+    "en": " in progress, ",
+    "zh": " 進行中，"
+  },
+  {
+    "en": " open)",
+    "zh": " 未完成）"
+  },
+  {
+    "en": "x stop workflow",
+    "zh": "x 停止工作流"
+  },
+  {
+    "en": "to view dynamic workflow runs",
+    "zh": "檢視動態工作流執行"
+  },
+  {
+    "en": "Dynamic workflows are disabled by managed settings (`disableWorkflows`).",
+    "zh": "動態工作流已被託管設定（`disableWorkflows`）禁用。"
+  },
+  {
+    "en": "Dynamic workflows are not enabled for this session (org policy, launch gate, or the \"Dynamic workflows\" setting in /config).",
+    "zh": "本次工作階段未啟用動態工作流（可能是組織策略、釋出開關，或 /config 中的 \"動態工作流\" 設定）。"
+  },
+  {
+    "en": "Cancelled",
+    "zh": "已取消"
+  },
+  {
+    "en": "Dynamic workflow cancelled",
+    "zh": "動態工作流已取消"
+  },
+  {
+    "en": "Workflow \"${...}\" not found. Available: ${...}",
+    "zh": "未找到工作流 \"${...}\"。可用：${...}"
+  },
+  {
+    "en": "Workflow file conflict",
+    "zh": "工作流檔案衝突"
+  },
+  {
+    "en": "The file .github/workflows/claude.yml already exists",
+    "zh": "檔案 .github/workflows/claude.yml 已存在"
+  },
+  {
+    "en": "A Claude workflow file already exists at",
+    "zh": "Claude 工作流程檔案已存在於"
+  },
+  {
+    "en": "Check the health of your Claude Code installation. Reads settings files in the current directory without a trust prompt. For a full checkup that can also fix issues, run /doctor in a session.",
+    "zh": "檢查 Claude Code 安裝健康狀態。會讀取目前目錄中的設定檔且不觸發信任提示。要執行可修復問題的完整檢查，請在工作階段中執行 /doctor。"
+  },
+  {
+    "en": "Run the enterprise auth/telemetry gateway",
+    "zh": "執行企業認證/遙測閘道器"
+  },
+  {
+    "en": "Run eval cases (evals/**/case.yaml or evals/**/prompt.md + graders/*.md) against a plugin and report scored results. Target is a path, a plugin name, or a `plugin@marketplace` id — installed and skills-dir plugins both resolve (and add a no-plugin baseline arm)",
+    "zh": "針對外掛執行評測用例（evals/**/case.yaml 或 evals/**/prompt.md + graders/*.md），並報告評分結果。目標可以是路徑、外掛名或外掛市場 id；已安裝外掛和 skills-dir 外掛都會解析（並新增無外掛基線分支）"
+  },
+  {
+    "en": "Run eval cases (evals/**/case.yaml or evals/**/prompt.md + graders/*.md) against a plugin and report scored results.",
+    "zh": "針對外掛執行評測用例（evals/**/case.yaml 或 evals/**/prompt.md + graders/*.md），並報告評分結果。"
+  },
+  {
+    "en": "Target is a path, a plugin name, or a `plugin@marketplace` id \\u2014 installed and skills-dir plugins both resolve (and add a no-plugin baseline arm)",
+    "zh": "目標可以是路徑、外掛名或外掛市場 id；已安裝外掛和 skills-dir 外掛都會解析（並新增無外掛基線分支）"
+  },
+  {
+    "en": "2. Your workflow file was kept unchanged",
+    "zh": "2. 您的工作流程檔案維持不變"
+  },
+  {
+    "en": "Creating workflow files",
+    "zh": "正在建立工作流檔案"
+  },
+  {
+    "en": "Creating workflow file",
+    "zh": "正在建立工作流檔案"
+  },
+  {
+    "en": "Add Claude Code GitHub Workflow",
+    "zh": "新增 Claude Code GitHub 工作流"
+  }
+]
