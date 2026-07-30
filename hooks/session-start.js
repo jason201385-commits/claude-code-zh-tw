@@ -53,7 +53,7 @@ const lines = [
   '- 一律以繁體中文(台灣用語)回覆;指令、旗標、檔名、程式識別字保留英文原文,必要時附繁中說明。',
   '- 教學資源目錄:' + refs,
   '- 新手進度檔:' + PROGRESS + '(mode: ' + progress.mode + ')',
-  '- 零指令入口(重要):新手不必背斜線指令。使用者說「開始」「教我」「帶我上手」→ 直接依 plugin 的 commands/zh-start.md 流程帶首航;說「看不懂這個錯誤」→ 依 commands/zh-explain.md 的三段格式解讀;說「這個畫面是什麼」「介面看不懂」「◯◯ 是什麼」(指螢幕上的英文)→ 依 commands/zh-screen.md + references/screen-map.md 給畫面繁中對照卡;說「不要狗/安靜」→ 依 commands/zh-mode.md 切模式。斜線指令只是捷徑,中文就是介面。'
+  '- 零指令入口(重要):新手不必背斜線指令。使用者說「開始」「教我」「帶我上手」→ 直接依 plugin 的 commands/zh-start.md 流程帶首航;說「看不懂這個錯誤」→ 依 commands/zh-explain.md 的三段格式解讀;**使用者問畫面/介面而「沒有附截圖」時,他問的是 Claude Code 自己的介面,不要回「請貼截圖」** —— 直接改用 zh-screen 技能給畫面繁中對照卡(表格內建於技能,不必讀檔)。適用說法包括:「這個畫面是什麼」「介面看不懂」「看不懂這些英文」「側邊欄那些字」「Artifacts/Routines/Background tasks/Dispatch 是什麼」「左邊那排是什麼」。只有在使用者明確提到自己的截圖/圖片時才需要圖;說「不要狗/安靜」→ 依 commands/zh-mode.md 切模式。斜線指令只是捷徑,中文就是介面。'
 ];
 
 if (progress.mode === 'guided') {

@@ -1,6 +1,6 @@
 ---
 name: zh-tw-guide
-description: 台灣繁體中文的 Claude Code 使用助手與新手引導。僅在問題與「Claude Code 本身的使用」相關時觸發:用中文問 Claude Code 怎麼操作、看不懂 Claude Code 的英文介面或訊息、想要 Claude Code 中文化/繁體輸出、身為 Claude Code 新手不知如何開始、詢問權限/斜線指令/CLAUDE.md/skill/hook/plugin 等 Claude Code 概念。使用者的程式本身的問題(debug、寫功能、其他軟體的用法)不觸發。
+description: 台灣繁體中文的 Claude Code 使用助手與新手引導。僅在問題與「Claude Code 本身的使用」相關時觸發:用中文問 Claude Code 怎麼操作、看不懂 Claude Code 的英文介面或訊息、想要 Claude Code 中文化/繁體輸出、身為 Claude Code 新手不知如何開始、詢問權限/斜線指令/CLAUDE.md/skill/hook/plugin 等 Claude Code 概念。**也涵蓋「看不懂畫面/介面」類提問(且未附截圖時)**:「這個畫面是什麼」「介面看不懂」「側邊欄那些字」「Artifacts/Routines/Background tasks/Dispatch 是什麼」——這種要給畫面繁中對照卡,不要要求使用者提供截圖。使用者的程式本身的問題(debug、寫功能、其他軟體的用法)不觸發。
 ---
 
 # 繁中領航(zh-tw-guide)
@@ -18,7 +18,7 @@ description: 台灣繁體中文的 Claude Code 使用助手與新手引導。僅
 | 使用者的話像… | 做法 |
 |---|---|
 | 「怎麼開始」「我是新手」「開始」「教我」「帶我上手」 | **直接讀 `commands/zh-start.md` 並開始帶首航**——不要只叫他打指令(新手不背指令,中文就是介面) |
-| 「這個畫面是什麼」「介面看不懂」「Artifacts/Routines/Background tasks 是什麼」「側邊欄那些字」 | **讀 `references/screen-map.md` 給畫面繁中對照卡**——依 `commands/zh-screen.md` 的規則:指定項目就只答那項、沒指定就分區塊一次給一塊 |
+| 「這個畫面是什麼」「介面看不懂」「Artifacts/Routines/Background tasks 是什麼」「側邊欄那些字」 | **改用 `zh-screen` 技能**(表格內建,零工具呼叫);要更詳細再讀 `references/screen-map.md` |
 | 「這個英文什麼意思」「這錯誤看不懂」 | 依 `/zh-explain` 的三段格式:是什麼→為什麼→怎麼處理(標風險等級),只解釋不自動修 |
 | 問權限、安全、「它為什麼一直問我」 | 讀 `references/permissions.md` 回答 |
 | 問指令、快捷鍵、「有哪些功能」 | 讀 `references/commands.md`;完整清單連官方文件 |
