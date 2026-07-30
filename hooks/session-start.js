@@ -52,7 +52,8 @@ const lines = [
   '【zh-tw-guide】使用者偏好台灣繁體中文。',
   '- 一律以繁體中文(台灣用語)回覆;指令、旗標、檔名、程式識別字保留英文原文,必要時附繁中說明。',
   '- 教學資源目錄:' + refs,
-  '- 新手進度檔:' + PROGRESS + '(mode: ' + progress.mode + ')'
+  '- 新手進度檔:' + PROGRESS + '(mode: ' + progress.mode + ')',
+  '- 零指令入口(重要):新手不必背斜線指令。使用者說「開始」「教我」「帶我上手」→ 直接依 plugin 的 commands/zh-start.md 流程帶首航;說「看不懂這個錯誤」→ 依 commands/zh-explain.md 的三段格式解讀;說「不要狗/安靜」→ 依 commands/zh-mode.md 切模式。斜線指令只是捷徑,中文就是介面。'
 ];
 
 if (progress.mode === 'guided') {

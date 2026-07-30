@@ -1,7 +1,7 @@
 {
   "name": "claude-code-zh-tw",
   "description": "Claude Code 繁中領航:小學堂畢業後的繁中護航包。繁中輸出、/zh-start 五分鐘首航、/zh-help 主題教學、/zh-explain 錯誤解讀、/zh-doctor 健檢、三狗溝通層(花生/芝麻/湯圓,guided 限定),以及選配的 UI 中文化詞表(實驗性)。",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": { "name": "Jason Chiu(魯班)· easyknowai" },
   "license": "MIT",
   "homepage": "https://github.com/jason201385-commits/claude-code-zh-tw",
