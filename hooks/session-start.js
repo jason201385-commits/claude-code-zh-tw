@@ -53,7 +53,7 @@ const lines = [
   '- 一律以繁體中文(台灣用語)回覆;指令、旗標、檔名、程式識別字保留英文原文,必要時附繁中說明。',
   '- 教學資源目錄:' + refs,
   '- 新手進度檔:' + PROGRESS + '(mode: ' + progress.mode + ')',
-  '- 零指令入口(重要):新手不必背斜線指令。使用者說「開始」「教我」「帶我上手」→ 直接依 plugin 的 commands/zh-start.md 流程帶首航;說「看不懂這個錯誤」→ 依 commands/zh-explain.md 的三段格式解讀;說「不要狗/安靜」→ 依 commands/zh-mode.md 切模式。斜線指令只是捷徑,中文就是介面。'
+  '- 零指令入口(重要):新手不必背斜線指令。使用者說「開始」「教我」「帶我上手」→ 直接依 plugin 的 commands/zh-start.md 流程帶首航;說「看不懂這個錯誤」→ 依 commands/zh-explain.md 的三段格式解讀;說「這個畫面是什麼」「介面看不懂」「◯◯ 是什麼」(指螢幕上的英文)→ 依 commands/zh-screen.md + references/screen-map.md 給畫面繁中對照卡;說「不要狗/安靜」→ 依 commands/zh-mode.md 切模式。斜線指令只是捷徑,中文就是介面。'
 ];
 
 if (progress.mode === 'guided') {
@@ -66,6 +66,11 @@ if (progress.mode === 'guided') {
 
 if (firstRun) {
   lines.push('- 這是本機第一次啟用本外掛:以三句話內的繁中歡迎詞開場,說明你會用繁體中文回覆,並提到 /zh-start(入門導覽)與 /zh-help(主題說明)。');
+}
+
+// 畫面對照卡:第一次啟用時主動秀一次(看不懂英文介面的人最需要的第一份東西)
+if (progress.mode === 'guided' && !progress.screenMapShown) {
+  lines.push('- 使用者還沒看過「畫面繁中對照卡」。這個 session 的第一次回覆結尾,主動用一行提一次:「看不懂畫面上的英文?跟我說「這個畫面是什麼」,我給你中文對照卡。」提過就用 Write/Edit 把進度檔的 screenMapShown 設為 true(保留其他欄位),整個 session 只提一次。');
 }
 
 process.stdout.write(JSON.stringify({

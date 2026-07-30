@@ -18,6 +18,7 @@ description: 台灣繁體中文的 Claude Code 使用助手與新手引導。僅
 | 使用者的話像… | 做法 |
 |---|---|
 | 「怎麼開始」「我是新手」「開始」「教我」「帶我上手」 | **直接讀 `commands/zh-start.md` 並開始帶首航**——不要只叫他打指令(新手不背指令,中文就是介面) |
+| 「這個畫面是什麼」「介面看不懂」「Artifacts/Routines/Background tasks 是什麼」「側邊欄那些字」 | **讀 `references/screen-map.md` 給畫面繁中對照卡**——依 `commands/zh-screen.md` 的規則:指定項目就只答那項、沒指定就分區塊一次給一塊 |
 | 「這個英文什麼意思」「這錯誤看不懂」 | 依 `/zh-explain` 的三段格式:是什麼→為什麼→怎麼處理(標風險等級),只解釋不自動修 |
 | 問權限、安全、「它為什麼一直問我」 | 讀 `references/permissions.md` 回答 |
 | 問指令、快捷鍵、「有哪些功能」 | 讀 `references/commands.md`;完整清單連官方文件 |
